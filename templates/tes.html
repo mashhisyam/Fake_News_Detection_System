@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+  <title> News Detection System Using Sentiment Analysis</title>
+  <!-- <link rel="stylesheet" href="{{ url_for('static', filename='home.css') }}">> -->
+  <!-- <style>
+    .output{
+        color:#;
+    }
+  </style> -->
+</head>
+
+
+  <h1>
+    Fake News Detection System
+  </h1>
+
+  <p>Nama : {{value}}</p>
+
+  <form class="form" action="/document-similarity" method="POST">
+		<label for="input_string">Input String:</label>
+		<input type="text" name="input_string" id="input_string">
+		<input type="submit" value="Submit">
+	</form>
+  
+  <p>Output:</p>
+  <p class="output">{{ output_string }}</p>
+</html>

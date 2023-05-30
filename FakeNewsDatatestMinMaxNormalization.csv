@@ -1,0 +1,981 @@
+tanggal,judul,url,label,max,min,sentiment
+30-Oct-20,PKS Tak Setuju Ajakan Benci Produk Asing yang Digaungkan Jokowi,https://news.detik.com/berita/d-5481317/pks-tak-setuju-ajakan-benci-produk-asing-yang-digaungkan-jokowi?tag_from=wp_nhl_15,1,0.6,-1,-5
+21-Dec-20,"Sidang Berita Bohong, Jumhur Tuding Saksi Pelapor Orang Bayaran",https://news.detik.com/berita/d-5481313/sidang-berita-bohong-jumhur-tuding-saksi-pelapor-orang-bayaran?tag_from=wp_nhl_16,1,0.6,-1,-5
+10-Mar-21,"Mayat Pria Misterius Ditemukan di Sungai Purbalingga, Ini Ciri-cirinya",https://news.detik.com/berita-jawa-tengah/d-5481312/mayat-pria-misterius-ditemukan-di-sungai-purbalingga-ini-ciri-cirinya?tag_from=wp_nhl_17,1,0,-0.8,-4
+28-Dec-20,"Kasihan, Sapi Bunting di India Telan 71 Kg Sampah",https://news.detik.com/internasional/d-5481298/kasihan-sapi-bunting-di-india-telan-71-kg-sampah?tag_from=wp_nhl_20,1,0,-0.8,-4
+3-Jan-21,813 SD dan 199 SMP di Banyuwangi Mulai Sekolah Tatap Muka,https://news.detik.com/berita-jawa-timur/d-5481297/813-sd-dan-199-smp-di-banyuwangi-mulai-sekolah-tatap-muka?tag_from=wp_nhl_21,1,0.8,0,4
+21-Nov-20,Bocah di Kaltim yang Diterkam Jasadnya Ditemukan di Perut Buaya,https://news.detik.com/berita/d-5481296/bocah-di-kaltim-yang-diterkam-jasadnya-ditemukan-di-perut-buaya?tag_from=wp_nhl_22,1,0.8,-0.6,4
+30-Nov-20,Pria di Lolak Sulut Ditahan Usai Unggah Foto Menag Bermata Satu,https://news.detik.com/berita/d-5481293/pria-di-lolak-sulut-ditahan-usai-unggah-foto-menag-bermata-satu?tag_from=wp_nhl_23,1,0.6,0,3
+4-Mar-21,Referendum Perjanjian Perdagangan Bebas Swiss-RI Diprediksi Bakal Ketat,https://news.detik.com/dw/d-5481276/referendum-perjanjian-perdagangan-bebas-swiss-ri-diprediksi-bakal-ketat?tag_from=wp_nhl_26,1,0,-0.8,-4
+6-Mar-21,Polisi Ungkap Motif Pemuda Viral Curi Bra di Cakung: Butuh Kasih Sayang,https://news.detik.com/berita/d-5481271/polisi-ungkap-motif-pemuda-viral-curi-bra-di-cakung-butuh-kasih-sayang?tag_from=wp_nhl_28,1,0.8,-0.6,4
+6-Feb-21,"54 Tewas, PBB Serukan Militer Myanmar Berhenti Bunuh Demonstran",https://news.detik.com/internasional/d-5481268/54-tewas-pbb-serukan-militer-myanmar-berhenti-bunuh-demonstran?tag_from=wp_nhl_29,1,0,-0.6,-3
+14-Mar-21,"KBRI Yangon Berstatus Siaga II, Ini Imbauan Dubes untuk WNI di Myanmar",https://news.detik.com/berita/d-5481447/kbri-yangon-berstatus-siaga-ii-ini-imbauan-dubes-untuk-wni-di-myanmar,1,0.6,0,3
+13-Oct-20,"Makin Banyak Motor Serobot Jalur Sepeda Permanen, Wagub DKI Bicara Sanksi",https://news.detik.com/berita/d-5481446/makin-banyak-motor-serobot-jalur-sepeda-permanen-wagub-dki-bicara-sanksi,1,0.6,-0.6,0
+23-Feb-21,"Akun Twitter Di-hack Jadi Dukung KLB PD, Andi Arief Tuding Kakak Pembina",https://news.detik.com/berita/d-5481443/akun-twitter-di-hack-jadi-dukung-klb-pd-andi-arief-tuding-kakak-pembina,1,1,0,5
+2-Feb-21,"Jokowi: Kasus Aktif Corona di RI di Bawah Dunia, Positivity Rate Turun",https://news.detik.com/berita/d-5481413/jokowi-kasus-aktif-corona-di-ri-di-bawah-dunia-positivity-rate-turun,1,0.2,-0.8,-4
+1-Mar-21,Bupati Cirebon dan Charly Van Houten Jalani Vaksinasi Corona,https://news.detik.com/berita-jawa-barat/d-5481410/bupati-cirebon-dan-charly-van-houten-jalani-vaksinasi-corona,1,0,0,0
+9-Dec-20,Penampakan Robby Abbas yang Ditangkap Terkait Kasus Narkoba,https://news.detik.com/berita/d-5481408/penampakan-robby-abbas-yang-ditangkap-terkait-kasus-narkoba,1,0,-0.6,-3
+13-Mar-21,"Terdampak COVID-19, Angka Kemiskinan Jatim Naik 11%",https://news.detik.com/berita-jawa-timur/d-5481400/terdampak-covid-19-angka-kemiskinan-jatim-naik-11,1,0.6,-0.6,0
+18-Mar-21,Walkot Semarang Minta Jembatan Besi Sampangan Segera Difungsikan,https://news.detik.com/berita/d-5481371/walkot-semarang-minta-jembatan-besi-sampangan-segera-difungsikan,1,0.8,-1,-5
+31-Jan-21,"Jokowi: PPKM Mikro Tunjukkan Hasil Baik, Tren Kasus COVID-19 Terus Turun",https://news.detik.com/berita/d-5481393/jokowi-ppkm-mikro-tunjukkan-hasil-baik-tren-kasus-covid-19-terus-turun,1,0.6,-1,-5
+21-Oct-20,"Setahun Corona, Jokowi Ingatkan 3T-3M dan Bicara Ketersediaan Vaksin",https://news.detik.com/berita/d-5481392/setahun-corona-jokowi-ingatkan-3t-3m-dan-bicara-ketersediaan-vaksin,1,0,0,0
+4-Oct-20,Jokowi Minta Pemda Lebih Cepat Lakukan Vaksinasi Corona,https://news.detik.com/berita/d-5481389/jokowi-minta-pemda-lebih-cepat-lakukan-vaksinasi-corona,1,0.8,0,4
+6-Dec-20,Jokowi Minta Masyarakat Tak Khawatir soal Mutasi Corona B117,https://news.detik.com/berita/d-5481386/jokowi-minta-masyarakat-tak-khawatir-soal-mutasi-corona-b117,1,0.2,-0.8,-4
+17-Feb-21,13 Terdakwa 'Bola Sabu' Sukabumi Dituntut Hukuman Mati,https://news.detik.com/berita-jawa-barat/d-5481370/13-terdakwa-bola-sabu-sukabumi-dituntut-hukuman-mati,1,0,-0.8,-4
+26-Oct-20,Antisipasi Demo Buruh di DPR; Polisi Sekat Sejumlah Titik,https://news.detik.com/berita/d-5200006/antisipasi-demo-buruh-di-dpr-polisi-sekat-sejumlah-titik,1,0.2,-0.8,-4
+2-Nov-20,"Minta TNI Waspadai Komunis, Ahmad Dhani: PKI Dulu Melebur ke PDIP",https://news.detik.com/berita/d-5200003/minta-tni-waspadai-komunis-ahmad-dhani-pki-dulu-melebur-ke-pdip,1,0.2,0,1
+17-Nov-20,"Pekerja Hiburan Malam Demo Anies-DPRD DKI Siang Ini, Tuntut PSBB Dicabut",https://news.detik.com/berita/d-5200000/pekerja-hiburan-malam-demo-anies-dprd-dki-siang-ini-tuntut-psbb-dicabut,1,1,-1,0
+27-Jan-21,Dokter Terus Pantau Kondisi Paru-paru Trump Usai Terima Oksigen Tambahan,https://news.detik.com/internasional/d-5199999/dokter-terus-pantau-kondisi-paru-paru-trump-usai-terima-oksigen-tambahan,1,0.8,0,4
+31-Dec-20,"Kelelahan-Tak Bisa Jalan, Begini Kondisi 91 Warga Sumbar Tersesat di Hutan",https://news.detik.com/berita/d-5199998/kelelahan-tak-bisa-jalan-begini-kondisi-91-warga-sumbar-tersesat-di-hutan,1,0.8,0,4
+11-Mar-21,Polda Metro Siagakan 9.346 Personel Antisipasi Demo Buruh di DPR,https://news.detik.com/berita/d-5199996/polda-metro-siagakan-9346-personel-antisipasi-demo-buruh-di-dpr,1,0.2,-0.8,-4
+17-Jan-21,"Buruh Bakal Demo Tolak RUU Ciptaker, Ini 3 Catatan Pimpinan DPR",https://news.detik.com/berita/d-5199995/buruh-bakal-demo-tolak-ruu-ciptaker-ini-3-catatan-pimpinan-dpr,1,0,-0.8,-4
+7-Nov-20,"Gerindra: Kondisi Rachel Maryam Membaik, Sudah Belajar Menyusui",https://news.detik.com/berita/d-5199981/gerindra-kondisi-rachel-maryam-membaik-sudah-belajar-menyusui,1,0.6,0,3
+6-Feb-21,"Gempa M 5,1 Guncang Wanokaka NTT",https://news.detik.com/berita/d-5199980/gempa-m-51-guncang-wanokaka-ntt,1,0.6,-0.6,0
+23-Oct-20,"Cegah Klaster COVID-19, Masyarakat Harus Paham Potensi Penularan",https://news.detik.com/berita/d-5199977/cegah-klaster-covid-19-masyarakat-harus-paham-potensi-penularan,1,0.6,-0.8,-4
+22-Dec-20,"Kasus Jiwasraya, Benny Tjokro Dkk Dipanggil Jadi Saksi Tersangka Korporasi",https://news.detik.com/berita/d-5199974/kasus-jiwasraya-benny-tjokro-dkk-dipanggil-jadi-saksi-tersangka-korporasi,1,1,-1,0
+16-Jan-21,"Kasus Suap Paspor, PK Mantan Atase KBRI Kuala Lumpur Ditolak",https://news.detik.com/berita/d-5199972/kasus-suap-paspor-pk-mantan-atase-kbri-kuala-lumpur-ditolak,1,0.6,-1,-5
+25-Jan-21,Survei Spektrum Politika: Gerindra-Prabowo Masih Kuasai Sumbar,https://news.detik.com/berita/d-5199973/survei-spektrum-politika-gerindra-prabowo-masih-kuasai-sumbar,1,0,0,0
+28-Feb-21,"Ratusan Mahasiswa Kampus di Jaksel Positif Corona, Dibawa ke Wisma Atlet",https://news.detik.com/berita/d-5199954/ratusan-mahasiswa-kampus-di-jaksel-positif-corona-dibawa-ke-wisma-atlet,1,0.8,0,4
+15-Dec-20,77 Warga Sumbar yang Tersesat di Hutan Ditemukan Selamat,https://news.detik.com/berita/d-5199952/77-warga-sumbar-yang-tersesat-di-hutan-ditemukan-selamat,1,0.8,-0.6,4
+19-Feb-21,"Kebakaran Permukiman di Lahat, 81 Rumah Hangus-Korban Jiwa Nihil",https://news.detik.com/berita/d-5199950/kebakaran-permukiman-di-lahat-81-rumah-hangus-korban-jiwa-nihil,1,0.8,-0.6,4
+21-Mar-21,"Antisipasi Demo, Water Cannon-Barracuda Disiagakan di Sekitar DPR",https://news.detik.com/berita/d-5199948/antisipasi-demo-water-cannon-barracuda-disiagakan-di-sekitar-dpr,1,0.2,0,1
+18-Mar-21,Jokowi: Ubah Kebijakan Belanja Pertahanan Jadi Investasi Pertahanan,https://news.detik.com/berita/d-5199929/jokowi-ubah-kebijakan-belanja-pertahanan-jadi-investasi-pertahanan,1,1,0,5
+7-Oct-20,"Jokowi Anugerahi Bintang Militer ke 3 Anggota TNI AD, AL dan AU",https://news.detik.com/berita/d-5199928/jokowi-anugerahi-bintang-militer-ke-3-anggota-tni-ad-al-dan-au,1,0,-0.4,-2
+17-Oct-20,Jokowi Bicara Pertempuran Masa Depan dengan Daya Hancur yang Lebih Besar,https://news.detik.com/berita/d-5199926/jokowi-bicara-pertempuran-masa-depan-dengan-daya-hancur-yang-lebih-besar,1,0.6,-0.8,-4
+31-Oct-20,"Razia di Duri Kepa, Polisi Amankan 1 Unit Motor yang Ditinggal Kabur Pemiliknya",https://megapolitan.kompas.com/read/2020/10/04/23025951/razia-di-duri-kepa-polisi-amankan-1-unit-motor-yang-ditinggal-kabur,1,0,-0.8,-4
+4-Dec-20,Politisi Nasdem Akui Buruh Dirugikan dalam Pesangon di RUU Cipta Kerja,https://nasional.kompas.com/read/2020/10/04/22564421/politisi-nasdem-akui-buruh-dirugikan-dalam-pesangon-di-ruu-cipta-kerja,1,0.8,-0.8,0
+1-Dec-20,"Kumpulkan Massa, Polisi Bubarkan Lomba Burung di Kembangan",https://megapolitan.kompas.com/read/2020/10/04/22532441/kumpulkan-massa-polisi-bubarkan-lomba-burung-di-kembangan,1,0,0,0
+25-Nov-20,"Ditargetkan Rampung 2021, Pelabuhan Kali Adem Diklaim Bakal Lebih Besar dari Marina Ancol",https://megapolitan.kompas.com/read/2020/10/04/22521161/ditargetkan-rampung-2021-pelabuhan-kali-adem-diklaim-bakal-lebih-besar,1,0.6,-0.6,0
+31-Jan-21,"Jadi Epicentrum Covid, Kemenkes Siapkan Bogor Jadi Tempat Uji Coba Vaksin.",https://megapolitan.kompas.com/read/2020/10/04/22480491/jadi-epicentrum-covid-kemenkes-siapkan-bogor-jadi-tempat-uji-coba-vaksin,1,1,-0.6,5
+11-Dec-20,"Hendak Salip Kendaraan di Depannya, Perempuan Ini Tewas Ditabrak Lari",https://regional.kompas.com/read/2020/10/04/22395381/hendak-salip-kendaraan-di-depannya-perempuan-ini-tewas-ditabrak-lari,1,0.8,-1,-5
+10-Mar-21,Puluhan Rumah dan Satu Masjid di Lombok Utara Hangus Terbakar,https://regional.kompas.com/read/2020/10/04/22352981/puluhan-rumah-dan-satu-masjid-di-lombok-utara-hangus-terbakar,1,0.8,-0.6,4
+25-Jan-21,"Tiba-tiba Hilang di Hutan Saat Menggembala Kerbau, Pria Ini Dicari Ratusan Warga Desanya",https://regional.kompas.com/read/2020/10/04/22332531/tiba-tiba-hilang-di-hutan-saat-menggembala-kerbau-pria-ini-dicari-ratusan,1,0.8,-0.6,4
+24-Nov-20,Ketua MPR Minta TNI Perkuat Peran Penanganan Covid-19,https://nasional.kompas.com/read/2020/10/04/22301821/ketua-mpr-minta-tni-perkuat-peran-penanganan-covid-19,1,0.8,0,4
+20-Feb-21,"Bangun 300.000 Sumur Resapan hingga Pengerukan Sungai, Upaya Jakaarta Tangani Banjir",https://megapolitan.kompas.com/read/2020/10/04/22263921/bangun-300000-sumur-resapan-hingga-pengerukan-sungai-upaya-jakaarta,1,0.6,-0.8,-4
+17-Jan-21,Viral Video Bocah 5 Tahun Operasikan Eskavator untuk Bersihkan Puing Jembatan,https://regional.kompas.com/read/2020/10/04/22184941/viral-video-bocah-5-tahun-operasikan-eskavator-untuk-bersihkan-puing,1,0,-1,-5
+20-Nov-20,"Menyetir dalam Kondisi Mabuk, Pria Ini Tabrak Tukang Sayur hingga Tewas",https://regional.kompas.com/read/2020/10/04/22065291/menyetir-dalam-kondisi-mabuk-pria-ini-tabrak-tukang-sayur-hingga-tewas,1,0.8,-0.6,4
+23-Jan-21,Mahfud MD: Tak Ada Diskriminasi Umat Islam di Indonesia,https://nasional.kompas.com/read/2020/10/04/19025951/mahfud-md-tak-ada-diskriminasi-umat-islam-di-indonesia,1,0.8,-1,-5
+5-Dec-20,"Dibahas Kilat, Formappi Sebut RUU Cipta Kerja Pesanan Pihak Tertentu",https://nasional.kompas.com/read/2020/10/04/18405931/dibahas-kilat-formappi-sebut-ruu-cipta-kerja-pesanan-pihak-tertentu,1,0.2,-0.4,-2
+22-Nov-20,"75 Tahun TNI, Kontras Soroti Bentrokan dengan Polisi",https://nasional.kompas.com/read/2020/10/04/18195481/75-tahun-tni-kontras-soroti-bentrokan-dengan-polisi,1,0,-0.6,-3
+22-Oct-20,Erupsi Gunung Raung Terus Menurun Namun Statusnya Masih Waspada,https://news.detik.com/berita-jawa-timur/d-5481372/erupsi-gunung-raung-terus-menurun-namun-statusnya-masih-waspada?tag_from=wp_nhl_1,1,0.8,-0.4,4
+11-Mar-21,"Jokowi: 4,6 Juta Vaksin AstraZeneca Tiba di RI Maret",https://news.detik.com/berita/d-5481365/jokowi-46-juta-vaksin-astrazeneca-tiba-di-ri-maret?tag_from=wp_nhl_3,1,0.8,0,4
+9-Feb-21,Desa Kemiren Banyuwangi Dapat Sertifikasi Desa Pariwisata Berkelanjutan,https://news.detik.com/berita-jawa-timur/d-5481364/desa-kemiren-banyuwangi-dapat-sertifikasi-desa-pariwisata-berkelanjutan?tag_from=wp_nhl_4,1,0.6,0,3
+20-Nov-20,"Lewat Lapangan Olahraga, Walkot Semarang Optimalkan Resapan Air",https://news.detik.com/berita/d-5481368/lewat-lapangan-olahraga-walkot-semarang-optimalkan-resapan-air?tag_from=wp_nhl_7,1,0.6,0,3
+27-Nov-20,Penampakan Harta Karun Diduga dari Abad 17-PD II di Bawah Laut Sulsel,https://news.detik.com/foto-news/d-5481345/penampakan-harta-karun-diduga-dari-abad-17-pd-ii-di-bawah-laut-sulsel?tag_from=wp_nhl_8,1,0,-0.6,-3
+20-Jan-21,"Cek 71 Sampel, Satgas Belum Temukan Kasus Corona B117 di Jatim",https://news.detik.com/berita-jawa-timur/d-5481335/cek-71-sampel-satgas-belum-temukan-kasus-corona-b117-di-jatim?tag_from=wp_nhl_9,1,0,-1,-5
+15-Mar-21,Wagub Sulsel: Kelangsungan Proyek Tergantung Kebutuhan Masyarakat,https://news.detik.com/detiktv/d-5481339/wagub-sulsel-kelangsungan-proyek-tergantung-kebutuhan-masyarakat?tag_from=wp_nhl_10,1,0.8,-0.2,4
+12-Jan-21,Dubes RI Minta WNI yang Tak Berkepentingan untuk Tinggalkan Myanmar,https://news.detik.com/berita/d-5481333/dubes-ri-minta-wni-yang-tak-berkepentingan-untuk-tinggalkan-myanmar?tag_from=wp_nhl_11,1,0.2,-1,-5
+6-Dec-20,Ini Respons Pemprov Jatim soal Ditemukannya Corona B117 di Karawang,https://news.detik.com/berita-jawa-timur/d-5481332/ini-respons-pemprov-jatim-soal-ditemukannya-corona-b117-di-karawang?tag_from=wp_nhl_12,1,0.4,-0.8,-4
+4-Oct-20,"Wagub DKI: Tak Boleh Skateboard di Trotoar, Sudah Ada Tempat Disiapkan",https://news.detik.com/berita/d-5481329/wagub-dki-tak-boleh-skateboard-di-trotoar-sudah-ada-tempat-disiapkan?tag_from=wp_nhl_13,1,0.8,-0.6,4
+10-Nov-20,PKS Tak Setuju Ajakan Benci Produk Asing yang Digaungkan Jokowi,https://news.detik.com/berita/d-5481317/pks-tak-setuju-ajakan-benci-produk-asing-yang-digaungkan-jokowi?tag_from=wp_nhl_15,1,0.6,-1,-5
+4-Nov-20,"Mayat Pria Misterius Ditemukan di Sungai Purbalingga, Ini Ciri-cirinya",https://news.detik.com/berita-jawa-tengah/d-5481312/mayat-pria-misterius-ditemukan-di-sungai-purbalingga-ini-ciri-cirinya?tag_from=wp_nhl_17,1,0,-0.8,-4
+29-Oct-20,"Kasihan, Sapi Bunting di India Telan 71 Kg Sampah",https://news.detik.com/internasional/d-5481298/kasihan-sapi-bunting-di-india-telan-71-kg-sampah?tag_from=wp_nhl_20,1,0,-0.8,-4
+10-Jan-21,813 SD dan 199 SMP di Banyuwangi Mulai Sekolah Tatap Muka,https://news.detik.com/berita-jawa-timur/d-5481297/813-sd-dan-199-smp-di-banyuwangi-mulai-sekolah-tatap-muka?tag_from=wp_nhl_21,1,0.8,0,4
+13-Mar-21,Bocah di Kaltim yang Diterkam Jasadnya Ditemukan di Perut Buaya,https://news.detik.com/berita/d-5481296/bocah-di-kaltim-yang-diterkam-jasadnya-ditemukan-di-perut-buaya?tag_from=wp_nhl_22,1,0.8,-0.6,4
+23-Oct-20,Pria di Lolak Sulut Ditahan Usai Unggah Foto Menag Bermata Satu,https://news.detik.com/berita/d-5481293/pria-di-lolak-sulut-ditahan-usai-unggah-foto-menag-bermata-satu?tag_from=wp_nhl_23,1,0.6,0,3
+14-Jan-21,Referendum Perjanjian Perdagangan Bebas Swiss-RI Diprediksi Bakal Ketat,https://news.detik.com/dw/d-5481276/referendum-perjanjian-perdagangan-bebas-swiss-ri-diprediksi-bakal-ketat?tag_from=wp_nhl_26,1,0,-0.8,-4
+10-Oct-20,Polisi Ungkap Motif Pemuda Viral Curi Bra di Cakung: Butuh Kasih Sayang,https://news.detik.com/berita/d-5481271/polisi-ungkap-motif-pemuda-viral-curi-bra-di-cakung-butuh-kasih-sayang?tag_from=wp_nhl_28,1,0.8,-0.6,4
+27-Oct-20,"54 Tewas, PBB Serukan Militer Myanmar Berhenti Bunuh Demonstran",https://news.detik.com/internasional/d-5481268/54-tewas-pbb-serukan-militer-myanmar-berhenti-bunuh-demonstran?tag_from=wp_nhl_29,1,0,-0.6,-3
+6-Dec-20,"KBRI Yangon Berstatus Siaga II, Ini Imbauan Dubes untuk WNI di Myanmar",https://news.detik.com/berita/d-5481447/kbri-yangon-berstatus-siaga-ii-ini-imbauan-dubes-untuk-wni-di-myanmar,1,0.6,0,3
+24-Jan-21,"Makin Banyak Motor Serobot Jalur Sepeda Permanen, Wagub DKI Bicara Sanksi",https://news.detik.com/berita/d-5481446/makin-banyak-motor-serobot-jalur-sepeda-permanen-wagub-dki-bicara-sanksi,1,0.6,-0.6,0
+21-Dec-20,"Akun Twitter Di-hack Jadi Dukung KLB PD, Andi Arief Tuding Kakak Pembina",https://news.detik.com/berita/d-5481443/akun-twitter-di-hack-jadi-dukung-klb-pd-andi-arief-tuding-kakak-pembina,1,1,0,5
+24-Jan-21,"Jokowi: Kasus Aktif Corona di RI di Bawah Dunia, Positivity Rate Turun",https://news.detik.com/berita/d-5481413/jokowi-kasus-aktif-corona-di-ri-di-bawah-dunia-positivity-rate-turun,1,0.2,-0.8,-4
+12-Oct-20,Bupati Cirebon dan Charly Van Houten Jalani Vaksinasi Corona,https://news.detik.com/berita-jawa-barat/d-5481410/bupati-cirebon-dan-charly-van-houten-jalani-vaksinasi-corona,1,0,0,0
+23-Oct-20,Penampakan Robby Abbas yang Ditangkap Terkait Kasus Narkoba,https://news.detik.com/berita/d-5481408/penampakan-robby-abbas-yang-ditangkap-terkait-kasus-narkoba,1,0,-0.6,-3
+4-Feb-21,"Terdampak COVID-19, Angka Kemiskinan Jatim Naik 11%",https://news.detik.com/berita-jawa-timur/d-5481400/terdampak-covid-19-angka-kemiskinan-jatim-naik-11,1,0.6,-0.6,0
+9-Feb-21,Walkot Semarang Minta Jembatan Besi Sampangan Segera Difungsikan,https://news.detik.com/berita/d-5481371/walkot-semarang-minta-jembatan-besi-sampangan-segera-difungsikan,1,0.8,-1,-5
+21-Oct-20,"Jokowi: PPKM Mikro Tunjukkan Hasil Baik, Tren Kasus COVID-19 Terus Turun",https://news.detik.com/berita/d-5481393/jokowi-ppkm-mikro-tunjukkan-hasil-baik-tren-kasus-covid-19-terus-turun,1,0.6,-1,-5
+19-Dec-20,"Setahun Corona, Jokowi Ingatkan 3T-3M dan Bicara Ketersediaan Vaksin",https://news.detik.com/berita/d-5481392/setahun-corona-jokowi-ingatkan-3t-3m-dan-bicara-ketersediaan-vaksin,1,0,0,0
+12-Mar-21,Jokowi Minta Pemda Lebih Cepat Lakukan Vaksinasi Corona,https://news.detik.com/berita/d-5481389/jokowi-minta-pemda-lebih-cepat-lakukan-vaksinasi-corona,1,0.8,0,4
+14-Nov-20,Jokowi Minta Masyarakat Tak Khawatir soal Mutasi Corona B117,https://news.detik.com/berita/d-5481386/jokowi-minta-masyarakat-tak-khawatir-soal-mutasi-corona-b117,1,0.2,-0.8,-4
+30-Dec-20,13 Terdakwa 'Bola Sabu' Sukabumi Dituntut Hukuman Mati,https://news.detik.com/berita-jawa-barat/d-5481370/13-terdakwa-bola-sabu-sukabumi-dituntut-hukuman-mati,1,0,-0.8,-4
+9-Nov-20,"Minta TNI Waspadai Komunis, Ahmad Dhani: PKI Dulu Melebur ke PDIP",https://news.detik.com/berita/d-5200003/minta-tni-waspadai-komunis-ahmad-dhani-pki-dulu-melebur-ke-pdip,1,0.2,0,1
+3-Nov-20,"Pekerja Hiburan Malam Demo Anies-DPRD DKI Siang Ini, Tuntut PSBB Dicabut",https://news.detik.com/berita/d-5200000/pekerja-hiburan-malam-demo-anies-dprd-dki-siang-ini-tuntut-psbb-dicabut,1,1,-1,0
+21-Feb-21,Dokter Terus Pantau Kondisi Paru-paru Trump Usai Terima Oksigen Tambahan,https://news.detik.com/internasional/d-5199999/dokter-terus-pantau-kondisi-paru-paru-trump-usai-terima-oksigen-tambahan,1,0.8,0,4
+24-Oct-20,"Kelelahan-Tak Bisa Jalan, Begini Kondisi 91 Warga Sumbar Tersesat di Hutan",https://news.detik.com/berita/d-5199998/kelelahan-tak-bisa-jalan-begini-kondisi-91-warga-sumbar-tersesat-di-hutan,1,0.8,0,4
+23-Dec-20,Polda Metro Siagakan 9.346 Personel Antisipasi Demo Buruh di DPR,https://news.detik.com/berita/d-5199996/polda-metro-siagakan-9346-personel-antisipasi-demo-buruh-di-dpr,1,0.2,-0.8,-4
+26-Dec-20,"Buruh Bakal Demo Tolak RUU Ciptaker, Ini 3 Catatan Pimpinan DPR",https://news.detik.com/berita/d-5199995/buruh-bakal-demo-tolak-ruu-ciptaker-ini-3-catatan-pimpinan-dpr,1,0,-0.8,-4
+16-Mar-21,"Gerindra: Kondisi Rachel Maryam Membaik, Sudah Belajar Menyusui",https://news.detik.com/berita/d-5199981/gerindra-kondisi-rachel-maryam-membaik-sudah-belajar-menyusui,1,0.6,0,3
+5-Dec-20,"Gempa M 5,1 Guncang Wanokaka NTT",https://news.detik.com/berita/d-5199980/gempa-m-51-guncang-wanokaka-ntt,1,0.6,-0.6,0
+3-Feb-21,"Cegah Klaster COVID-19, Masyarakat Harus Paham Potensi Penularan",https://news.detik.com/berita/d-5199977/cegah-klaster-covid-19-masyarakat-harus-paham-potensi-penularan,1,0.6,-0.8,-4
+26-Feb-21,"Kasus Jiwasraya, Benny Tjokro Dkk Dipanggil Jadi Saksi Tersangka Korporasi",https://news.detik.com/berita/d-5199974/kasus-jiwasraya-benny-tjokro-dkk-dipanggil-jadi-saksi-tersangka-korporasi,1,1,-1,0
+31-Jan-21,"Kasus Suap Paspor, PK Mantan Atase KBRI Kuala Lumpur Ditolak",https://news.detik.com/berita/d-5199972/kasus-suap-paspor-pk-mantan-atase-kbri-kuala-lumpur-ditolak,1,0.6,-1,-5
+23-Oct-20,Survei Spektrum Politika: Gerindra-Prabowo Masih Kuasai Sumbar,https://news.detik.com/berita/d-5199973/survei-spektrum-politika-gerindra-prabowo-masih-kuasai-sumbar,1,0,0,0
+5-Nov-20,"Ratusan Mahasiswa Kampus di Jaksel Positif Corona, Dibawa ke Wisma Atlet",https://news.detik.com/berita/d-5199954/ratusan-mahasiswa-kampus-di-jaksel-positif-corona-dibawa-ke-wisma-atlet,1,0.8,0,4
+16-Dec-20,77 Warga Sumbar yang Tersesat di Hutan Ditemukan Selamat,https://news.detik.com/berita/d-5199952/77-warga-sumbar-yang-tersesat-di-hutan-ditemukan-selamat,1,0.8,-0.6,4
+20-Mar-21,"Kebakaran Permukiman di Lahat, 81 Rumah Hangus-Korban Jiwa Nihil",https://news.detik.com/berita/d-5199950/kebakaran-permukiman-di-lahat-81-rumah-hangus-korban-jiwa-nihil,1,0.8,-0.6,4
+25-Oct-20,"Antisipasi Demo, Water Cannon-Barracuda Disiagakan di Sekitar DPR",https://news.detik.com/berita/d-5199948/antisipasi-demo-water-cannon-barracuda-disiagakan-di-sekitar-dpr,1,0.2,0,1
+6-Oct-20,Jokowi: Ubah Kebijakan Belanja Pertahanan Jadi Investasi Pertahanan,https://news.detik.com/berita/d-5199929/jokowi-ubah-kebijakan-belanja-pertahanan-jadi-investasi-pertahanan,1,1,0,5
+5-Dec-20,"Jokowi Anugerahi Bintang Militer ke 3 Anggota TNI AD, AL dan AU",https://news.detik.com/berita/d-5199928/jokowi-anugerahi-bintang-militer-ke-3-anggota-tni-ad-al-dan-au,1,0,-0.4,-2
+2-Nov-20,Jokowi Bicara Pertempuran Masa Depan dengan Daya Hancur yang Lebih Besar,https://news.detik.com/berita/d-5199926/jokowi-bicara-pertempuran-masa-depan-dengan-daya-hancur-yang-lebih-besar,1,0.6,-0.8,-4
+9-Feb-21,"Razia di Duri Kepa, Polisi Amankan 1 Unit Motor yang Ditinggal Kabur Pemiliknya",https://megapolitan.kompas.com/read/2020/10/04/23025951/razia-di-duri-kepa-polisi-amankan-1-unit-motor-yang-ditinggal-kabur,1,0,-0.8,-4
+23-Oct-20,Politisi Nasdem Akui Buruh Dirugikan dalam Pesangon di RUU Cipta Kerja,https://nasional.kompas.com/read/2020/10/04/22564421/politisi-nasdem-akui-buruh-dirugikan-dalam-pesangon-di-ruu-cipta-kerja,1,0.8,-0.8,0
+24-Dec-20,"Kumpulkan Massa, Polisi Bubarkan Lomba Burung di Kembangan",https://megapolitan.kompas.com/read/2020/10/04/22532441/kumpulkan-massa-polisi-bubarkan-lomba-burung-di-kembangan,1,0,0,0
+1-Mar-21,"Ditargetkan Rampung 2021, Pelabuhan Kali Adem Diklaim Bakal Lebih Besar dari Marina Ancol",https://megapolitan.kompas.com/read/2020/10/04/22521161/ditargetkan-rampung-2021-pelabuhan-kali-adem-diklaim-bakal-lebih-besar,1,0.6,-0.6,0
+16-Dec-20,"Jadi Epicentrum Covid, Kemenkes Siapkan Bogor Jadi Tempat Uji Coba Vaksin.",https://megapolitan.kompas.com/read/2020/10/04/22480491/jadi-epicentrum-covid-kemenkes-siapkan-bogor-jadi-tempat-uji-coba-vaksin,1,1,-0.6,5
+24-Jan-21,"Hendak Salip Kendaraan di Depannya, Perempuan Ini Tewas Ditabrak Lari",https://regional.kompas.com/read/2020/10/04/22395381/hendak-salip-kendaraan-di-depannya-perempuan-ini-tewas-ditabrak-lari,1,0.8,-1,-5
+12-Mar-21,Puluhan Rumah dan Satu Masjid di Lombok Utara Hangus Terbakar,https://regional.kompas.com/read/2020/10/04/22352981/puluhan-rumah-dan-satu-masjid-di-lombok-utara-hangus-terbakar,1,0.8,-0.6,4
+18-Oct-20,"Tiba-tiba Hilang di Hutan Saat Menggembala Kerbau, Pria Ini Dicari Ratusan Warga Desanya",https://regional.kompas.com/read/2020/10/04/22332531/tiba-tiba-hilang-di-hutan-saat-menggembala-kerbau-pria-ini-dicari-ratusan,1,0.8,-0.6,4
+3-Nov-20,Ketua MPR Minta TNI Perkuat Peran Penanganan Covid-19,https://nasional.kompas.com/read/2020/10/04/22301821/ketua-mpr-minta-tni-perkuat-peran-penanganan-covid-19,1,0.8,0,4
+16-Jan-21,"Bangun 300.000 Sumur Resapan hingga Pengerukan Sungai, Upaya Jakaarta Tangani Banjir",https://megapolitan.kompas.com/read/2020/10/04/22263921/bangun-300000-sumur-resapan-hingga-pengerukan-sungai-upaya-jakaarta,1,0.6,-0.8,-4
+25-Oct-20,Viral Video Bocah 5 Tahun Operasikan Eskavator untuk Bersihkan Puing Jembatan,https://regional.kompas.com/read/2020/10/04/22184941/viral-video-bocah-5-tahun-operasikan-eskavator-untuk-bersihkan-puing,1,0,-1,-5
+11-Dec-20,"Menyetir dalam Kondisi Mabuk, Pria Ini Tabrak Tukang Sayur hingga Tewas",https://regional.kompas.com/read/2020/10/04/22065291/menyetir-dalam-kondisi-mabuk-pria-ini-tabrak-tukang-sayur-hingga-tewas,1,0.8,-0.6,4
+8-Oct-20,Mahfud MD: Tak Ada Diskriminasi Umat Islam di Indonesia,https://nasional.kompas.com/read/2020/10/04/19025951/mahfud-md-tak-ada-diskriminasi-umat-islam-di-indonesia,1,0.8,-1,-5
+9-Dec-20,"Dibahas Kilat, Formappi Sebut RUU Cipta Kerja Pesanan Pihak Tertentu",https://nasional.kompas.com/read/2020/10/04/18405931/dibahas-kilat-formappi-sebut-ruu-cipta-kerja-pesanan-pihak-tertentu,1,0.2,-0.4,-2
+23-Oct-20,"75 Tahun TNI, Kontras Soroti Bentrokan dengan Polisi",https://nasional.kompas.com/read/2020/10/04/18195481/75-tahun-tni-kontras-soroti-bentrokan-dengan-polisi,1,0,-0.6,-3
+1-Nov-20,Erupsi Gunung Raung Terus Menurun Namun Statusnya Masih Waspada,https://news.detik.com/berita-jawa-timur/d-5481372/erupsi-gunung-raung-terus-menurun-namun-statusnya-masih-waspada?tag_from=wp_nhl_1,1,0.8,-0.4,4
+20-Mar-21,"Jokowi: 4,6 Juta Vaksin AstraZeneca Tiba di RI Maret",https://news.detik.com/berita/d-5481365/jokowi-46-juta-vaksin-astrazeneca-tiba-di-ri-maret?tag_from=wp_nhl_3,1,0.8,0,4
+22-Feb-21,Desa Kemiren Banyuwangi Dapat Sertifikasi Desa Pariwisata Berkelanjutan,https://news.detik.com/berita-jawa-timur/d-5481364/desa-kemiren-banyuwangi-dapat-sertifikasi-desa-pariwisata-berkelanjutan?tag_from=wp_nhl_4,1,0.6,0,3
+8-Oct-20,"Lewat Lapangan Olahraga, Walkot Semarang Optimalkan Resapan Air",https://news.detik.com/berita/d-5481368/lewat-lapangan-olahraga-walkot-semarang-optimalkan-resapan-air?tag_from=wp_nhl_7,1,0.6,0,3
+25-Feb-21,Penampakan Harta Karun Diduga dari Abad 17-PD II di Bawah Laut Sulsel,https://news.detik.com/foto-news/d-5481345/penampakan-harta-karun-diduga-dari-abad-17-pd-ii-di-bawah-laut-sulsel?tag_from=wp_nhl_8,1,0,-0.6,-3
+2-Jan-21,"Cek 71 Sampel, Satgas Belum Temukan Kasus Corona B117 di Jatim",https://news.detik.com/berita-jawa-timur/d-5481335/cek-71-sampel-satgas-belum-temukan-kasus-corona-b117-di-jatim?tag_from=wp_nhl_9,1,0,-1,-5
+26-Nov-20,Wagub Sulsel: Kelangsungan Proyek Tergantung Kebutuhan Masyarakat,https://news.detik.com/detiktv/d-5481339/wagub-sulsel-kelangsungan-proyek-tergantung-kebutuhan-masyarakat?tag_from=wp_nhl_10,1,0.8,-0.2,4
+9-Dec-20,Dubes RI Minta WNI yang Tak Berkepentingan untuk Tinggalkan Myanmar,https://news.detik.com/berita/d-5481333/dubes-ri-minta-wni-yang-tak-berkepentingan-untuk-tinggalkan-myanmar?tag_from=wp_nhl_11,1,0.2,-1,-5
+25-Jan-21,Ini Respons Pemprov Jatim soal Ditemukannya Corona B117 di Karawang,https://news.detik.com/berita-jawa-timur/d-5481332/ini-respons-pemprov-jatim-soal-ditemukannya-corona-b117-di-karawang?tag_from=wp_nhl_12,1,0.4,-0.8,-4
+9-Nov-20,"Wagub DKI: Tak Boleh Skateboard di Trotoar, Sudah Ada Tempat Disiapkan",https://news.detik.com/berita/d-5481329/wagub-dki-tak-boleh-skateboard-di-trotoar-sudah-ada-tempat-disiapkan?tag_from=wp_nhl_13,1,0.8,-0.6,4
+3-Feb-21,PKS Tak Setuju Ajakan Benci Produk Asing yang Digaungkan Jokowi,https://news.detik.com/berita/d-5481317/pks-tak-setuju-ajakan-benci-produk-asing-yang-digaungkan-jokowi?tag_from=wp_nhl_15,1,0.6,-1,-5
+12-Feb-21,"Sidang Berita Bohong, Jumhur Tuding Saksi Pelapor Orang Bayaran",https://news.detik.com/berita/d-5481313/sidang-berita-bohong-jumhur-tuding-saksi-pelapor-orang-bayaran?tag_from=wp_nhl_16,1,0.6,-1,-5
+14-Nov-20,"Mayat Pria Misterius Ditemukan di Sungai Purbalingga, Ini Ciri-cirinya",https://news.detik.com/berita-jawa-tengah/d-5481312/mayat-pria-misterius-ditemukan-di-sungai-purbalingga-ini-ciri-cirinya?tag_from=wp_nhl_17,1,0,-0.8,-4
+1-Nov-20,"Kasihan, Sapi Bunting di India Telan 71 Kg Sampah",https://news.detik.com/internasional/d-5481298/kasihan-sapi-bunting-di-india-telan-71-kg-sampah?tag_from=wp_nhl_20,1,0,-0.8,-4
+26-Dec-20,813 SD dan 199 SMP di Banyuwangi Mulai Sekolah Tatap Muka,https://news.detik.com/berita-jawa-timur/d-5481297/813-sd-dan-199-smp-di-banyuwangi-mulai-sekolah-tatap-muka?tag_from=wp_nhl_21,1,0.8,0,4
+8-Nov-20,Bocah di Kaltim yang Diterkam Jasadnya Ditemukan di Perut Buaya,https://news.detik.com/berita/d-5481296/bocah-di-kaltim-yang-diterkam-jasadnya-ditemukan-di-perut-buaya?tag_from=wp_nhl_22,1,0.8,-0.6,4
+11-Nov-20,Pria di Lolak Sulut Ditahan Usai Unggah Foto Menag Bermata Satu,https://news.detik.com/berita/d-5481293/pria-di-lolak-sulut-ditahan-usai-unggah-foto-menag-bermata-satu?tag_from=wp_nhl_23,1,0.6,0,3
+2-Nov-20,Referendum Perjanjian Perdagangan Bebas Swiss-RI Diprediksi Bakal Ketat,https://news.detik.com/dw/d-5481276/referendum-perjanjian-perdagangan-bebas-swiss-ri-diprediksi-bakal-ketat?tag_from=wp_nhl_26,1,0,-0.8,-4
+4-Jan-21,Polisi Ungkap Motif Pemuda Viral Curi Bra di Cakung: Butuh Kasih Sayang,https://news.detik.com/berita/d-5481271/polisi-ungkap-motif-pemuda-viral-curi-bra-di-cakung-butuh-kasih-sayang?tag_from=wp_nhl_28,1,0.8,-0.6,4
+29-Jan-21,"54 Tewas, PBB Serukan Militer Myanmar Berhenti Bunuh Demonstran",https://news.detik.com/internasional/d-5481268/54-tewas-pbb-serukan-militer-myanmar-berhenti-bunuh-demonstran?tag_from=wp_nhl_29,1,0,-0.6,-3
+25-Nov-20,"KBRI Yangon Berstatus Siaga II, Ini Imbauan Dubes untuk WNI di Myanmar",https://news.detik.com/berita/d-5481447/kbri-yangon-berstatus-siaga-ii-ini-imbauan-dubes-untuk-wni-di-myanmar,1,0.6,0,3
+1-Jan-21,"Makin Banyak Motor Serobot Jalur Sepeda Permanen, Wagub DKI Bicara Sanksi",https://news.detik.com/berita/d-5481446/makin-banyak-motor-serobot-jalur-sepeda-permanen-wagub-dki-bicara-sanksi,1,0.6,-0.6,0
+1-Nov-20,"Akun Twitter Di-hack Jadi Dukung KLB PD, Andi Arief Tuding Kakak Pembina",https://news.detik.com/berita/d-5481443/akun-twitter-di-hack-jadi-dukung-klb-pd-andi-arief-tuding-kakak-pembina,1,1,0,5
+31-Oct-20,"Jokowi: Kasus Aktif Corona di RI di Bawah Dunia, Positivity Rate Turun",https://news.detik.com/berita/d-5481413/jokowi-kasus-aktif-corona-di-ri-di-bawah-dunia-positivity-rate-turun,1,0.2,-0.8,-4
+16-Dec-20,Bupati Cirebon dan Charly Van Houten Jalani Vaksinasi Corona,https://news.detik.com/berita-jawa-barat/d-5481410/bupati-cirebon-dan-charly-van-houten-jalani-vaksinasi-corona,1,0,0,0
+2-Nov-20,Penampakan Robby Abbas yang Ditangkap Terkait Kasus Narkoba,https://news.detik.com/berita/d-5481408/penampakan-robby-abbas-yang-ditangkap-terkait-kasus-narkoba,1,0,-0.6,-3
+29-Dec-20,"Terdampak COVID-19, Angka Kemiskinan Jatim Naik 11%",https://news.detik.com/berita-jawa-timur/d-5481400/terdampak-covid-19-angka-kemiskinan-jatim-naik-11,1,0.6,-0.6,0
+2-Jan-21,Walkot Semarang Minta Jembatan Besi Sampangan Segera Difungsikan,https://news.detik.com/berita/d-5481371/walkot-semarang-minta-jembatan-besi-sampangan-segera-difungsikan,1,0.8,-1,-5
+23-Nov-20,"Jokowi: PPKM Mikro Tunjukkan Hasil Baik, Tren Kasus COVID-19 Terus Turun",https://news.detik.com/berita/d-5481393/jokowi-ppkm-mikro-tunjukkan-hasil-baik-tren-kasus-covid-19-terus-turun,1,0.6,-1,-5
+21-Mar-21,"Setahun Corona, Jokowi Ingatkan 3T-3M dan Bicara Ketersediaan Vaksin",https://news.detik.com/berita/d-5481392/setahun-corona-jokowi-ingatkan-3t-3m-dan-bicara-ketersediaan-vaksin,1,0,0,0
+20-Jan-21,Jokowi Minta Pemda Lebih Cepat Lakukan Vaksinasi Corona,https://news.detik.com/berita/d-5481389/jokowi-minta-pemda-lebih-cepat-lakukan-vaksinasi-corona,1,0.8,0,4
+30-Jan-21,Jokowi Minta Masyarakat Tak Khawatir soal Mutasi Corona B117,https://news.detik.com/berita/d-5481386/jokowi-minta-masyarakat-tak-khawatir-soal-mutasi-corona-b117,1,0.2,-0.8,-4
+24-Dec-20,13 Terdakwa 'Bola Sabu' Sukabumi Dituntut Hukuman Mati,https://news.detik.com/berita-jawa-barat/d-5481370/13-terdakwa-bola-sabu-sukabumi-dituntut-hukuman-mati,1,0,-0.8,-4
+15-Dec-20,"Minta TNI Waspadai Komunis, Ahmad Dhani: PKI Dulu Melebur ke PDIP",https://news.detik.com/berita/d-5200003/minta-tni-waspadai-komunis-ahmad-dhani-pki-dulu-melebur-ke-pdip,1,0.2,0,1
+3-Feb-21,"Pekerja Hiburan Malam Demo Anies-DPRD DKI Siang Ini, Tuntut PSBB Dicabut",https://news.detik.com/berita/d-5200000/pekerja-hiburan-malam-demo-anies-dprd-dki-siang-ini-tuntut-psbb-dicabut,1,1,-1,0
+15-Jan-21,Dokter Terus Pantau Kondisi Paru-paru Trump Usai Terima Oksigen Tambahan,https://news.detik.com/internasional/d-5199999/dokter-terus-pantau-kondisi-paru-paru-trump-usai-terima-oksigen-tambahan,1,0.8,0,4
+12-Oct-20,"Kelelahan-Tak Bisa Jalan, Begini Kondisi 91 Warga Sumbar Tersesat di Hutan",https://news.detik.com/berita/d-5199998/kelelahan-tak-bisa-jalan-begini-kondisi-91-warga-sumbar-tersesat-di-hutan,1,0.8,0,4
+29-Nov-20,Polda Metro Siagakan 9.346 Personel Antisipasi Demo Buruh di DPR,https://news.detik.com/berita/d-5199996/polda-metro-siagakan-9346-personel-antisipasi-demo-buruh-di-dpr,1,0.2,-0.8,-4
+30-Dec-20,"Buruh Bakal Demo Tolak RUU Ciptaker, Ini 3 Catatan Pimpinan DPR",https://news.detik.com/berita/d-5199995/buruh-bakal-demo-tolak-ruu-ciptaker-ini-3-catatan-pimpinan-dpr,1,0,-0.8,-4
+9-Jan-21,"Gerindra: Kondisi Rachel Maryam Membaik, Sudah Belajar Menyusui",https://news.detik.com/berita/d-5199981/gerindra-kondisi-rachel-maryam-membaik-sudah-belajar-menyusui,1,0.6,0,3
+16-Jan-21,"Gempa M 5,1 Guncang Wanokaka NTT",https://news.detik.com/berita/d-5199980/gempa-m-51-guncang-wanokaka-ntt,1,0.6,-0.6,0
+2-Feb-21,"Cegah Klaster COVID-19, Masyarakat Harus Paham Potensi Penularan",https://news.detik.com/berita/d-5199977/cegah-klaster-covid-19-masyarakat-harus-paham-potensi-penularan,1,0.6,-0.8,-4
+20-Dec-20,"Kasus Jiwasraya, Benny Tjokro Dkk Dipanggil Jadi Saksi Tersangka Korporasi",https://news.detik.com/berita/d-5199974/kasus-jiwasraya-benny-tjokro-dkk-dipanggil-jadi-saksi-tersangka-korporasi,1,1,-1,0
+18-Oct-20,"Kasus Suap Paspor, PK Mantan Atase KBRI Kuala Lumpur Ditolak",https://news.detik.com/berita/d-5199972/kasus-suap-paspor-pk-mantan-atase-kbri-kuala-lumpur-ditolak,1,0.6,-1,-5
+10-Feb-21,Survei Spektrum Politika: Gerindra-Prabowo Masih Kuasai Sumbar,https://news.detik.com/berita/d-5199973/survei-spektrum-politika-gerindra-prabowo-masih-kuasai-sumbar,1,0,0,0
+6-Jan-21,"Ratusan Mahasiswa Kampus di Jaksel Positif Corona, Dibawa ke Wisma Atlet",https://news.detik.com/berita/d-5199954/ratusan-mahasiswa-kampus-di-jaksel-positif-corona-dibawa-ke-wisma-atlet,1,0.8,0,4
+19-Nov-20,77 Warga Sumbar yang Tersesat di Hutan Ditemukan Selamat,https://news.detik.com/berita/d-5199952/77-warga-sumbar-yang-tersesat-di-hutan-ditemukan-selamat,1,0.8,-0.6,4
+25-Oct-20,"Kebakaran Permukiman di Lahat, 81 Rumah Hangus-Korban Jiwa Nihil",https://news.detik.com/berita/d-5199950/kebakaran-permukiman-di-lahat-81-rumah-hangus-korban-jiwa-nihil,1,0.8,-0.6,4
+3-Mar-21,"Antisipasi Demo, Water Cannon-Barracuda Disiagakan di Sekitar DPR",https://news.detik.com/berita/d-5199948/antisipasi-demo-water-cannon-barracuda-disiagakan-di-sekitar-dpr,1,0.2,0,1
+21-Nov-20,Jokowi: Ubah Kebijakan Belanja Pertahanan Jadi Investasi Pertahanan,https://news.detik.com/berita/d-5199929/jokowi-ubah-kebijakan-belanja-pertahanan-jadi-investasi-pertahanan,1,1,0,5
+3-Nov-20,"Jokowi Anugerahi Bintang Militer ke 3 Anggota TNI AD, AL dan AU",https://news.detik.com/berita/d-5199928/jokowi-anugerahi-bintang-militer-ke-3-anggota-tni-ad-al-dan-au,1,0,-0.4,-2
+10-Nov-20,Jokowi Bicara Pertempuran Masa Depan dengan Daya Hancur yang Lebih Besar,https://news.detik.com/berita/d-5199926/jokowi-bicara-pertempuran-masa-depan-dengan-daya-hancur-yang-lebih-besar,1,0.6,-0.8,-4
+13-Jan-21,"Razia di Duri Kepa, Polisi Amankan 1 Unit Motor yang Ditinggal Kabur Pemiliknya",https://megapolitan.kompas.com/read/2020/10/04/23025951/razia-di-duri-kepa-polisi-amankan-1-unit-motor-yang-ditinggal-kabur,1,0,-0.8,-4
+28-Nov-20,Politisi Nasdem Akui Buruh Dirugikan dalam Pesangon di RUU Cipta Kerja,https://nasional.kompas.com/read/2020/10/04/22564421/politisi-nasdem-akui-buruh-dirugikan-dalam-pesangon-di-ruu-cipta-kerja,1,0.8,-0.8,0
+15-Dec-20,"Kumpulkan Massa, Polisi Bubarkan Lomba Burung di Kembangan",https://megapolitan.kompas.com/read/2020/10/04/22532441/kumpulkan-massa-polisi-bubarkan-lomba-burung-di-kembangan,1,0,0,0
+13-Feb-21,"Ditargetkan Rampung 2021, Pelabuhan Kali Adem Diklaim Bakal Lebih Besar dari Marina Ancol",https://megapolitan.kompas.com/read/2020/10/04/22521161/ditargetkan-rampung-2021-pelabuhan-kali-adem-diklaim-bakal-lebih-besar,1,0.6,-0.6,0
+17-Mar-21,"Jadi Epicentrum Covid, Kemenkes Siapkan Bogor Jadi Tempat Uji Coba Vaksin.",https://megapolitan.kompas.com/read/2020/10/04/22480491/jadi-epicentrum-covid-kemenkes-siapkan-bogor-jadi-tempat-uji-coba-vaksin,1,1,-0.6,5
+13-Nov-20,"Hendak Salip Kendaraan di Depannya, Perempuan Ini Tewas Ditabrak Lari",https://regional.kompas.com/read/2020/10/04/22395381/hendak-salip-kendaraan-di-depannya-perempuan-ini-tewas-ditabrak-lari,1,0.8,-1,-5
+24-Jan-21,Puluhan Rumah dan Satu Masjid di Lombok Utara Hangus Terbakar,https://regional.kompas.com/read/2020/10/04/22352981/puluhan-rumah-dan-satu-masjid-di-lombok-utara-hangus-terbakar,1,0.8,-0.6,4
+20-Mar-21,"Tiba-tiba Hilang di Hutan Saat Menggembala Kerbau, Pria Ini Dicari Ratusan Warga Desanya",https://regional.kompas.com/read/2020/10/04/22332531/tiba-tiba-hilang-di-hutan-saat-menggembala-kerbau-pria-ini-dicari-ratusan,1,0.8,-0.6,4
+23-Nov-20,Ketua MPR Minta TNI Perkuat Peran Penanganan Covid-19,https://nasional.kompas.com/read/2020/10/04/22301821/ketua-mpr-minta-tni-perkuat-peran-penanganan-covid-19,1,0.8,0,4
+13-Nov-20,"Bangun 300.000 Sumur Resapan hingga Pengerukan Sungai, Upaya Jakaarta Tangani Banjir",https://megapolitan.kompas.com/read/2020/10/04/22263921/bangun-300000-sumur-resapan-hingga-pengerukan-sungai-upaya-jakaarta,1,0.6,-0.8,-4
+11-Jan-21,Viral Video Bocah 5 Tahun Operasikan Eskavator untuk Bersihkan Puing Jembatan,https://regional.kompas.com/read/2020/10/04/22184941/viral-video-bocah-5-tahun-operasikan-eskavator-untuk-bersihkan-puing,1,0,-1,-5
+19-Feb-21,"Menyetir dalam Kondisi Mabuk, Pria Ini Tabrak Tukang Sayur hingga Tewas",https://regional.kompas.com/read/2020/10/04/22065291/menyetir-dalam-kondisi-mabuk-pria-ini-tabrak-tukang-sayur-hingga-tewas,1,0.8,-0.6,4
+6-Feb-21,Mahfud MD: Tak Ada Diskriminasi Umat Islam di Indonesia,https://nasional.kompas.com/read/2020/10/04/19025951/mahfud-md-tak-ada-diskriminasi-umat-islam-di-indonesia,1,0.8,-1,-5
+18-Dec-20,"Dibahas Kilat, Formappi Sebut RUU Cipta Kerja Pesanan Pihak Tertentu",https://nasional.kompas.com/read/2020/10/04/18405931/dibahas-kilat-formappi-sebut-ruu-cipta-kerja-pesanan-pihak-tertentu,1,0.2,-0.4,-2
+18-Oct-20,"75 Tahun TNI, Kontras Soroti Bentrokan dengan Polisi",https://nasional.kompas.com/read/2020/10/04/18195481/75-tahun-tni-kontras-soroti-bentrokan-dengan-polisi,1,0,-0.6,-3
+21-Dec-20,Erupsi Gunung Raung Terus Menurun Namun Statusnya Masih Waspada,https://news.detik.com/berita-jawa-timur/d-5481372/erupsi-gunung-raung-terus-menurun-namun-statusnya-masih-waspada?tag_from=wp_nhl_1,1,0.8,-0.4,4
+31-Dec-20,"Jokowi: 4,6 Juta Vaksin AstraZeneca Tiba di RI Maret",https://news.detik.com/berita/d-5481365/jokowi-46-juta-vaksin-astrazeneca-tiba-di-ri-maret?tag_from=wp_nhl_3,1,0.8,0,4
+3-Jan-21,Desa Kemiren Banyuwangi Dapat Sertifikasi Desa Pariwisata Berkelanjutan,https://news.detik.com/berita-jawa-timur/d-5481364/desa-kemiren-banyuwangi-dapat-sertifikasi-desa-pariwisata-berkelanjutan?tag_from=wp_nhl_4,1,0.6,0,3
+6-Nov-20,"Lewat Lapangan Olahraga, Walkot Semarang Optimalkan Resapan Air",https://news.detik.com/berita/d-5481368/lewat-lapangan-olahraga-walkot-semarang-optimalkan-resapan-air?tag_from=wp_nhl_7,1,0.6,0,3
+6-Feb-21,Penampakan Harta Karun Diduga dari Abad 17-PD II di Bawah Laut Sulsel,https://news.detik.com/foto-news/d-5481345/penampakan-harta-karun-diduga-dari-abad-17-pd-ii-di-bawah-laut-sulsel?tag_from=wp_nhl_8,1,0,-0.6,-3
+7-Mar-21,Wagub Sulsel: Kelangsungan Proyek Tergantung Kebutuhan Masyarakat,https://news.detik.com/detiktv/d-5481339/wagub-sulsel-kelangsungan-proyek-tergantung-kebutuhan-masyarakat?tag_from=wp_nhl_10,1,0.8,-0.2,4
+3-Mar-21,Dubes RI Minta WNI yang Tak Berkepentingan untuk Tinggalkan Myanmar,https://news.detik.com/berita/d-5481333/dubes-ri-minta-wni-yang-tak-berkepentingan-untuk-tinggalkan-myanmar?tag_from=wp_nhl_11,1,0.2,-1,-5
+26-Dec-20,Ini Respons Pemprov Jatim soal Ditemukannya Corona B117 di Karawang,https://news.detik.com/berita-jawa-timur/d-5481332/ini-respons-pemprov-jatim-soal-ditemukannya-corona-b117-di-karawang?tag_from=wp_nhl_12,1,0.4,-0.8,-4
+23-Oct-20,"Wagub DKI: Tak Boleh Skateboard di Trotoar, Sudah Ada Tempat Disiapkan",https://news.detik.com/berita/d-5481329/wagub-dki-tak-boleh-skateboard-di-trotoar-sudah-ada-tempat-disiapkan?tag_from=wp_nhl_13,1,0.8,-0.6,4
+5-Feb-21,PKS Tak Setuju Ajakan Benci Produk Asing yang Digaungkan Jokowi,https://news.detik.com/berita/d-5481317/pks-tak-setuju-ajakan-benci-produk-asing-yang-digaungkan-jokowi?tag_from=wp_nhl_15,1,0.6,-1,-5
+9-Oct-20,"Sidang Berita Bohong, Jumhur Tuding Saksi Pelapor Orang Bayaran",https://news.detik.com/berita/d-5481313/sidang-berita-bohong-jumhur-tuding-saksi-pelapor-orang-bayaran?tag_from=wp_nhl_16,1,0.6,-1,-5
+25-Dec-20,"Mayat Pria Misterius Ditemukan di Sungai Purbalingga, Ini Ciri-cirinya",https://news.detik.com/berita-jawa-tengah/d-5481312/mayat-pria-misterius-ditemukan-di-sungai-purbalingga-ini-ciri-cirinya?tag_from=wp_nhl_17,1,0,-0.8,-4
+26-Jan-21,"Kasihan, Sapi Bunting di India Telan 71 Kg Sampah",https://news.detik.com/internasional/d-5481298/kasihan-sapi-bunting-di-india-telan-71-kg-sampah?tag_from=wp_nhl_20,1,0,-0.8,-4
+23-Dec-20,813 SD dan 199 SMP di Banyuwangi Mulai Sekolah Tatap Muka,https://news.detik.com/berita-jawa-timur/d-5481297/813-sd-dan-199-smp-di-banyuwangi-mulai-sekolah-tatap-muka?tag_from=wp_nhl_21,1,0.8,0,4
+27-Jan-21,Bocah di Kaltim yang Diterkam Jasadnya Ditemukan di Perut Buaya,https://news.detik.com/berita/d-5481296/bocah-di-kaltim-yang-diterkam-jasadnya-ditemukan-di-perut-buaya?tag_from=wp_nhl_22,1,0.8,-0.6,4
+13-Nov-20,Pria di Lolak Sulut Ditahan Usai Unggah Foto Menag Bermata Satu,https://news.detik.com/berita/d-5481293/pria-di-lolak-sulut-ditahan-usai-unggah-foto-menag-bermata-satu?tag_from=wp_nhl_23,1,0.6,0,3
+22-Oct-20,Referendum Perjanjian Perdagangan Bebas Swiss-RI Diprediksi Bakal Ketat,https://news.detik.com/dw/d-5481276/referendum-perjanjian-perdagangan-bebas-swiss-ri-diprediksi-bakal-ketat?tag_from=wp_nhl_26,1,0,-0.8,-4
+13-Dec-20,Polisi Ungkap Motif Pemuda Viral Curi Bra di Cakung: Butuh Kasih Sayang,https://news.detik.com/berita/d-5481271/polisi-ungkap-motif-pemuda-viral-curi-bra-di-cakung-butuh-kasih-sayang?tag_from=wp_nhl_28,1,0.8,-0.6,4
+15-Feb-21,"54 Tewas, PBB Serukan Militer Myanmar Berhenti Bunuh Demonstran",https://news.detik.com/internasional/d-5481268/54-tewas-pbb-serukan-militer-myanmar-berhenti-bunuh-demonstran?tag_from=wp_nhl_29,1,0,-0.6,-3
+20-Oct-20,"Makin Banyak Motor Serobot Jalur Sepeda Permanen, Wagub DKI Bicara Sanksi",https://news.detik.com/berita/d-5481446/makin-banyak-motor-serobot-jalur-sepeda-permanen-wagub-dki-bicara-sanksi,1,0.6,-0.6,0
+11-Dec-20,"Akun Twitter Di-hack Jadi Dukung KLB PD, Andi Arief Tuding Kakak Pembina",https://news.detik.com/berita/d-5481443/akun-twitter-di-hack-jadi-dukung-klb-pd-andi-arief-tuding-kakak-pembina,1,1,0,5
+16-Mar-21,"Jokowi: Kasus Aktif Corona di RI di Bawah Dunia, Positivity Rate Turun",https://news.detik.com/berita/d-5481413/jokowi-kasus-aktif-corona-di-ri-di-bawah-dunia-positivity-rate-turun,1,0.2,-0.8,-4
+23-Oct-20,Bupati Cirebon dan Charly Van Houten Jalani Vaksinasi Corona,https://news.detik.com/berita-jawa-barat/d-5481410/bupati-cirebon-dan-charly-van-houten-jalani-vaksinasi-corona,1,0,0,0
+18-Dec-20,Penampakan Robby Abbas yang Ditangkap Terkait Kasus Narkoba,https://news.detik.com/berita/d-5481408/penampakan-robby-abbas-yang-ditangkap-terkait-kasus-narkoba,1,0,-0.6,-3
+19-Dec-20,"Terdampak COVID-19, Angka Kemiskinan Jatim Naik 11%",https://news.detik.com/berita-jawa-timur/d-5481400/terdampak-covid-19-angka-kemiskinan-jatim-naik-11,1,0.6,-0.6,0
+2-Nov-20,Walkot Semarang Minta Jembatan Besi Sampangan Segera Difungsikan,https://news.detik.com/berita/d-5481371/walkot-semarang-minta-jembatan-besi-sampangan-segera-difungsikan,1,0.8,-1,-5
+17-Oct-20,"Jokowi: PPKM Mikro Tunjukkan Hasil Baik, Tren Kasus COVID-19 Terus Turun",https://news.detik.com/berita/d-5481393/jokowi-ppkm-mikro-tunjukkan-hasil-baik-tren-kasus-covid-19-terus-turun,1,0.6,-1,-5
+10-Nov-20,"Setahun Corona, Jokowi Ingatkan 3T-3M dan Bicara Ketersediaan Vaksin",https://news.detik.com/berita/d-5481392/setahun-corona-jokowi-ingatkan-3t-3m-dan-bicara-ketersediaan-vaksin,1,0,0,0
+20-Nov-20,Jokowi Minta Pemda Lebih Cepat Lakukan Vaksinasi Corona,https://news.detik.com/berita/d-5481389/jokowi-minta-pemda-lebih-cepat-lakukan-vaksinasi-corona,1,0.8,0,4
+2-Dec-20,Jokowi Minta Masyarakat Tak Khawatir soal Mutasi Corona B117,https://news.detik.com/berita/d-5481386/jokowi-minta-masyarakat-tak-khawatir-soal-mutasi-corona-b117,1,0.2,-0.8,-4
+28-Nov-20,13 Terdakwa 'Bola Sabu' Sukabumi Dituntut Hukuman Mati,https://news.detik.com/berita-jawa-barat/d-5481370/13-terdakwa-bola-sabu-sukabumi-dituntut-hukuman-mati,1,0,-0.8,-4
+5-Nov-20,"Minta TNI Waspadai Komunis, Ahmad Dhani: PKI Dulu Melebur ke PDIP",https://news.detik.com/berita/d-5200003/minta-tni-waspadai-komunis-ahmad-dhani-pki-dulu-melebur-ke-pdip,1,0.2,0,1
+6-Jan-21,"Pekerja Hiburan Malam Demo Anies-DPRD DKI Siang Ini, Tuntut PSBB Dicabut",https://news.detik.com/berita/d-5200000/pekerja-hiburan-malam-demo-anies-dprd-dki-siang-ini-tuntut-psbb-dicabut,1,1,-1,0
+28-Oct-20,Dokter Terus Pantau Kondisi Paru-paru Trump Usai Terima Oksigen Tambahan,https://news.detik.com/internasional/d-5199999/dokter-terus-pantau-kondisi-paru-paru-trump-usai-terima-oksigen-tambahan,1,0.8,0,4
+4-Jan-21,"Kelelahan-Tak Bisa Jalan, Begini Kondisi 91 Warga Sumbar Tersesat di Hutan",https://news.detik.com/berita/d-5199998/kelelahan-tak-bisa-jalan-begini-kondisi-91-warga-sumbar-tersesat-di-hutan,1,0.8,0,4
+15-Mar-21,Polda Metro Siagakan 9.346 Personel Antisipasi Demo Buruh di DPR,https://news.detik.com/berita/d-5199996/polda-metro-siagakan-9346-personel-antisipasi-demo-buruh-di-dpr,1,0.2,-0.8,-4
+25-Feb-21,"Buruh Bakal Demo Tolak RUU Ciptaker, Ini 3 Catatan Pimpinan DPR",https://news.detik.com/berita/d-5199995/buruh-bakal-demo-tolak-ruu-ciptaker-ini-3-catatan-pimpinan-dpr,1,0,-0.8,-4
+16-Oct-20,"Gerindra: Kondisi Rachel Maryam Membaik, Sudah Belajar Menyusui",https://news.detik.com/berita/d-5199981/gerindra-kondisi-rachel-maryam-membaik-sudah-belajar-menyusui,1,0.6,0,3
+10-Feb-21,"Gempa M 5,1 Guncang Wanokaka NTT",https://news.detik.com/berita/d-5199980/gempa-m-51-guncang-wanokaka-ntt,1,0.6,-0.6,0
+2-Mar-21,"Cegah Klaster COVID-19, Masyarakat Harus Paham Potensi Penularan",https://news.detik.com/berita/d-5199977/cegah-klaster-covid-19-masyarakat-harus-paham-potensi-penularan,1,0.6,-0.8,-4
+7-Mar-21,"Kasus Jiwasraya, Benny Tjokro Dkk Dipanggil Jadi Saksi Tersangka Korporasi",https://news.detik.com/berita/d-5199974/kasus-jiwasraya-benny-tjokro-dkk-dipanggil-jadi-saksi-tersangka-korporasi,1,1,-1,0
+10-Jan-21,"Kasus Suap Paspor, PK Mantan Atase KBRI Kuala Lumpur Ditolak",https://news.detik.com/berita/d-5199972/kasus-suap-paspor-pk-mantan-atase-kbri-kuala-lumpur-ditolak,1,0.6,-1,-5
+19-Feb-21,Survei Spektrum Politika: Gerindra-Prabowo Masih Kuasai Sumbar,https://news.detik.com/berita/d-5199973/survei-spektrum-politika-gerindra-prabowo-masih-kuasai-sumbar,1,0,0,0
+24-Jan-21,77 Warga Sumbar yang Tersesat di Hutan Ditemukan Selamat,https://news.detik.com/berita/d-5199952/77-warga-sumbar-yang-tersesat-di-hutan-ditemukan-selamat,1,0.8,-0.6,4
+14-Jan-21,"Kebakaran Permukiman di Lahat, 81 Rumah Hangus-Korban Jiwa Nihil",https://news.detik.com/berita/d-5199950/kebakaran-permukiman-di-lahat-81-rumah-hangus-korban-jiwa-nihil,1,0.8,-0.6,4
+6-Oct-20,"Antisipasi Demo, Water Cannon-Barracuda Disiagakan di Sekitar DPR",https://news.detik.com/berita/d-5199948/antisipasi-demo-water-cannon-barracuda-disiagakan-di-sekitar-dpr,1,0.2,0,1
+22-Jan-21,Jokowi: Ubah Kebijakan Belanja Pertahanan Jadi Investasi Pertahanan,https://news.detik.com/berita/d-5199929/jokowi-ubah-kebijakan-belanja-pertahanan-jadi-investasi-pertahanan,1,1,0,5
+26-Oct-20,"Jokowi Anugerahi Bintang Militer ke 3 Anggota TNI AD, AL dan AU",https://news.detik.com/berita/d-5199928/jokowi-anugerahi-bintang-militer-ke-3-anggota-tni-ad-al-dan-au,1,0,-0.4,-2
+11-Oct-20,Jokowi Bicara Pertempuran Masa Depan dengan Daya Hancur yang Lebih Besar,https://news.detik.com/berita/d-5199926/jokowi-bicara-pertempuran-masa-depan-dengan-daya-hancur-yang-lebih-besar,1,0.6,-0.8,-4
+1-Jan-21,"Razia di Duri Kepa, Polisi Amankan 1 Unit Motor yang Ditinggal Kabur Pemiliknya",https://megapolitan.kompas.com/read/2020/10/04/23025951/razia-di-duri-kepa-polisi-amankan-1-unit-motor-yang-ditinggal-kabur,1,0,-0.8,-4
+3-Jan-21,Politisi Nasdem Akui Buruh Dirugikan dalam Pesangon di RUU Cipta Kerja,https://nasional.kompas.com/read/2020/10/04/22564421/politisi-nasdem-akui-buruh-dirugikan-dalam-pesangon-di-ruu-cipta-kerja,1,0.8,-0.8,0
+13-Oct-20,"Kumpulkan Massa, Polisi Bubarkan Lomba Burung di Kembangan",https://megapolitan.kompas.com/read/2020/10/04/22532441/kumpulkan-massa-polisi-bubarkan-lomba-burung-di-kembangan,1,0,0,0
+17-Oct-20,"Ditargetkan Rampung 2021, Pelabuhan Kali Adem Diklaim Bakal Lebih Besar dari Marina Ancol",https://megapolitan.kompas.com/read/2020/10/04/22521161/ditargetkan-rampung-2021-pelabuhan-kali-adem-diklaim-bakal-lebih-besar,1,0.6,-0.6,0
+20-Mar-21,"Jadi Epicentrum Covid, Kemenkes Siapkan Bogor Jadi Tempat Uji Coba Vaksin.",https://megapolitan.kompas.com/read/2020/10/04/22480491/jadi-epicentrum-covid-kemenkes-siapkan-bogor-jadi-tempat-uji-coba-vaksin,1,1,-0.6,5
+18-Feb-21,"Hendak Salip Kendaraan di Depannya, Perempuan Ini Tewas Ditabrak Lari",https://regional.kompas.com/read/2020/10/04/22395381/hendak-salip-kendaraan-di-depannya-perempuan-ini-tewas-ditabrak-lari,1,0.8,-1,-5
+7-Dec-20,Puluhan Rumah dan Satu Masjid di Lombok Utara Hangus Terbakar,https://regional.kompas.com/read/2020/10/04/22352981/puluhan-rumah-dan-satu-masjid-di-lombok-utara-hangus-terbakar,1,0.8,-0.6,4
+5-Feb-21,"Tiba-tiba Hilang di Hutan Saat Menggembala Kerbau, Pria Ini Dicari Ratusan Warga Desanya",https://regional.kompas.com/read/2020/10/04/22332531/tiba-tiba-hilang-di-hutan-saat-menggembala-kerbau-pria-ini-dicari-ratusan,1,0.8,-0.6,4
+18-Mar-21,Ketua MPR Minta TNI Perkuat Peran Penanganan Covid-19,https://nasional.kompas.com/read/2020/10/04/22301821/ketua-mpr-minta-tni-perkuat-peran-penanganan-covid-19,1,0.8,0,4
+9-Nov-20,"Bangun 300.000 Sumur Resapan hingga Pengerukan Sungai, Upaya Jakaarta Tangani Banjir",https://megapolitan.kompas.com/read/2020/10/04/22263921/bangun-300000-sumur-resapan-hingga-pengerukan-sungai-upaya-jakaarta,1,0.6,-0.8,-4
+9-Dec-20,Viral Video Bocah 5 Tahun Operasikan Eskavator untuk Bersihkan Puing Jembatan,https://regional.kompas.com/read/2020/10/04/22184941/viral-video-bocah-5-tahun-operasikan-eskavator-untuk-bersihkan-puing,1,0,-1,-5
+5-Dec-20,"Menyetir dalam Kondisi Mabuk, Pria Ini Tabrak Tukang Sayur hingga Tewas",https://regional.kompas.com/read/2020/10/04/22065291/menyetir-dalam-kondisi-mabuk-pria-ini-tabrak-tukang-sayur-hingga-tewas,1,0.8,-0.6,4
+14-Mar-21,Mahfud MD: Tak Ada Diskriminasi Umat Islam di Indonesia,https://nasional.kompas.com/read/2020/10/04/19025951/mahfud-md-tak-ada-diskriminasi-umat-islam-di-indonesia,1,0.8,-1,-5
+8-Oct-20,"Dibahas Kilat, Formappi Sebut RUU Cipta Kerja Pesanan Pihak Tertentu",https://nasional.kompas.com/read/2020/10/04/18405931/dibahas-kilat-formappi-sebut-ruu-cipta-kerja-pesanan-pihak-tertentu,1,0.2,-0.4,-2
+30-Jan-21,"75 Tahun TNI, Kontras Soroti Bentrokan dengan Polisi",https://nasional.kompas.com/read/2020/10/04/18195481/75-tahun-tni-kontras-soroti-bentrokan-dengan-polisi,1,0,-0.6,-3
+4-Oct-20,Erupsi Gunung Raung Terus Menurun Namun Statusnya Masih Waspada,https://news.detik.com/berita-jawa-timur/d-5481372/erupsi-gunung-raung-terus-menurun-namun-statusnya-masih-waspada?tag_from=wp_nhl_1,1,0.8,-0.4,4
+30-Jan-21,"Jokowi: 4,6 Juta Vaksin AstraZeneca Tiba di RI Maret",https://news.detik.com/berita/d-5481365/jokowi-46-juta-vaksin-astrazeneca-tiba-di-ri-maret?tag_from=wp_nhl_3,1,0.8,0,4
+9-Oct-20,Desa Kemiren Banyuwangi Dapat Sertifikasi Desa Pariwisata Berkelanjutan,https://news.detik.com/berita-jawa-timur/d-5481364/desa-kemiren-banyuwangi-dapat-sertifikasi-desa-pariwisata-berkelanjutan?tag_from=wp_nhl_4,1,0.6,0,3
+19-Nov-20,"Lewat Lapangan Olahraga, Walkot Semarang Optimalkan Resapan Air",https://news.detik.com/berita/d-5481368/lewat-lapangan-olahraga-walkot-semarang-optimalkan-resapan-air?tag_from=wp_nhl_7,1,0.6,0,3
+14-Mar-21,Penampakan Harta Karun Diduga dari Abad 17-PD II di Bawah Laut Sulsel,https://news.detik.com/foto-news/d-5481345/penampakan-harta-karun-diduga-dari-abad-17-pd-ii-di-bawah-laut-sulsel?tag_from=wp_nhl_8,1,0,-0.6,-3
+20-Mar-21,"Cek 71 Sampel, Satgas Belum Temukan Kasus Corona B117 di Jatim",https://news.detik.com/berita-jawa-timur/d-5481335/cek-71-sampel-satgas-belum-temukan-kasus-corona-b117-di-jatim?tag_from=wp_nhl_9,1,0,-1,-5
+9-Dec-20,Wagub Sulsel: Kelangsungan Proyek Tergantung Kebutuhan Masyarakat,https://news.detik.com/detiktv/d-5481339/wagub-sulsel-kelangsungan-proyek-tergantung-kebutuhan-masyarakat?tag_from=wp_nhl_10,1,0.8,-0.2,4
+13-Dec-20,Dubes RI Minta WNI yang Tak Berkepentingan untuk Tinggalkan Myanmar,https://news.detik.com/berita/d-5481333/dubes-ri-minta-wni-yang-tak-berkepentingan-untuk-tinggalkan-myanmar?tag_from=wp_nhl_11,1,0.2,-1,-5
+26-Jan-21,Ini Respons Pemprov Jatim soal Ditemukannya Corona B117 di Karawang,https://news.detik.com/berita-jawa-timur/d-5481332/ini-respons-pemprov-jatim-soal-ditemukannya-corona-b117-di-karawang?tag_from=wp_nhl_12,1,0.4,-0.8,-4
+8-Oct-20,"Wagub DKI: Tak Boleh Skateboard di Trotoar, Sudah Ada Tempat Disiapkan",https://news.detik.com/berita/d-5481329/wagub-dki-tak-boleh-skateboard-di-trotoar-sudah-ada-tempat-disiapkan?tag_from=wp_nhl_13,1,0.8,-0.6,4
+9-Jan-21,PKS Tak Setuju Ajakan Benci Produk Asing yang Digaungkan Jokowi,https://news.detik.com/berita/d-5481317/pks-tak-setuju-ajakan-benci-produk-asing-yang-digaungkan-jokowi?tag_from=wp_nhl_15,1,0.6,-1,-5
+24-Dec-20,"Sidang Berita Bohong, Jumhur Tuding Saksi Pelapor Orang Bayaran",https://news.detik.com/berita/d-5481313/sidang-berita-bohong-jumhur-tuding-saksi-pelapor-orang-bayaran?tag_from=wp_nhl_16,1,0.6,-1,-5
+23-Dec-20,"Mayat Pria Misterius Ditemukan di Sungai Purbalingga, Ini Ciri-cirinya",https://news.detik.com/berita-jawa-tengah/d-5481312/mayat-pria-misterius-ditemukan-di-sungai-purbalingga-ini-ciri-cirinya?tag_from=wp_nhl_17,1,0,-0.8,-4
+23-Jan-21,"Kasihan, Sapi Bunting di India Telan 71 Kg Sampah",https://news.detik.com/internasional/d-5481298/kasihan-sapi-bunting-di-india-telan-71-kg-sampah?tag_from=wp_nhl_20,1,0,-0.8,-4
+8-Mar-21,813 SD dan 199 SMP di Banyuwangi Mulai Sekolah Tatap Muka,https://news.detik.com/berita-jawa-timur/d-5481297/813-sd-dan-199-smp-di-banyuwangi-mulai-sekolah-tatap-muka?tag_from=wp_nhl_21,1,0.8,0,4
+6-Jan-21,Bocah di Kaltim yang Diterkam Jasadnya Ditemukan di Perut Buaya,https://news.detik.com/berita/d-5481296/bocah-di-kaltim-yang-diterkam-jasadnya-ditemukan-di-perut-buaya?tag_from=wp_nhl_22,1,0.8,-0.6,4
+20-Oct-20,Pria di Lolak Sulut Ditahan Usai Unggah Foto Menag Bermata Satu,https://news.detik.com/berita/d-5481293/pria-di-lolak-sulut-ditahan-usai-unggah-foto-menag-bermata-satu?tag_from=wp_nhl_23,1,0.6,0,3
+16-Dec-20,Referendum Perjanjian Perdagangan Bebas Swiss-RI Diprediksi Bakal Ketat,https://news.detik.com/dw/d-5481276/referendum-perjanjian-perdagangan-bebas-swiss-ri-diprediksi-bakal-ketat?tag_from=wp_nhl_26,1,0,-0.8,-4
+11-Oct-20,Polisi Ungkap Motif Pemuda Viral Curi Bra di Cakung: Butuh Kasih Sayang,https://news.detik.com/berita/d-5481271/polisi-ungkap-motif-pemuda-viral-curi-bra-di-cakung-butuh-kasih-sayang?tag_from=wp_nhl_28,1,0.8,-0.6,4
+5-Jan-21,"54 Tewas, PBB Serukan Militer Myanmar Berhenti Bunuh Demonstran",https://news.detik.com/internasional/d-5481268/54-tewas-pbb-serukan-militer-myanmar-berhenti-bunuh-demonstran?tag_from=wp_nhl_29,1,0,-0.6,-3
+8-Dec-20,"KBRI Yangon Berstatus Siaga II, Ini Imbauan Dubes untuk WNI di Myanmar",https://news.detik.com/berita/d-5481447/kbri-yangon-berstatus-siaga-ii-ini-imbauan-dubes-untuk-wni-di-myanmar,1,0.6,0,3
+28-Jan-21,"Makin Banyak Motor Serobot Jalur Sepeda Permanen, Wagub DKI Bicara Sanksi",https://news.detik.com/berita/d-5481446/makin-banyak-motor-serobot-jalur-sepeda-permanen-wagub-dki-bicara-sanksi,1,0.6,-0.6,0
+29-Dec-20,"Jokowi: Kasus Aktif Corona di RI di Bawah Dunia, Positivity Rate Turun",https://news.detik.com/berita/d-5481413/jokowi-kasus-aktif-corona-di-ri-di-bawah-dunia-positivity-rate-turun,1,0.2,-0.8,-4
+17-Mar-21,Bupati Cirebon dan Charly Van Houten Jalani Vaksinasi Corona,https://news.detik.com/berita-jawa-barat/d-5481410/bupati-cirebon-dan-charly-van-houten-jalani-vaksinasi-corona,1,0,0,0
+15-Mar-21,Penampakan Robby Abbas yang Ditangkap Terkait Kasus Narkoba,https://news.detik.com/berita/d-5481408/penampakan-robby-abbas-yang-ditangkap-terkait-kasus-narkoba,1,0,-0.6,-3
+21-Dec-20,"Terdampak COVID-19, Angka Kemiskinan Jatim Naik 11%",https://news.detik.com/berita-jawa-timur/d-5481400/terdampak-covid-19-angka-kemiskinan-jatim-naik-11,1,0.6,-0.6,0
+9-Mar-21,Walkot Semarang Minta Jembatan Besi Sampangan Segera Difungsikan,https://news.detik.com/berita/d-5481371/walkot-semarang-minta-jembatan-besi-sampangan-segera-difungsikan,1,0.8,-1,-5
+26-Jan-21,"Jokowi: PPKM Mikro Tunjukkan Hasil Baik, Tren Kasus COVID-19 Terus Turun",https://news.detik.com/berita/d-5481393/jokowi-ppkm-mikro-tunjukkan-hasil-baik-tren-kasus-covid-19-terus-turun,1,0.6,-1,-5
+18-Oct-20,"Setahun Corona, Jokowi Ingatkan 3T-3M dan Bicara Ketersediaan Vaksin",https://news.detik.com/berita/d-5481392/setahun-corona-jokowi-ingatkan-3t-3m-dan-bicara-ketersediaan-vaksin,1,0,0,0
+16-Dec-20,Jokowi Minta Pemda Lebih Cepat Lakukan Vaksinasi Corona,https://news.detik.com/berita/d-5481389/jokowi-minta-pemda-lebih-cepat-lakukan-vaksinasi-corona,1,0.8,0,4
+11-Nov-20,Jokowi Minta Masyarakat Tak Khawatir soal Mutasi Corona B117,https://news.detik.com/berita/d-5481386/jokowi-minta-masyarakat-tak-khawatir-soal-mutasi-corona-b117,1,0.2,-0.8,-4
+29-Dec-20,13 Terdakwa 'Bola Sabu' Sukabumi Dituntut Hukuman Mati,https://news.detik.com/berita-jawa-barat/d-5481370/13-terdakwa-bola-sabu-sukabumi-dituntut-hukuman-mati,1,0,-0.8,-4
+14-Nov-20,"Minta TNI Waspadai Komunis, Ahmad Dhani: PKI Dulu Melebur ke PDIP",https://news.detik.com/berita/d-5200003/minta-tni-waspadai-komunis-ahmad-dhani-pki-dulu-melebur-ke-pdip,1,0.2,0,1
+30-Oct-20,"Pekerja Hiburan Malam Demo Anies-DPRD DKI Siang Ini, Tuntut PSBB Dicabut",https://news.detik.com/berita/d-5200000/pekerja-hiburan-malam-demo-anies-dprd-dki-siang-ini-tuntut-psbb-dicabut,1,1,-1,0
+18-Dec-20,Dokter Terus Pantau Kondisi Paru-paru Trump Usai Terima Oksigen Tambahan,https://news.detik.com/internasional/d-5199999/dokter-terus-pantau-kondisi-paru-paru-trump-usai-terima-oksigen-tambahan,1,0.8,0,4
+21-Jan-21,"Kelelahan-Tak Bisa Jalan, Begini Kondisi 91 Warga Sumbar Tersesat di Hutan",https://news.detik.com/berita/d-5199998/kelelahan-tak-bisa-jalan-begini-kondisi-91-warga-sumbar-tersesat-di-hutan,1,0.8,0,4
+3-Dec-20,Polda Metro Siagakan 9.346 Personel Antisipasi Demo Buruh di DPR,https://news.detik.com/berita/d-5199996/polda-metro-siagakan-9346-personel-antisipasi-demo-buruh-di-dpr,1,0.2,-0.8,-4
+11-Nov-20,"Buruh Bakal Demo Tolak RUU Ciptaker, Ini 3 Catatan Pimpinan DPR",https://news.detik.com/berita/d-5199995/buruh-bakal-demo-tolak-ruu-ciptaker-ini-3-catatan-pimpinan-dpr,1,0,-0.8,-4
+15-Dec-20,"Gerindra: Kondisi Rachel Maryam Membaik, Sudah Belajar Menyusui",https://news.detik.com/berita/d-5199981/gerindra-kondisi-rachel-maryam-membaik-sudah-belajar-menyusui,1,0.6,0,3
+1-Jan-21,"Gempa M 5,1 Guncang Wanokaka NTT",https://news.detik.com/berita/d-5199980/gempa-m-51-guncang-wanokaka-ntt,1,0.6,-0.6,0
+11-Mar-21,"Cegah Klaster COVID-19, Masyarakat Harus Paham Potensi Penularan",https://news.detik.com/berita/d-5199977/cegah-klaster-covid-19-masyarakat-harus-paham-potensi-penularan,1,0.6,-0.8,-4
+28-Dec-20,"Kasus Jiwasraya, Benny Tjokro Dkk Dipanggil Jadi Saksi Tersangka Korporasi",https://news.detik.com/berita/d-5199974/kasus-jiwasraya-benny-tjokro-dkk-dipanggil-jadi-saksi-tersangka-korporasi,1,1,-1,0
+6-Mar-21,"Kasus Suap Paspor, PK Mantan Atase KBRI Kuala Lumpur Ditolak",https://news.detik.com/berita/d-5199972/kasus-suap-paspor-pk-mantan-atase-kbri-kuala-lumpur-ditolak,1,0.6,-1,-5
+3-Mar-21,Survei Spektrum Politika: Gerindra-Prabowo Masih Kuasai Sumbar,https://news.detik.com/berita/d-5199973/survei-spektrum-politika-gerindra-prabowo-masih-kuasai-sumbar,1,0,0,0
+10-Dec-20,"Ratusan Mahasiswa Kampus di Jaksel Positif Corona, Dibawa ke Wisma Atlet",https://news.detik.com/berita/d-5199954/ratusan-mahasiswa-kampus-di-jaksel-positif-corona-dibawa-ke-wisma-atlet,1,0.8,0,4
+19-Mar-21,77 Warga Sumbar yang Tersesat di Hutan Ditemukan Selamat,https://news.detik.com/berita/d-5199952/77-warga-sumbar-yang-tersesat-di-hutan-ditemukan-selamat,1,0.8,-0.6,4
+22-Nov-20,"Kebakaran Permukiman di Lahat, 81 Rumah Hangus-Korban Jiwa Nihil",https://news.detik.com/berita/d-5199950/kebakaran-permukiman-di-lahat-81-rumah-hangus-korban-jiwa-nihil,1,0.8,-0.6,4
+9-Feb-21,"Antisipasi Demo, Water Cannon-Barracuda Disiagakan di Sekitar DPR",https://news.detik.com/berita/d-5199948/antisipasi-demo-water-cannon-barracuda-disiagakan-di-sekitar-dpr,1,0.2,0,1
+10-Jan-21,Jokowi: Ubah Kebijakan Belanja Pertahanan Jadi Investasi Pertahanan,https://news.detik.com/berita/d-5199929/jokowi-ubah-kebijakan-belanja-pertahanan-jadi-investasi-pertahanan,1,1,0,5
+27-Jan-21,"Jokowi Anugerahi Bintang Militer ke 3 Anggota TNI AD, AL dan AU",https://news.detik.com/berita/d-5199928/jokowi-anugerahi-bintang-militer-ke-3-anggota-tni-ad-al-dan-au,1,0,-0.4,-2
+21-Mar-21,Jokowi Bicara Pertempuran Masa Depan dengan Daya Hancur yang Lebih Besar,https://news.detik.com/berita/d-5199926/jokowi-bicara-pertempuran-masa-depan-dengan-daya-hancur-yang-lebih-besar,1,0.6,-0.8,-4
+31-Jan-21,"Razia di Duri Kepa, Polisi Amankan 1 Unit Motor yang Ditinggal Kabur Pemiliknya",https://megapolitan.kompas.com/read/2020/10/04/23025951/razia-di-duri-kepa-polisi-amankan-1-unit-motor-yang-ditinggal-kabur,1,0,-0.8,-4
+27-Jan-21,Politisi Nasdem Akui Buruh Dirugikan dalam Pesangon di RUU Cipta Kerja,https://nasional.kompas.com/read/2020/10/04/22564421/politisi-nasdem-akui-buruh-dirugikan-dalam-pesangon-di-ruu-cipta-kerja,1,0.8,-0.8,0
+6-Mar-21,"Kumpulkan Massa, Polisi Bubarkan Lomba Burung di Kembangan",https://megapolitan.kompas.com/read/2020/10/04/22532441/kumpulkan-massa-polisi-bubarkan-lomba-burung-di-kembangan,1,0,0,0
+25-Dec-20,"Ditargetkan Rampung 2021, Pelabuhan Kali Adem Diklaim Bakal Lebih Besar dari Marina Ancol",https://megapolitan.kompas.com/read/2020/10/04/22521161/ditargetkan-rampung-2021-pelabuhan-kali-adem-diklaim-bakal-lebih-besar,1,0.6,-0.6,0
+6-Nov-20,"Hendak Salip Kendaraan di Depannya, Perempuan Ini Tewas Ditabrak Lari",https://regional.kompas.com/read/2020/10/04/22395381/hendak-salip-kendaraan-di-depannya-perempuan-ini-tewas-ditabrak-lari,1,0.8,-1,-5
+3-Feb-21,Puluhan Rumah dan Satu Masjid di Lombok Utara Hangus Terbakar,https://regional.kompas.com/read/2020/10/04/22352981/puluhan-rumah-dan-satu-masjid-di-lombok-utara-hangus-terbakar,1,0.8,-0.6,4
+27-Jan-21,"Tiba-tiba Hilang di Hutan Saat Menggembala Kerbau, Pria Ini Dicari Ratusan Warga Desanya",https://regional.kompas.com/read/2020/10/04/22332531/tiba-tiba-hilang-di-hutan-saat-menggembala-kerbau-pria-ini-dicari-ratusan,1,0.8,-0.6,4
+20-Feb-21,Ketua MPR Minta TNI Perkuat Peran Penanganan Covid-19,https://nasional.kompas.com/read/2020/10/04/22301821/ketua-mpr-minta-tni-perkuat-peran-penanganan-covid-19,1,0.8,0,4
+9-Dec-20,"Bangun 300.000 Sumur Resapan hingga Pengerukan Sungai, Upaya Jakaarta Tangani Banjir",https://megapolitan.kompas.com/read/2020/10/04/22263921/bangun-300000-sumur-resapan-hingga-pengerukan-sungai-upaya-jakaarta,1,0.6,-0.8,-4
+21-Jan-21,Viral Video Bocah 5 Tahun Operasikan Eskavator untuk Bersihkan Puing Jembatan,https://regional.kompas.com/read/2020/10/04/22184941/viral-video-bocah-5-tahun-operasikan-eskavator-untuk-bersihkan-puing,1,0,-1,-5
+8-Oct-20,"Menyetir dalam Kondisi Mabuk, Pria Ini Tabrak Tukang Sayur hingga Tewas",https://regional.kompas.com/read/2020/10/04/22065291/menyetir-dalam-kondisi-mabuk-pria-ini-tabrak-tukang-sayur-hingga-tewas,1,0.8,-0.6,4
+16-Dec-20,Mahfud MD: Tak Ada Diskriminasi Umat Islam di Indonesia,https://nasional.kompas.com/read/2020/10/04/19025951/mahfud-md-tak-ada-diskriminasi-umat-islam-di-indonesia,1,0.8,-1,-5
+24-Feb-21,"Dibahas Kilat, Formappi Sebut RUU Cipta Kerja Pesanan Pihak Tertentu",https://nasional.kompas.com/read/2020/10/04/18405931/dibahas-kilat-formappi-sebut-ruu-cipta-kerja-pesanan-pihak-tertentu,1,0.2,-0.4,-2
+10-Feb-21,"75 Tahun TNI, Kontras Soroti Bentrokan dengan Polisi",https://nasional.kompas.com/read/2020/10/04/18195481/75-tahun-tni-kontras-soroti-bentrokan-dengan-polisi,1,0,-0.6,-3
+12-Feb-21,Erupsi Gunung Raung Terus Menurun Namun Statusnya Masih Waspada,https://news.detik.com/berita-jawa-timur/d-5481372/erupsi-gunung-raung-terus-menurun-namun-statusnya-masih-waspada?tag_from=wp_nhl_1,1,0.8,-0.4,4
+30-Dec-20,"Jokowi: 4,6 Juta Vaksin AstraZeneca Tiba di RI Maret",https://news.detik.com/berita/d-5481365/jokowi-46-juta-vaksin-astrazeneca-tiba-di-ri-maret?tag_from=wp_nhl_3,1,0.8,0,4
+24-Oct-20,Desa Kemiren Banyuwangi Dapat Sertifikasi Desa Pariwisata Berkelanjutan,https://news.detik.com/berita-jawa-timur/d-5481364/desa-kemiren-banyuwangi-dapat-sertifikasi-desa-pariwisata-berkelanjutan?tag_from=wp_nhl_4,1,0.6,0,3
+24-Jan-21,"Lewat Lapangan Olahraga, Walkot Semarang Optimalkan Resapan Air",https://news.detik.com/berita/d-5481368/lewat-lapangan-olahraga-walkot-semarang-optimalkan-resapan-air?tag_from=wp_nhl_7,1,0.6,0,3
+29-Nov-20,Penampakan Harta Karun Diduga dari Abad 17-PD II di Bawah Laut Sulsel,https://news.detik.com/foto-news/d-5481345/penampakan-harta-karun-diduga-dari-abad-17-pd-ii-di-bawah-laut-sulsel?tag_from=wp_nhl_8,1,0,-0.6,-3
+13-Dec-20,"Cek 71 Sampel, Satgas Belum Temukan Kasus Corona B117 di Jatim",https://news.detik.com/berita-jawa-timur/d-5481335/cek-71-sampel-satgas-belum-temukan-kasus-corona-b117-di-jatim?tag_from=wp_nhl_9,1,0,-1,-5
+5-Jan-21,Wagub Sulsel: Kelangsungan Proyek Tergantung Kebutuhan Masyarakat,https://news.detik.com/detiktv/d-5481339/wagub-sulsel-kelangsungan-proyek-tergantung-kebutuhan-masyarakat?tag_from=wp_nhl_10,1,0.8,-0.2,4
+18-Jan-21,Dubes RI Minta WNI yang Tak Berkepentingan untuk Tinggalkan Myanmar,https://news.detik.com/berita/d-5481333/dubes-ri-minta-wni-yang-tak-berkepentingan-untuk-tinggalkan-myanmar?tag_from=wp_nhl_11,1,0.2,-1,-5
+25-Dec-20,Ini Respons Pemprov Jatim soal Ditemukannya Corona B117 di Karawang,https://news.detik.com/berita-jawa-timur/d-5481332/ini-respons-pemprov-jatim-soal-ditemukannya-corona-b117-di-karawang?tag_from=wp_nhl_12,1,0.4,-0.8,-4
+11-Nov-20,"Wagub DKI: Tak Boleh Skateboard di Trotoar, Sudah Ada Tempat Disiapkan",https://news.detik.com/berita/d-5481329/wagub-dki-tak-boleh-skateboard-di-trotoar-sudah-ada-tempat-disiapkan?tag_from=wp_nhl_13,1,0.8,-0.6,4
+23-Dec-20,PKS Tak Setuju Ajakan Benci Produk Asing yang Digaungkan Jokowi,https://news.detik.com/berita/d-5481317/pks-tak-setuju-ajakan-benci-produk-asing-yang-digaungkan-jokowi?tag_from=wp_nhl_15,1,0.6,-1,-5
+10-Nov-20,"Sidang Berita Bohong, Jumhur Tuding Saksi Pelapor Orang Bayaran",https://news.detik.com/berita/d-5481313/sidang-berita-bohong-jumhur-tuding-saksi-pelapor-orang-bayaran?tag_from=wp_nhl_16,1,0.6,-1,-5
+6-Dec-20,"Mayat Pria Misterius Ditemukan di Sungai Purbalingga, Ini Ciri-cirinya",https://news.detik.com/berita-jawa-tengah/d-5481312/mayat-pria-misterius-ditemukan-di-sungai-purbalingga-ini-ciri-cirinya?tag_from=wp_nhl_17,1,0,-0.8,-4
+15-Mar-21,"Kasihan, Sapi Bunting di India Telan 71 Kg Sampah",https://news.detik.com/internasional/d-5481298/kasihan-sapi-bunting-di-india-telan-71-kg-sampah?tag_from=wp_nhl_20,1,0,-0.8,-4
+25-Jan-21,813 SD dan 199 SMP di Banyuwangi Mulai Sekolah Tatap Muka,https://news.detik.com/berita-jawa-timur/d-5481297/813-sd-dan-199-smp-di-banyuwangi-mulai-sekolah-tatap-muka?tag_from=wp_nhl_21,1,0.8,0,4
+2-Feb-21,Bocah di Kaltim yang Diterkam Jasadnya Ditemukan di Perut Buaya,https://news.detik.com/berita/d-5481296/bocah-di-kaltim-yang-diterkam-jasadnya-ditemukan-di-perut-buaya?tag_from=wp_nhl_22,1,0.8,-0.6,4
+26-Jan-21,Pria di Lolak Sulut Ditahan Usai Unggah Foto Menag Bermata Satu,https://news.detik.com/berita/d-5481293/pria-di-lolak-sulut-ditahan-usai-unggah-foto-menag-bermata-satu?tag_from=wp_nhl_23,1,0.6,0,3
+28-Dec-20,Referendum Perjanjian Perdagangan Bebas Swiss-RI Diprediksi Bakal Ketat,https://news.detik.com/dw/d-5481276/referendum-perjanjian-perdagangan-bebas-swiss-ri-diprediksi-bakal-ketat?tag_from=wp_nhl_26,1,0,-0.8,-4
+13-Nov-20,Polisi Ungkap Motif Pemuda Viral Curi Bra di Cakung: Butuh Kasih Sayang,https://news.detik.com/berita/d-5481271/polisi-ungkap-motif-pemuda-viral-curi-bra-di-cakung-butuh-kasih-sayang?tag_from=wp_nhl_28,1,0.8,-0.6,4
+19-Oct-20,"54 Tewas, PBB Serukan Militer Myanmar Berhenti Bunuh Demonstran",https://news.detik.com/internasional/d-5481268/54-tewas-pbb-serukan-militer-myanmar-berhenti-bunuh-demonstran?tag_from=wp_nhl_29,1,0,-0.6,-3
+24-Jan-21,"KBRI Yangon Berstatus Siaga II, Ini Imbauan Dubes untuk WNI di Myanmar",https://news.detik.com/berita/d-5481447/kbri-yangon-berstatus-siaga-ii-ini-imbauan-dubes-untuk-wni-di-myanmar,1,0.6,0,3
+3-Jan-21,"Makin Banyak Motor Serobot Jalur Sepeda Permanen, Wagub DKI Bicara Sanksi",https://news.detik.com/berita/d-5481446/makin-banyak-motor-serobot-jalur-sepeda-permanen-wagub-dki-bicara-sanksi,1,0.6,-0.6,0
+18-Feb-21,"Akun Twitter Di-hack Jadi Dukung KLB PD, Andi Arief Tuding Kakak Pembina",https://news.detik.com/berita/d-5481443/akun-twitter-di-hack-jadi-dukung-klb-pd-andi-arief-tuding-kakak-pembina,1,1,0,5
+18-Feb-21,"Jokowi: Kasus Aktif Corona di RI di Bawah Dunia, Positivity Rate Turun",https://news.detik.com/berita/d-5481413/jokowi-kasus-aktif-corona-di-ri-di-bawah-dunia-positivity-rate-turun,1,0.2,-0.8,-4
+14-Oct-20,Bupati Cirebon dan Charly Van Houten Jalani Vaksinasi Corona,https://news.detik.com/berita-jawa-barat/d-5481410/bupati-cirebon-dan-charly-van-houten-jalani-vaksinasi-corona,1,0,0,0
+26-Jan-21,Penampakan Robby Abbas yang Ditangkap Terkait Kasus Narkoba,https://news.detik.com/berita/d-5481408/penampakan-robby-abbas-yang-ditangkap-terkait-kasus-narkoba,1,0,-0.6,-3
+14-Mar-21,"Terdampak COVID-19, Angka Kemiskinan Jatim Naik 11%",https://news.detik.com/berita-jawa-timur/d-5481400/terdampak-covid-19-angka-kemiskinan-jatim-naik-11,1,0.6,-0.6,0
+25-Jan-21,Walkot Semarang Minta Jembatan Besi Sampangan Segera Difungsikan,https://news.detik.com/berita/d-5481371/walkot-semarang-minta-jembatan-besi-sampangan-segera-difungsikan,1,0.8,-1,-5
+26-Dec-20,"Jokowi: PPKM Mikro Tunjukkan Hasil Baik, Tren Kasus COVID-19 Terus Turun",https://news.detik.com/berita/d-5481393/jokowi-ppkm-mikro-tunjukkan-hasil-baik-tren-kasus-covid-19-terus-turun,1,0.6,-1,-5
+24-Nov-20,"Setahun Corona, Jokowi Ingatkan 3T-3M dan Bicara Ketersediaan Vaksin",https://news.detik.com/berita/d-5481392/setahun-corona-jokowi-ingatkan-3t-3m-dan-bicara-ketersediaan-vaksin,1,0,0,0
+17-Dec-20,Jokowi Minta Pemda Lebih Cepat Lakukan Vaksinasi Corona,https://news.detik.com/berita/d-5481389/jokowi-minta-pemda-lebih-cepat-lakukan-vaksinasi-corona,1,0.8,0,4
+19-Nov-20,Jokowi Minta Masyarakat Tak Khawatir soal Mutasi Corona B117,https://news.detik.com/berita/d-5481386/jokowi-minta-masyarakat-tak-khawatir-soal-mutasi-corona-b117,1,0.2,-0.8,-4
+19-Feb-21,13 Terdakwa 'Bola Sabu' Sukabumi Dituntut Hukuman Mati,https://news.detik.com/berita-jawa-barat/d-5481370/13-terdakwa-bola-sabu-sukabumi-dituntut-hukuman-mati,1,0,-0.8,-4
+16-Jan-21,"Minta TNI Waspadai Komunis, Ahmad Dhani: PKI Dulu Melebur ke PDIP",https://news.detik.com/berita/d-5200003/minta-tni-waspadai-komunis-ahmad-dhani-pki-dulu-melebur-ke-pdip,1,0.2,0,1
+1-Nov-20,Dokter Terus Pantau Kondisi Paru-paru Trump Usai Terima Oksigen Tambahan,https://news.detik.com/internasional/d-5199999/dokter-terus-pantau-kondisi-paru-paru-trump-usai-terima-oksigen-tambahan,1,0.8,0,4
+16-Feb-21,"Kelelahan-Tak Bisa Jalan, Begini Kondisi 91 Warga Sumbar Tersesat di Hutan",https://news.detik.com/berita/d-5199998/kelelahan-tak-bisa-jalan-begini-kondisi-91-warga-sumbar-tersesat-di-hutan,1,0.8,0,4
+23-Jan-21,Polda Metro Siagakan 9.346 Personel Antisipasi Demo Buruh di DPR,https://news.detik.com/berita/d-5199996/polda-metro-siagakan-9346-personel-antisipasi-demo-buruh-di-dpr,1,0.2,-0.8,-4
+18-Dec-20,"Gerindra: Kondisi Rachel Maryam Membaik, Sudah Belajar Menyusui",https://news.detik.com/berita/d-5199981/gerindra-kondisi-rachel-maryam-membaik-sudah-belajar-menyusui,1,0.6,0,3
+19-Feb-21,"Gempa M 5,1 Guncang Wanokaka NTT",https://news.detik.com/berita/d-5199980/gempa-m-51-guncang-wanokaka-ntt,1,0.6,-0.6,0
+15-Dec-20,"Cegah Klaster COVID-19, Masyarakat Harus Paham Potensi Penularan",https://news.detik.com/berita/d-5199977/cegah-klaster-covid-19-masyarakat-harus-paham-potensi-penularan,1,0.6,-0.8,-4
+2-Dec-20,"Kasus Jiwasraya, Benny Tjokro Dkk Dipanggil Jadi Saksi Tersangka Korporasi",https://news.detik.com/berita/d-5199974/kasus-jiwasraya-benny-tjokro-dkk-dipanggil-jadi-saksi-tersangka-korporasi,1,1,-1,0
+12-Oct-20,"Kasus Suap Paspor, PK Mantan Atase KBRI Kuala Lumpur Ditolak",https://news.detik.com/berita/d-5199972/kasus-suap-paspor-pk-mantan-atase-kbri-kuala-lumpur-ditolak,1,0.6,-1,-5
+27-Nov-20,Survei Spektrum Politika: Gerindra-Prabowo Masih Kuasai Sumbar,https://news.detik.com/berita/d-5199973/survei-spektrum-politika-gerindra-prabowo-masih-kuasai-sumbar,1,0,0,0
+14-Feb-21,"Ratusan Mahasiswa Kampus di Jaksel Positif Corona, Dibawa ke Wisma Atlet",https://news.detik.com/berita/d-5199954/ratusan-mahasiswa-kampus-di-jaksel-positif-corona-dibawa-ke-wisma-atlet,1,0.8,0,4
+9-Dec-20,77 Warga Sumbar yang Tersesat di Hutan Ditemukan Selamat,https://news.detik.com/berita/d-5199952/77-warga-sumbar-yang-tersesat-di-hutan-ditemukan-selamat,1,0.8,-0.6,4
+10-Oct-20,"Kebakaran Permukiman di Lahat, 81 Rumah Hangus-Korban Jiwa Nihil",https://news.detik.com/berita/d-5199950/kebakaran-permukiman-di-lahat-81-rumah-hangus-korban-jiwa-nihil,1,0.8,-0.6,4
+6-Nov-20,"Antisipasi Demo, Water Cannon-Barracuda Disiagakan di Sekitar DPR",https://news.detik.com/berita/d-5199948/antisipasi-demo-water-cannon-barracuda-disiagakan-di-sekitar-dpr,1,0.2,0,1
+19-Mar-21,Jokowi: Ubah Kebijakan Belanja Pertahanan Jadi Investasi Pertahanan,https://news.detik.com/berita/d-5199929/jokowi-ubah-kebijakan-belanja-pertahanan-jadi-investasi-pertahanan,1,1,0,5
+20-Mar-21,"Jokowi Anugerahi Bintang Militer ke 3 Anggota TNI AD, AL dan AU",https://news.detik.com/berita/d-5199928/jokowi-anugerahi-bintang-militer-ke-3-anggota-tni-ad-al-dan-au,1,0,-0.4,-2
+24-Oct-20,Jokowi Bicara Pertempuran Masa Depan dengan Daya Hancur yang Lebih Besar,https://news.detik.com/berita/d-5199926/jokowi-bicara-pertempuran-masa-depan-dengan-daya-hancur-yang-lebih-besar,1,0.6,-0.8,-4
+18-Jan-21,"Razia di Duri Kepa, Polisi Amankan 1 Unit Motor yang Ditinggal Kabur Pemiliknya",https://megapolitan.kompas.com/read/2020/10/04/23025951/razia-di-duri-kepa-polisi-amankan-1-unit-motor-yang-ditinggal-kabur,1,0,-0.8,-4
+5-Dec-20,Politisi Nasdem Akui Buruh Dirugikan dalam Pesangon di RUU Cipta Kerja,https://nasional.kompas.com/read/2020/10/04/22564421/politisi-nasdem-akui-buruh-dirugikan-dalam-pesangon-di-ruu-cipta-kerja,1,0.8,-0.8,0
+22-Oct-20,"Kumpulkan Massa, Polisi Bubarkan Lomba Burung di Kembangan",https://megapolitan.kompas.com/read/2020/10/04/22532441/kumpulkan-massa-polisi-bubarkan-lomba-burung-di-kembangan,1,0,0,0
+16-Feb-21,"Ditargetkan Rampung 2021, Pelabuhan Kali Adem Diklaim Bakal Lebih Besar dari Marina Ancol",https://megapolitan.kompas.com/read/2020/10/04/22521161/ditargetkan-rampung-2021-pelabuhan-kali-adem-diklaim-bakal-lebih-besar,1,0.6,-0.6,0
+15-Mar-21,"Jadi Epicentrum Covid, Kemenkes Siapkan Bogor Jadi Tempat Uji Coba Vaksin.",https://megapolitan.kompas.com/read/2020/10/04/22480491/jadi-epicentrum-covid-kemenkes-siapkan-bogor-jadi-tempat-uji-coba-vaksin,1,1,-0.6,5
+4-Oct-20,"Hendak Salip Kendaraan di Depannya, Perempuan Ini Tewas Ditabrak Lari",https://regional.kompas.com/read/2020/10/04/22395381/hendak-salip-kendaraan-di-depannya-perempuan-ini-tewas-ditabrak-lari,1,0.8,-1,-5
+25-Oct-20,Puluhan Rumah dan Satu Masjid di Lombok Utara Hangus Terbakar,https://regional.kompas.com/read/2020/10/04/22352981/puluhan-rumah-dan-satu-masjid-di-lombok-utara-hangus-terbakar,1,0.8,-0.6,4
+20-Feb-21,"Tiba-tiba Hilang di Hutan Saat Menggembala Kerbau, Pria Ini Dicari Ratusan Warga Desanya",https://regional.kompas.com/read/2020/10/04/22332531/tiba-tiba-hilang-di-hutan-saat-menggembala-kerbau-pria-ini-dicari-ratusan,1,0.8,-0.6,4
+16-Dec-20,Ketua MPR Minta TNI Perkuat Peran Penanganan Covid-19,https://nasional.kompas.com/read/2020/10/04/22301821/ketua-mpr-minta-tni-perkuat-peran-penanganan-covid-19,1,0.8,0,4
+10-Nov-20,"Bangun 300.000 Sumur Resapan hingga Pengerukan Sungai, Upaya Jakaarta Tangani Banjir",https://megapolitan.kompas.com/read/2020/10/04/22263921/bangun-300000-sumur-resapan-hingga-pengerukan-sungai-upaya-jakaarta,1,0.6,-0.8,-4
+15-Oct-20,"Menyetir dalam Kondisi Mabuk, Pria Ini Tabrak Tukang Sayur hingga Tewas",https://regional.kompas.com/read/2020/10/04/22065291/menyetir-dalam-kondisi-mabuk-pria-ini-tabrak-tukang-sayur-hingga-tewas,1,0.8,-0.6,4
+25-Nov-20,Mahfud MD: Tak Ada Diskriminasi Umat Islam di Indonesia,https://nasional.kompas.com/read/2020/10/04/19025951/mahfud-md-tak-ada-diskriminasi-umat-islam-di-indonesia,1,0.8,-1,-5
+16-Dec-20,"Dibahas Kilat, Formappi Sebut RUU Cipta Kerja Pesanan Pihak Tertentu",https://nasional.kompas.com/read/2020/10/04/18405931/dibahas-kilat-formappi-sebut-ruu-cipta-kerja-pesanan-pihak-tertentu,1,0.2,-0.4,-2
+21-Oct-20,"75 Tahun TNI, Kontras Soroti Bentrokan dengan Polisi",https://nasional.kompas.com/read/2020/10/04/18195481/75-tahun-tni-kontras-soroti-bentrokan-dengan-polisi,1,0,-0.6,-3
+8-Jan-21,Erupsi Gunung Raung Terus Menurun Namun Statusnya Masih Waspada,https://news.detik.com/berita-jawa-timur/d-5481372/erupsi-gunung-raung-terus-menurun-namun-statusnya-masih-waspada?tag_from=wp_nhl_1,1,0.8,-0.4,4
+15-Dec-20,Desa Kemiren Banyuwangi Dapat Sertifikasi Desa Pariwisata Berkelanjutan,https://news.detik.com/berita-jawa-timur/d-5481364/desa-kemiren-banyuwangi-dapat-sertifikasi-desa-pariwisata-berkelanjutan?tag_from=wp_nhl_4,1,0.6,0,3
+13-Jan-21,"Lewat Lapangan Olahraga, Walkot Semarang Optimalkan Resapan Air",https://news.detik.com/berita/d-5481368/lewat-lapangan-olahraga-walkot-semarang-optimalkan-resapan-air?tag_from=wp_nhl_7,1,0.6,0,3
+19-Nov-20,Penampakan Harta Karun Diduga dari Abad 17-PD II di Bawah Laut Sulsel,https://news.detik.com/foto-news/d-5481345/penampakan-harta-karun-diduga-dari-abad-17-pd-ii-di-bawah-laut-sulsel?tag_from=wp_nhl_8,1,0,-0.6,-3
+16-Nov-20,"Cek 71 Sampel, Satgas Belum Temukan Kasus Corona B117 di Jatim",https://news.detik.com/berita-jawa-timur/d-5481335/cek-71-sampel-satgas-belum-temukan-kasus-corona-b117-di-jatim?tag_from=wp_nhl_9,1,0,-1,-5
+16-Jan-21,Wagub Sulsel: Kelangsungan Proyek Tergantung Kebutuhan Masyarakat,https://news.detik.com/detiktv/d-5481339/wagub-sulsel-kelangsungan-proyek-tergantung-kebutuhan-masyarakat?tag_from=wp_nhl_10,1,0.8,-0.2,4
+14-Dec-20,Dubes RI Minta WNI yang Tak Berkepentingan untuk Tinggalkan Myanmar,https://news.detik.com/berita/d-5481333/dubes-ri-minta-wni-yang-tak-berkepentingan-untuk-tinggalkan-myanmar?tag_from=wp_nhl_11,1,0.2,-1,-5
+10-Feb-21,Ini Respons Pemprov Jatim soal Ditemukannya Corona B117 di Karawang,https://news.detik.com/berita-jawa-timur/d-5481332/ini-respons-pemprov-jatim-soal-ditemukannya-corona-b117-di-karawang?tag_from=wp_nhl_12,1,0.4,-0.8,-4
+19-Jan-21,"Wagub DKI: Tak Boleh Skateboard di Trotoar, Sudah Ada Tempat Disiapkan",https://news.detik.com/berita/d-5481329/wagub-dki-tak-boleh-skateboard-di-trotoar-sudah-ada-tempat-disiapkan?tag_from=wp_nhl_13,1,0.8,-0.6,4
+6-Nov-20,PKS Tak Setuju Ajakan Benci Produk Asing yang Digaungkan Jokowi,https://news.detik.com/berita/d-5481317/pks-tak-setuju-ajakan-benci-produk-asing-yang-digaungkan-jokowi?tag_from=wp_nhl_15,1,0.6,-1,-5
+11-Feb-21,"Sidang Berita Bohong, Jumhur Tuding Saksi Pelapor Orang Bayaran",https://news.detik.com/berita/d-5481313/sidang-berita-bohong-jumhur-tuding-saksi-pelapor-orang-bayaran?tag_from=wp_nhl_16,1,0.6,-1,-5
+14-Jan-21,"Kasihan, Sapi Bunting di India Telan 71 Kg Sampah",https://news.detik.com/internasional/d-5481298/kasihan-sapi-bunting-di-india-telan-71-kg-sampah?tag_from=wp_nhl_20,1,0,-0.8,-4
+14-Oct-20,813 SD dan 199 SMP di Banyuwangi Mulai Sekolah Tatap Muka,https://news.detik.com/berita-jawa-timur/d-5481297/813-sd-dan-199-smp-di-banyuwangi-mulai-sekolah-tatap-muka?tag_from=wp_nhl_21,1,0.8,0,4
+5-Dec-20,Bocah di Kaltim yang Diterkam Jasadnya Ditemukan di Perut Buaya,https://news.detik.com/berita/d-5481296/bocah-di-kaltim-yang-diterkam-jasadnya-ditemukan-di-perut-buaya?tag_from=wp_nhl_22,1,0.8,-0.6,4
+6-Oct-20,Pria di Lolak Sulut Ditahan Usai Unggah Foto Menag Bermata Satu,https://news.detik.com/berita/d-5481293/pria-di-lolak-sulut-ditahan-usai-unggah-foto-menag-bermata-satu?tag_from=wp_nhl_23,1,0.6,0,3
+13-Oct-20,Referendum Perjanjian Perdagangan Bebas Swiss-RI Diprediksi Bakal Ketat,https://news.detik.com/dw/d-5481276/referendum-perjanjian-perdagangan-bebas-swiss-ri-diprediksi-bakal-ketat?tag_from=wp_nhl_26,1,0,-0.8,-4
+18-Jan-21,Polisi Ungkap Motif Pemuda Viral Curi Bra di Cakung: Butuh Kasih Sayang,https://news.detik.com/berita/d-5481271/polisi-ungkap-motif-pemuda-viral-curi-bra-di-cakung-butuh-kasih-sayang?tag_from=wp_nhl_28,1,0.8,-0.6,4
+24-Oct-20,"54 Tewas, PBB Serukan Militer Myanmar Berhenti Bunuh Demonstran",https://news.detik.com/internasional/d-5481268/54-tewas-pbb-serukan-militer-myanmar-berhenti-bunuh-demonstran?tag_from=wp_nhl_29,1,0,-0.6,-3
+21-Mar-21,"KBRI Yangon Berstatus Siaga II, Ini Imbauan Dubes untuk WNI di Myanmar",https://news.detik.com/berita/d-5481447/kbri-yangon-berstatus-siaga-ii-ini-imbauan-dubes-untuk-wni-di-myanmar,1,0.6,0,3
+3-Mar-21,"Makin Banyak Motor Serobot Jalur Sepeda Permanen, Wagub DKI Bicara Sanksi",https://news.detik.com/berita/d-5481446/makin-banyak-motor-serobot-jalur-sepeda-permanen-wagub-dki-bicara-sanksi,1,0.6,-0.6,0
+2-Dec-20,"Akun Twitter Di-hack Jadi Dukung KLB PD, Andi Arief Tuding Kakak Pembina",https://news.detik.com/berita/d-5481443/akun-twitter-di-hack-jadi-dukung-klb-pd-andi-arief-tuding-kakak-pembina,1,1,0,5
+16-Nov-20,"Jokowi: Kasus Aktif Corona di RI di Bawah Dunia, Positivity Rate Turun",https://news.detik.com/berita/d-5481413/jokowi-kasus-aktif-corona-di-ri-di-bawah-dunia-positivity-rate-turun,1,0.2,-0.8,-4
+20-Jan-21,Bupati Cirebon dan Charly Van Houten Jalani Vaksinasi Corona,https://news.detik.com/berita-jawa-barat/d-5481410/bupati-cirebon-dan-charly-van-houten-jalani-vaksinasi-corona,1,0,0,0
+13-Dec-20,Penampakan Robby Abbas yang Ditangkap Terkait Kasus Narkoba,https://news.detik.com/berita/d-5481408/penampakan-robby-abbas-yang-ditangkap-terkait-kasus-narkoba,1,0,-0.6,-3
+31-Jan-21,"Terdampak COVID-19, Angka Kemiskinan Jatim Naik 11%",https://news.detik.com/berita-jawa-timur/d-5481400/terdampak-covid-19-angka-kemiskinan-jatim-naik-11,1,0.6,-0.6,0
+27-Nov-20,Walkot Semarang Minta Jembatan Besi Sampangan Segera Difungsikan,https://news.detik.com/berita/d-5481371/walkot-semarang-minta-jembatan-besi-sampangan-segera-difungsikan,1,0.8,-1,-5
+27-Feb-21,"Jokowi: PPKM Mikro Tunjukkan Hasil Baik, Tren Kasus COVID-19 Terus Turun",https://news.detik.com/berita/d-5481393/jokowi-ppkm-mikro-tunjukkan-hasil-baik-tren-kasus-covid-19-terus-turun,1,0.6,-1,-5
+23-Feb-21,"Setahun Corona, Jokowi Ingatkan 3T-3M dan Bicara Ketersediaan Vaksin",https://news.detik.com/berita/d-5481392/setahun-corona-jokowi-ingatkan-3t-3m-dan-bicara-ketersediaan-vaksin,1,0,0,0
+6-Oct-20,Jokowi Minta Pemda Lebih Cepat Lakukan Vaksinasi Corona,https://news.detik.com/berita/d-5481389/jokowi-minta-pemda-lebih-cepat-lakukan-vaksinasi-corona,1,0.8,0,4
+26-Oct-20,Jokowi Minta Masyarakat Tak Khawatir soal Mutasi Corona B117,https://news.detik.com/berita/d-5481386/jokowi-minta-masyarakat-tak-khawatir-soal-mutasi-corona-b117,1,0.2,-0.8,-4
+1-Mar-21,13 Terdakwa 'Bola Sabu' Sukabumi Dituntut Hukuman Mati,https://news.detik.com/berita-jawa-barat/d-5481370/13-terdakwa-bola-sabu-sukabumi-dituntut-hukuman-mati,1,0,-0.8,-4
+17-Oct-20,"Minta TNI Waspadai Komunis, Ahmad Dhani: PKI Dulu Melebur ke PDIP",https://news.detik.com/berita/d-5200003/minta-tni-waspadai-komunis-ahmad-dhani-pki-dulu-melebur-ke-pdip,1,0.2,0,1
+28-Jan-21,"Pekerja Hiburan Malam Demo Anies-DPRD DKI Siang Ini, Tuntut PSBB Dicabut",https://news.detik.com/berita/d-5200000/pekerja-hiburan-malam-demo-anies-dprd-dki-siang-ini-tuntut-psbb-dicabut,1,1,-1,0
+19-Jan-21,Dokter Terus Pantau Kondisi Paru-paru Trump Usai Terima Oksigen Tambahan,https://news.detik.com/internasional/d-5199999/dokter-terus-pantau-kondisi-paru-paru-trump-usai-terima-oksigen-tambahan,1,0.8,0,4
+15-Oct-20,"Kelelahan-Tak Bisa Jalan, Begini Kondisi 91 Warga Sumbar Tersesat di Hutan",https://news.detik.com/berita/d-5199998/kelelahan-tak-bisa-jalan-begini-kondisi-91-warga-sumbar-tersesat-di-hutan,1,0.8,0,4
+27-Feb-21,Polda Metro Siagakan 9.346 Personel Antisipasi Demo Buruh di DPR,https://news.detik.com/berita/d-5199996/polda-metro-siagakan-9346-personel-antisipasi-demo-buruh-di-dpr,1,0.2,-0.8,-4
+12-Jan-21,"Buruh Bakal Demo Tolak RUU Ciptaker, Ini 3 Catatan Pimpinan DPR",https://news.detik.com/berita/d-5199995/buruh-bakal-demo-tolak-ruu-ciptaker-ini-3-catatan-pimpinan-dpr,1,0,-0.8,-4
+8-Feb-21,"Gerindra: Kondisi Rachel Maryam Membaik, Sudah Belajar Menyusui",https://news.detik.com/berita/d-5199981/gerindra-kondisi-rachel-maryam-membaik-sudah-belajar-menyusui,1,0.6,0,3
+22-Feb-21,"Gempa M 5,1 Guncang Wanokaka NTT",https://news.detik.com/berita/d-5199980/gempa-m-51-guncang-wanokaka-ntt,1,0.6,-0.6,0
+27-Dec-20,"Cegah Klaster COVID-19, Masyarakat Harus Paham Potensi Penularan",https://news.detik.com/berita/d-5199977/cegah-klaster-covid-19-masyarakat-harus-paham-potensi-penularan,1,0.6,-0.8,-4
+25-Dec-20,"Kasus Jiwasraya, Benny Tjokro Dkk Dipanggil Jadi Saksi Tersangka Korporasi",https://news.detik.com/berita/d-5199974/kasus-jiwasraya-benny-tjokro-dkk-dipanggil-jadi-saksi-tersangka-korporasi,1,1,-1,0
+13-Nov-20,"Kasus Suap Paspor, PK Mantan Atase KBRI Kuala Lumpur Ditolak",https://news.detik.com/berita/d-5199972/kasus-suap-paspor-pk-mantan-atase-kbri-kuala-lumpur-ditolak,1,0.6,-1,-5
+8-Oct-20,Survei Spektrum Politika: Gerindra-Prabowo Masih Kuasai Sumbar,https://news.detik.com/berita/d-5199973/survei-spektrum-politika-gerindra-prabowo-masih-kuasai-sumbar,1,0,0,0
+28-Oct-20,"Ratusan Mahasiswa Kampus di Jaksel Positif Corona, Dibawa ke Wisma Atlet",https://news.detik.com/berita/d-5199954/ratusan-mahasiswa-kampus-di-jaksel-positif-corona-dibawa-ke-wisma-atlet,1,0.8,0,4
+3-Dec-20,77 Warga Sumbar yang Tersesat di Hutan Ditemukan Selamat,https://news.detik.com/berita/d-5199952/77-warga-sumbar-yang-tersesat-di-hutan-ditemukan-selamat,1,0.8,-0.6,4
+27-Jan-21,"Kebakaran Permukiman di Lahat, 81 Rumah Hangus-Korban Jiwa Nihil",https://news.detik.com/berita/d-5199950/kebakaran-permukiman-di-lahat-81-rumah-hangus-korban-jiwa-nihil,1,0.8,-0.6,4
+22-Nov-20,"Antisipasi Demo, Water Cannon-Barracuda Disiagakan di Sekitar DPR",https://news.detik.com/berita/d-5199948/antisipasi-demo-water-cannon-barracuda-disiagakan-di-sekitar-dpr,1,0.2,0,1
+8-Oct-20,Jokowi: Ubah Kebijakan Belanja Pertahanan Jadi Investasi Pertahanan,https://news.detik.com/berita/d-5199929/jokowi-ubah-kebijakan-belanja-pertahanan-jadi-investasi-pertahanan,1,1,0,5
+12-Feb-21,"Jokowi Anugerahi Bintang Militer ke 3 Anggota TNI AD, AL dan AU",https://news.detik.com/berita/d-5199928/jokowi-anugerahi-bintang-militer-ke-3-anggota-tni-ad-al-dan-au,1,0,-0.4,-2
+20-Oct-20,Jokowi Bicara Pertempuran Masa Depan dengan Daya Hancur yang Lebih Besar,https://news.detik.com/berita/d-5199926/jokowi-bicara-pertempuran-masa-depan-dengan-daya-hancur-yang-lebih-besar,1,0.6,-0.8,-4
+28-Jan-21,"Razia di Duri Kepa, Polisi Amankan 1 Unit Motor yang Ditinggal Kabur Pemiliknya",https://megapolitan.kompas.com/read/2020/10/04/23025951/razia-di-duri-kepa-polisi-amankan-1-unit-motor-yang-ditinggal-kabur,1,0,-0.8,-4
+4-Nov-20,Politisi Nasdem Akui Buruh Dirugikan dalam Pesangon di RUU Cipta Kerja,https://nasional.kompas.com/read/2020/10/04/22564421/politisi-nasdem-akui-buruh-dirugikan-dalam-pesangon-di-ruu-cipta-kerja,1,0.8,-0.8,0
+23-Dec-20,"Kumpulkan Massa, Polisi Bubarkan Lomba Burung di Kembangan",https://megapolitan.kompas.com/read/2020/10/04/22532441/kumpulkan-massa-polisi-bubarkan-lomba-burung-di-kembangan,1,0,0,0
+14-Mar-21,"Ditargetkan Rampung 2021, Pelabuhan Kali Adem Diklaim Bakal Lebih Besar dari Marina Ancol",https://megapolitan.kompas.com/read/2020/10/04/22521161/ditargetkan-rampung-2021-pelabuhan-kali-adem-diklaim-bakal-lebih-besar,1,0.6,-0.6,0
+25-Nov-20,"Jadi Epicentrum Covid, Kemenkes Siapkan Bogor Jadi Tempat Uji Coba Vaksin.",https://megapolitan.kompas.com/read/2020/10/04/22480491/jadi-epicentrum-covid-kemenkes-siapkan-bogor-jadi-tempat-uji-coba-vaksin,1,1,-0.6,5
+21-Oct-20,"Hendak Salip Kendaraan di Depannya, Perempuan Ini Tewas Ditabrak Lari",https://regional.kompas.com/read/2020/10/04/22395381/hendak-salip-kendaraan-di-depannya-perempuan-ini-tewas-ditabrak-lari,1,0.8,-1,-5
+11-Dec-20,Puluhan Rumah dan Satu Masjid di Lombok Utara Hangus Terbakar,https://regional.kompas.com/read/2020/10/04/22352981/puluhan-rumah-dan-satu-masjid-di-lombok-utara-hangus-terbakar,1,0.8,-0.6,4
+22-Oct-20,"Tiba-tiba Hilang di Hutan Saat Menggembala Kerbau, Pria Ini Dicari Ratusan Warga Desanya",https://regional.kompas.com/read/2020/10/04/22332531/tiba-tiba-hilang-di-hutan-saat-menggembala-kerbau-pria-ini-dicari-ratusan,1,0.8,-0.6,4
+8-Nov-20,"Bangun 300.000 Sumur Resapan hingga Pengerukan Sungai, Upaya Jakaarta Tangani Banjir",https://megapolitan.kompas.com/read/2020/10/04/22263921/bangun-300000-sumur-resapan-hingga-pengerukan-sungai-upaya-jakaarta,1,0.6,-0.8,-4
+5-Oct-20,Viral Video Bocah 5 Tahun Operasikan Eskavator untuk Bersihkan Puing Jembatan,https://regional.kompas.com/read/2020/10/04/22184941/viral-video-bocah-5-tahun-operasikan-eskavator-untuk-bersihkan-puing,1,0,-1,-5
+5-Oct-20,"Menyetir dalam Kondisi Mabuk, Pria Ini Tabrak Tukang Sayur hingga Tewas",https://regional.kompas.com/read/2020/10/04/22065291/menyetir-dalam-kondisi-mabuk-pria-ini-tabrak-tukang-sayur-hingga-tewas,1,0.8,-0.6,4
+13-Nov-20,Mahfud MD: Tak Ada Diskriminasi Umat Islam di Indonesia,https://nasional.kompas.com/read/2020/10/04/19025951/mahfud-md-tak-ada-diskriminasi-umat-islam-di-indonesia,1,0.8,-1,-5
+2-Feb-21,"Dibahas Kilat, Formappi Sebut RUU Cipta Kerja Pesanan Pihak Tertentu",https://nasional.kompas.com/read/2020/10/04/18405931/dibahas-kilat-formappi-sebut-ruu-cipta-kerja-pesanan-pihak-tertentu,1,0.2,-0.4,-2
+18-Nov-20,"75 Tahun TNI, Kontras Soroti Bentrokan dengan Polisi",https://nasional.kompas.com/read/2020/10/04/18195481/75-tahun-tni-kontras-soroti-bentrokan-dengan-polisi,1,0,-0.6,-3
+25-Feb-21,Erupsi Gunung Raung Terus Menurun Namun Statusnya Masih Waspada,https://news.detik.com/berita-jawa-timur/d-5481372/erupsi-gunung-raung-terus-menurun-namun-statusnya-masih-waspada?tag_from=wp_nhl_1,1,0.8,-0.4,4
+25-Feb-21,"Jokowi: 4,6 Juta Vaksin AstraZeneca Tiba di RI Maret",https://news.detik.com/berita/d-5481365/jokowi-46-juta-vaksin-astrazeneca-tiba-di-ri-maret?tag_from=wp_nhl_3,1,0.8,0,4
+6-Mar-21,Desa Kemiren Banyuwangi Dapat Sertifikasi Desa Pariwisata Berkelanjutan,https://news.detik.com/berita-jawa-timur/d-5481364/desa-kemiren-banyuwangi-dapat-sertifikasi-desa-pariwisata-berkelanjutan?tag_from=wp_nhl_4,1,0.6,0,3
+15-Dec-20,"Lewat Lapangan Olahraga, Walkot Semarang Optimalkan Resapan Air",https://news.detik.com/berita/d-5481368/lewat-lapangan-olahraga-walkot-semarang-optimalkan-resapan-air?tag_from=wp_nhl_7,1,0.6,0,3
+23-Oct-20,Penampakan Harta Karun Diduga dari Abad 17-PD II di Bawah Laut Sulsel,https://news.detik.com/foto-news/d-5481345/penampakan-harta-karun-diduga-dari-abad-17-pd-ii-di-bawah-laut-sulsel?tag_from=wp_nhl_8,1,0,-0.6,-3
+16-Oct-20,"Cek 71 Sampel, Satgas Belum Temukan Kasus Corona B117 di Jatim",https://news.detik.com/berita-jawa-timur/d-5481335/cek-71-sampel-satgas-belum-temukan-kasus-corona-b117-di-jatim?tag_from=wp_nhl_9,1,0,-1,-5
+6-Oct-20,Wagub Sulsel: Kelangsungan Proyek Tergantung Kebutuhan Masyarakat,https://news.detik.com/detiktv/d-5481339/wagub-sulsel-kelangsungan-proyek-tergantung-kebutuhan-masyarakat?tag_from=wp_nhl_10,1,0.8,-0.2,4
+10-Dec-20,Dubes RI Minta WNI yang Tak Berkepentingan untuk Tinggalkan Myanmar,https://news.detik.com/berita/d-5481333/dubes-ri-minta-wni-yang-tak-berkepentingan-untuk-tinggalkan-myanmar?tag_from=wp_nhl_11,1,0.2,-1,-5
+1-Nov-20,Ini Respons Pemprov Jatim soal Ditemukannya Corona B117 di Karawang,https://news.detik.com/berita-jawa-timur/d-5481332/ini-respons-pemprov-jatim-soal-ditemukannya-corona-b117-di-karawang?tag_from=wp_nhl_12,1,0.4,-0.8,-4
+1-Mar-21,"Wagub DKI: Tak Boleh Skateboard di Trotoar, Sudah Ada Tempat Disiapkan",https://news.detik.com/berita/d-5481329/wagub-dki-tak-boleh-skateboard-di-trotoar-sudah-ada-tempat-disiapkan?tag_from=wp_nhl_13,1,0.8,-0.6,4
+1-Jan-21,PKS Tak Setuju Ajakan Benci Produk Asing yang Digaungkan Jokowi,https://news.detik.com/berita/d-5481317/pks-tak-setuju-ajakan-benci-produk-asing-yang-digaungkan-jokowi?tag_from=wp_nhl_15,1,0.6,-1,-5
+21-Jan-21,"Sidang Berita Bohong, Jumhur Tuding Saksi Pelapor Orang Bayaran",https://news.detik.com/berita/d-5481313/sidang-berita-bohong-jumhur-tuding-saksi-pelapor-orang-bayaran?tag_from=wp_nhl_16,1,0.6,-1,-5
+7-Oct-20,"Mayat Pria Misterius Ditemukan di Sungai Purbalingga, Ini Ciri-cirinya",https://news.detik.com/berita-jawa-tengah/d-5481312/mayat-pria-misterius-ditemukan-di-sungai-purbalingga-ini-ciri-cirinya?tag_from=wp_nhl_17,1,0,-0.8,-4
+17-Jan-21,"Kasihan, Sapi Bunting di India Telan 71 Kg Sampah",https://news.detik.com/internasional/d-5481298/kasihan-sapi-bunting-di-india-telan-71-kg-sampah?tag_from=wp_nhl_20,1,0,-0.8,-4
+4-Dec-20,813 SD dan 199 SMP di Banyuwangi Mulai Sekolah Tatap Muka,https://news.detik.com/berita-jawa-timur/d-5481297/813-sd-dan-199-smp-di-banyuwangi-mulai-sekolah-tatap-muka?tag_from=wp_nhl_21,1,0.8,0,4
+9-Dec-20,Bocah di Kaltim yang Diterkam Jasadnya Ditemukan di Perut Buaya,https://news.detik.com/berita/d-5481296/bocah-di-kaltim-yang-diterkam-jasadnya-ditemukan-di-perut-buaya?tag_from=wp_nhl_22,1,0.8,-0.6,4
+7-Feb-21,Pria di Lolak Sulut Ditahan Usai Unggah Foto Menag Bermata Satu,https://news.detik.com/berita/d-5481293/pria-di-lolak-sulut-ditahan-usai-unggah-foto-menag-bermata-satu?tag_from=wp_nhl_23,1,0.6,0,3
+25-Dec-20,Referendum Perjanjian Perdagangan Bebas Swiss-RI Diprediksi Bakal Ketat,https://news.detik.com/dw/d-5481276/referendum-perjanjian-perdagangan-bebas-swiss-ri-diprediksi-bakal-ketat?tag_from=wp_nhl_26,1,0,-0.8,-4
+14-Jan-21,Polisi Ungkap Motif Pemuda Viral Curi Bra di Cakung: Butuh Kasih Sayang,https://news.detik.com/berita/d-5481271/polisi-ungkap-motif-pemuda-viral-curi-bra-di-cakung-butuh-kasih-sayang?tag_from=wp_nhl_28,1,0.8,-0.6,4
+16-Dec-20,"54 Tewas, PBB Serukan Militer Myanmar Berhenti Bunuh Demonstran",https://news.detik.com/internasional/d-5481268/54-tewas-pbb-serukan-militer-myanmar-berhenti-bunuh-demonstran?tag_from=wp_nhl_29,1,0,-0.6,-3
+26-Oct-20,"KBRI Yangon Berstatus Siaga II, Ini Imbauan Dubes untuk WNI di Myanmar",https://news.detik.com/berita/d-5481447/kbri-yangon-berstatus-siaga-ii-ini-imbauan-dubes-untuk-wni-di-myanmar,1,0.6,0,3
+15-Feb-21,"Makin Banyak Motor Serobot Jalur Sepeda Permanen, Wagub DKI Bicara Sanksi",https://news.detik.com/berita/d-5481446/makin-banyak-motor-serobot-jalur-sepeda-permanen-wagub-dki-bicara-sanksi,1,0.6,-0.6,0
+23-Dec-20,"Akun Twitter Di-hack Jadi Dukung KLB PD, Andi Arief Tuding Kakak Pembina",https://news.detik.com/berita/d-5481443/akun-twitter-di-hack-jadi-dukung-klb-pd-andi-arief-tuding-kakak-pembina,1,1,0,5
+22-Feb-21,"Jokowi: Kasus Aktif Corona di RI di Bawah Dunia, Positivity Rate Turun",https://news.detik.com/berita/d-5481413/jokowi-kasus-aktif-corona-di-ri-di-bawah-dunia-positivity-rate-turun,1,0.2,-0.8,-4
+14-Feb-21,Bupati Cirebon dan Charly Van Houten Jalani Vaksinasi Corona,https://news.detik.com/berita-jawa-barat/d-5481410/bupati-cirebon-dan-charly-van-houten-jalani-vaksinasi-corona,1,0,0,0
+31-Oct-20,Penampakan Robby Abbas yang Ditangkap Terkait Kasus Narkoba,https://news.detik.com/berita/d-5481408/penampakan-robby-abbas-yang-ditangkap-terkait-kasus-narkoba,1,0,-0.6,-3
+5-Feb-21,"Terdampak COVID-19, Angka Kemiskinan Jatim Naik 11%",https://news.detik.com/berita-jawa-timur/d-5481400/terdampak-covid-19-angka-kemiskinan-jatim-naik-11,1,0.6,-0.6,0
+4-Oct-20,Walkot Semarang Minta Jembatan Besi Sampangan Segera Difungsikan,https://news.detik.com/berita/d-5481371/walkot-semarang-minta-jembatan-besi-sampangan-segera-difungsikan,1,0.8,-1,-5
+24-Jan-21,"Jokowi: PPKM Mikro Tunjukkan Hasil Baik, Tren Kasus COVID-19 Terus Turun",https://news.detik.com/berita/d-5481393/jokowi-ppkm-mikro-tunjukkan-hasil-baik-tren-kasus-covid-19-terus-turun,1,0.6,-1,-5
+1-Nov-20,"Setahun Corona, Jokowi Ingatkan 3T-3M dan Bicara Ketersediaan Vaksin",https://news.detik.com/berita/d-5481392/setahun-corona-jokowi-ingatkan-3t-3m-dan-bicara-ketersediaan-vaksin,1,0,0,0
+8-Oct-20,Jokowi Minta Pemda Lebih Cepat Lakukan Vaksinasi Corona,https://news.detik.com/berita/d-5481389/jokowi-minta-pemda-lebih-cepat-lakukan-vaksinasi-corona,1,0.8,0,4
+2-Feb-21,Jokowi Minta Masyarakat Tak Khawatir soal Mutasi Corona B117,https://news.detik.com/berita/d-5481386/jokowi-minta-masyarakat-tak-khawatir-soal-mutasi-corona-b117,1,0.2,-0.8,-4
+15-Dec-20,13 Terdakwa 'Bola Sabu' Sukabumi Dituntut Hukuman Mati,https://news.detik.com/berita-jawa-barat/d-5481370/13-terdakwa-bola-sabu-sukabumi-dituntut-hukuman-mati,1,0,-0.8,-4
+17/02/2021,projek tunnel cisumdawu sumedang belum di pakai sudah banjir,https://turnbackhoax.id/2021/02/17/salah-projek-tunnel-cisumdawu-sumedang-belum-di-pakai-sudah-banjir/,0,0.6,-0.8,-4
+17/02/2021,nama bayi unik crazy killers,https://turnbackhoax.id/2021/02/17/salah-nama-bayi-unik-crazy-killers/,0,1,-0.6,5
+16/02/2021,replika wajah tutankhamun mirip jokowi,https://turnbackhoax.id/2021/02/16/salah-replika-wajah-tutankhamun-mirip-jokowi/,0,0.2,0,1
+16/02/2021,ancaman krisis ekonomi sby saya ingin membantu tapi partai saya tidak ada di dalam pemerintahan,https://turnbackhoax.id/2021/02/16/salah-ancaman-krisis-ekonomi-sby-saya-ingin-membantu-tapi-partai-saya-tidak-ada-di-dalam-pemerintahan/,0,0.8,-1,-5
+16/02/2021,bantuan sebesar 600000 dari pemerintah lewat program prakerja,https://turnbackhoax.id/2021/02/16/salah-bantuan-sebesar-600-000-dari-pemerintah-lewat-program-prakerja/,0,0.2,-0.6,-3
+16/02/2021,akun telegram cnbc indonesia berisi ajakan investasi,https://turnbackhoax.id/2021/02/16/salah-akun-telegram-cnbc-indonesia-berisi-ajakan-investasi/,0,0.6,0,3
+16/02/2021,risma mundur dari jabatan mensos,https://turnbackhoax.id/2021/02/16/salah-risma-mundur-dari-jabatan-mensos/,0,0,-0.6,-3
+16/02/2021,jokowi berada dalam kerumunan,https://turnbackhoax.id/2021/02/16/salah-jokowi-berada-dalam-kerumunan/,0,0.8,0,4
+15/02/2021,bawah merah untuk penangkalan apabila tergigit ular atau binatang apa saja yg mempunyai bisa,https://turnbackhoax.id/2021/02/15/salah-bawah-merah-untuk-penangkalan-apabila-tergigit-ular-atau-binatang-apa-saja-yg-mempunyai-bisa/,0,0.8,-1,-5
+15/02/2021,tautan untuk mengetahui siapa saja yang sering ngepoin facebook kita,https://turnbackhoax.id/2021/02/15/salah-tautan-untuk-mengetahui-siapa-saja-yang-sering-ngepoin-facebook-kita/,0,0.6,-1,-5
+15/02/2021,video jalan amblas di kawasan songgoriti kota batu malang,https://turnbackhoax.id/2021/02/15/salah-video-jalan-amblas-di-kawasan-songgoriti-kota-batu-malang/,0,0,-1,-5
+15/02/2021,tangkapan layar artikel detikcom anies kalau hanya bangun kota yang megah firaun juga bisa yang penting habiskan apbd unfaedahpun nggak masalah,https://turnbackhoax.id/2021/02/15/salah-tangkapan-layar-artikel-detik-com-anies-kalau-hanya-bangun-kota-yang-megah-firaun-juga-bisa-yang-penting-habiskan-apbd-unfaedahpun-nggak-masalah/,0,0.8,-0.8,0
+15/02/2021,bantuan blt dari akun whatsapp kemenkominfo,https://turnbackhoax.id/2021/02/15/salah-bantuan-blt-dari-akun-whatsapp-kemenkominfo/,0,0,-0.6,-3
+15/02/2021,foto rihanna memegang bendera negara pakistan,https://turnbackhoax.id/2021/02/15/salah-foto-rihanna-memegang-bendera-negara-pakistan/,0,0.6,-0.6,0
+14/02/2021,covid19 bukan virus sumber kementerian kesehatan italy,https://turnbackhoax.id/2021/02/14/salah-covid-19-bukan-virus-sumber-kementerian-kesehatan-italy/,0,0,-0.4,-2
+14/02/2021,armand maulana meninggal dunia,https://turnbackhoax.id/2021/02/14/salah-armand-maulana-meninggal-dunia/,0,0.2,-0.2,0
+14/02/2021,foto kondisi tajikistan setelah dilanda gempa,https://turnbackhoax.id/2021/02/14/salah-foto-kondisi-tajikistan-setelah-dilanda-gempa/,0,0.6,-0.6,0
+13/02/2021,surat panggilan interview pt jababeka group,https://turnbackhoax.id/2021/02/13/salah-surat-panggilan-interview-pt-jababeka-group/,0,0,0,0
+13/02/2021,undangan pemakzulan presiden jokowi dan wapres maruf amin oleh bem si,https://turnbackhoax.id/2021/02/13/salah-undangan-pemakzulan-presiden-jokowi-dan-wapres-maruf-amin-oleh-bem-si/,0,0.6,0,3
+13/02/2021,dana hibah dari dinas koperasi dan ukm provinsi jawa timur,https://turnbackhoax.id/2021/02/13/salah-dana-hibah-dari-dinas-koperasi-dan-ukm-provinsi-jawa-timur/,0,0.8,-0.6,4
+13/02/2021,video saya usia udah 25baru sadar kalo ktp ada chip gps nya,https://turnbackhoax.id/2021/02/13/salah-video-saya-usia-udah-25baru-sadar-kalo-ktp-ada-chip-gps-nya/,0,0.8,-0.6,4
+12/2/2021,kondisi seorang remaja perempuan setelah vaksinasi covid19,https://turnbackhoax.id/2021/02/12/salah-kondisi-seorang-remaja-perempuan-setelah-vaksinasi-covid-19/,0,0,-0.8,-4
+12/2/2021,tangkapan layar artikel tempoco saya menjamin kebebasan anda berbicara tapi saya tidak menjamin kebebasan setelah berbicara,https://turnbackhoax.id/2021/02/12/salah-tangkapan-layar-artikel-tempo-co-saya-menjamin-kebebasan-anda-berbicara-tapi-saya-tidak-menjamin-kebebasan-setelah-berbicara/,0,0.8,-0.8,0
+12/2/2021,pekerja jt mogok kerja karena gaji dipotong,https://turnbackhoax.id/2021/02/12/salah-pekerja-jt-mogok-kerja-karena-gaji-dipotong/,0,1,-0.8,5
+12/2/2021,foto sby beri restu anies baswedan menuju ri 1,https://turnbackhoax.id/2021/02/12/salah-foto-sby-beri-restu-anies-baswedan-menuju-ri-1/,0,0.6,-0.6,0
+12/2/2021,restoran gaib di pulau laki di klik tetep gak bisa,https://turnbackhoax.id/2021/02/12/salah-restoran-gaib-di-pulau-laki-di-klik-tetep-gak-bisa/,0,0.2,-0.6,-3
+12/2/2021,pada ngeyel pakai masker itu kalau sakit aja panduan who sudah berubah d sini masiiiih aja 3m sampai setahun,https://turnbackhoax.id/2021/02/12/salah-pada-ngeyel-pakai-masker-itu-kalau-sakit-aja-panduan-who-sudah-berubah-d-sini-masiiiih-aja-3m-sampai-setahun/,0,1,-0.8,5
+12/2/2021,foto kepanikan firaun jaman now,https://turnbackhoax.id/2021/02/12/salah-foto-kepanikan-firaun-jaman-now/,0,0.8,-0.6,4
+12/2/2021,gambar permukaan matahari yang dipublikasikan nasa,https://turnbackhoax.id/2021/02/12/salah-gambar-permukaan-matahari-yang-dipublikasikan-nasa/,0,1,-0.6,5
+12/2/2021,undertaker mendukung petani india,https://turnbackhoax.id/2021/02/12/salah-undertaker-mendukung-petani-india/,0,0.8,0,4
+12/2/2021,yang bikin banyak positif bukan acara pernikahannya tapi testnya,https://turnbackhoax.id/2021/02/12/salah-yang-bikin-banyak-positif-bukan-acara-pernikahannya-tapi-testnya/,0,0.8,-0.6,4
+12/2/2021,kecpanjang bandar lampung di hantam banjir,https://turnbackhoax.id/2021/02/12/salah-kec-panjang-bandar-lampung-di-hantam-banjir/,0,0,-0.8,-4
+11/2/2021,vietnam tanpa kasus kematian akibat covid19 karena campuran teh panas dan lemon,https://turnbackhoax.id/2021/02/11/salah-vietnam-tanpa-kasus-kematian-akibat-covid-19-karena-campuran-teh-panas-dan-lemon/,0,0.6,-0.8,-4
+11/2/2021,fadli zon dipecat dari jabatan waketum gerindra,https://turnbackhoax.id/2021/02/11/salah-fadli-zon-dipecat-dari-jabatan-waketum-gerindra/,0,0,-0.8,-4
+11/2/2021,ustadz maaher meninggal karena disuntik paksa di penjara,https://turnbackhoax.id/2021/02/11/salah-ustadz-maaher-meninggal-karena-disuntik-paksa-di-penjara/,0,0.8,-0.8,0
+11/2/2021,surat tim publikasi dirgahayu hut ke 28 tahun kota tangerang,https://turnbackhoax.id/2021/02/11/salah-surat-tim-publikasi-dirgahayu-hut-ke-28-tahun-kota-tangerang/,0,0.2,-0.6,-3
+11/2/2021,kematian ustadz maaher akibat disuntik vaksin,https://turnbackhoax.id/2021/02/11/salah-kematian-ustadz-maaher-akibat-disuntik-vaksin/,0,0.8,-0.6,4
+11/2/2021,isi bbm gratis di spbu seluruh indonesia pada tanggal 2930 februari 2021,https://turnbackhoax.id/2021/02/11/salah-isi-bbm-gratis-di-spbu-seluruh-indonesia-pada-tanggal-29-30-februari-2021/,0,0.6,-0.8,-4
+11/2/2021,video sriwijayaair emergency landing atau crash,https://turnbackhoax.id/2021/02/11/salah-video-sriwijayaair-emergency-landing-atau-crash/,0,0,-0.6,-3
+11/2/2021,pulau sumba dijual,https://turnbackhoax.id/2021/02/11/salah-pulau-sumba-dijual/,0,0,0,0
+10/2/2021,minum air hangat 4 kali sehari dapat menyembuhkan covid19,https://turnbackhoax.id/2021/02/10/salah-minum-air-hangat-4-kali-sehari-dapat-menyembuhkan-covid-19/,0,0.6,-0.8,-4
+10/2/2021,uang redenominasi pecahan rp100 bergambar jokowi,https://turnbackhoax.id/2021/02/10/salah-uang-redenominasi-pecahan-rp100-bergambar-jokowi/,0,0,0,0
+10/2/2021,ra karror menikahi dua perempuan sekaligus,https://turnbackhoax.id/2021/02/10/salah-ra-karror-menikahi-dua-perempuan-sekaligus/,0,0.2,0,1
+10/2/2021,tangkapan layar artikel disebut tersingkir dari jabatannya sebagai waketum partai gerindra fadli zon saya akan angkat kaki dari indonesia,https://turnbackhoax.id/2021/02/10/salah-tangkapan-layar-artikel-disebut-tersingkir-dari-jabatannya-sebagai-waketum-partai-gerindra-fadli-zon-saya-akan-angkat-kaki-dari-indonesia/,0,0.8,-1,-5
+10/2/2021,sampul koran tempo berjudul babakbelur di ronde kedua,https://turnbackhoax.id/2021/02/10/salah-sampul-koran-tempo-berjudul-babak-belur-di-ronde-kedua/,0,0.4,-1,-5
+10/2/2021,video selamatkan jasad mereka sriwijayaairsj182,https://turnbackhoax.id/2021/02/10/salah-video-selamatkan-jasad-mereka-sriwijayaairsj182/,0,0,0,0
+10/2/2021,foto istri tusuk suami usai lihat fotonya dengan wanita lain ternyata perempuan itu dirinya sendiri pas masih kurus,https://turnbackhoax.id/2021/02/10/salah-foto-istri-tusuk-suami-usai-lihat-fotonya-dengan-wanita-lain-ternyata-perempuan-itu-dirinya-sendiri-pas-masih-kurus/,0,0.8,-0.8,0
+9/2/2021,video markas power rangers ada di indonesia,https://turnbackhoax.id/2021/02/09/salah-video-markas-power-rangers-ada-di-indonesia/,0,0.8,0,4
+9/2/2021,setahun koma di rumah sakit begitu siuman pria ini syok orangorang tercinta meninggal karena covid,https://turnbackhoax.id/2021/02/09/salah-setahun-koma-di-rumah-sakit-begitu-siuman-pria-ini-syok-orang-orang-tercinta-meninggal-karena-covid/,0,1,-0.8,5
+9/2/2021,video sriwijayaair detikdetik jatuh nya pesawat 182 kepulaunseribu pontianak,https://turnbackhoax.id/2021/02/09/salah-video-sriwijayaair-detikdetik-jatuh-nya-pesawat-182-kepulaunseribu-pontianak/,0,0,-0.6,-3
+9/2/2021,sri sultan pertanyakan keaslian ijazah jokowi dari ugm,https://turnbackhoax.id/2021/02/09/salah-sri-sultan-pertanyakan-keaslian-ijazah-jokowi-dari-ugm/,0,0,-0.6,-3
+9/2/2021,jokowi ternyata sudah pakai rp385 triliun dana haji jamaah tak diberitahu,https://turnbackhoax.id/2021/02/09/salah-jokowi-ternyata-sudah-pakai-rp-385-triliun-dana-haji-jamaah-tak-diberitahu/,0,0.6,0,3
+8/2/2021,menyamar dengan baju nakes tentara cina berhasil masuk ke indonesia,https://turnbackhoax.id/2021/02/08/salah-menyamar-dengan-baju-nakes-tentara-cina-berhasil-masuk-ke-indonesia/,0,1,-0.6,5
+8/2/2021,terseret korupsi dana formula e anies baswedan terancam penjara seumur hidup,https://turnbackhoax.id/2021/02/08/salah-terseret-korupsi-dana-formula-e-anies-baswedan-terancam-penjara-seumur-hidup/,0,0.6,-0.8,-4
+8/2/2021,lowongan kerja terbaru pt pertamina tahun 2021,https://turnbackhoax.id/2021/02/08/salah-lowongan-kerja-terbaru-pt-pertamina-tahun-2021/,0,0.6,0,3
+8/2/2021,warga prancis berbondong bondong masuk islam,https://turnbackhoax.id/2021/02/08/salah-warga-prancis-berbondong-bondong-masuk-islam/,0,0.2,-0.6,-3
+8/2/2021,foto spesies hewan baru muncul di chernobyl,https://turnbackhoax.id/2021/02/08/salah-foto-spesies-hewan-baru-muncul-di-chernobyl/,0,0.6,0,3
+8/2/2021,akun whatsapp wakil wali kota jambi tawarkan bantuan,https://turnbackhoax.id/2021/02/08/salah-akun-whatsapp-wakil-wali-kota-jambi-tawarkan-bantuan/,0,0.6,-0.2,3
+8/2/2021,video banjir di tanah tinggi cameron highland malaysia,https://turnbackhoax.id/2021/02/08/salah-video-banjir-di-tanah-tinggi-cameron-highland-malaysia/,0,0.4,-0.8,-4
+7/2/2021,akun facebook bupati sanggau paolus hadi,https://turnbackhoax.id/2021/02/07/salah-akun-facebook-bupati-sanggau-paolus-hadi/,0,0,0,0
+7/2/2021,fenomena banjir darah di pekalongan,https://turnbackhoax.id/2021/02/07/salah-fenomena-banjir-darah-di-pekalongan/,0,0.8,-0.8,0
+7/2/2021,beli pulsa kena pajak,https://turnbackhoax.id/2021/02/07/salah-beli-pulsa-kena-pajak/,0,0.2,-1,-5
+7/2/2021,bantuan pulsa 200 ribu dan kuota 75 gb dari kominfo,https://turnbackhoax.id/2021/02/07/salah-bantuan-pulsa-200-ribu-dan-kuota-75-gb-dari-kominfo/,0,0.6,-1,-5
+7/2/2021,jakarta tanggal 1215 februari lockdown,https://turnbackhoax.id/2021/02/07/salah-jakarta-tanggal-12-15-februari-lockdown/,0,0,-0.8,-4
+7/2/2021,suara uang tunai di atm suara palsu yang dihasilkan speaker,https://turnbackhoax.id/2021/02/07/salah-suara-uang-tunai-di-atm-suara-palsu-yang-dihasilkan-speaker/,0,0.6,-0.8,-4
+7/2/2021,setelah difucksin otak jadi lelet,https://turnbackhoax.id/2021/02/07/salah-setelah-difucksin-otak-jadi-lelet/,0,1,0,5
+7/2/2021,akun whatsapp wali kota bogor bima arya sugiarto,https://turnbackhoax.id/2021/02/07/salah-akun-whatsapp-wali-kota-bogor-bima-arya-sugiarto/,0,0,-0.2,-1
+7/2/2021,akun whatsapp sekretaris daerah kabupaten pandeglang h pery hasanudin sh mh,https://turnbackhoax.id/2021/02/07/salah-akun-whatsapp-sekretaris-daerah-kabupaten-pandeglang-h-pery-hasanudin-sh-mh/,0,0,0,0
+7/2/2021,daftar harga tiket pesawat ke bandara di purbalingga,https://turnbackhoax.id/2021/02/07/salah-daftar-harga-tiket-pesawat-ke-bandara-di-purbalingga/,0,0.4,-0.6,-3
+7/2/2021,gubernur anies baswedan bangun bandara jb soedirman di purbalingga,https://turnbackhoax.id/2021/02/07/salah-gubernur-anies-baswedan-bangun-bandara-jb-soedirman-di-purbalingga/,0,0,0,0
+7/2/2021,imbauan penutupan pasar dan tempat wisata diy oleh sri sultan hb x,https://turnbackhoax.id/2021/02/07/salah-imbauan-penutupan-pasar-dan-tempat-wisata-diy-oleh-sri-sultan-hb-x/,0,0,-0.6,-3
+7/2/2021,kapal tenggelam di selat bali pada 5 februari 2021,https://turnbackhoax.id/2021/02/07/salah-kapal-tenggelam-di-selat-bali-pada-5-februari-2021/,0,0,-0.8,-4
+7/2/2021,anies jakarta macet tak betul juga kalau jam 2 pagi sepi,https://turnbackhoax.id/2021/02/07/salah-anies-jakarta-macet-tak-betul-juga-kalau-jam-2-pagi-sepi/,0,0.8,-0.8,0
+7/2/2021,isran noor kantor yang buka akan kami rudal,https://turnbackhoax.id/2021/02/07/salah-isran-noor-kantor-yang-buka-akan-kami-rudal/,0,0.8,-0.6,4
+7/2/2021,yahya waloni menuai balasan dari ucapannya yang menantang covid19 dan enggan menggunakan masker,https://turnbackhoax.id/2021/02/07/salah-yahya-waloni-menuai-balasan-dari-ucapannya-yang-menantang-covid-19-dan-enggan-menggunakan-masker/,0,0.2,-0.8,-4
+7/2/2021,obat klorin dioksida temuan prof dr richard claproth dapat menyembuhkan covid19,https://turnbackhoax.id/2021/02/07/salah-obat-klorin-dioksida-temuan-prof-dr-richard-claproth-dapat-menyembuhkan-covid-19/,0,0.6,-0.2,3
+6/2/2021,biaya pendidikan sistem kampus merdeka universitas negri yogyakarta,https://turnbackhoax.id/2021/02/06/salah-biaya-pendidikan-sistem-kampus-merdeka-universitas-negri-yogyakarta/,0,0,-0.8,-4
+6/2/2021,video air rebusan belimbing wuluh dapat mencegah dan menyembuhkan covid19,https://turnbackhoax.id/2021/02/06/salah-video-air-rebusan-belimbing-wuluh-dapat-mencegah-dan-menyembuhkan-covid-19/,0,0.6,-0.8,-4
+6/2/2021,penjualan genose c19 seharga 75 juta di facebook,https://turnbackhoax.id/2021/02/06/salah-penjualan-genose-c19-seharga-75-juta-di-facebook/,0,0.8,0,4
+6/2/2021,foto aung san suu kyi berhadapan dengan pasukan militer,https://turnbackhoax.id/2021/02/06/salah-foto-aung-san-suu-kyi-berhadapan-dengan-pasukan-militer/,0,0.6,-1,-5
+6/2/2021,psbb jawa bali di perpanjang sampai 28 maret 2021,https://turnbackhoax.id/2021/02/06/salah-psbb-jawa-bali-di-perpanjang-sampai-28-maret-2021/,0,0.4,0,2
+5/2/2021,tuduhan rekayasa video aerobik bang jago di myanmar,https://turnbackhoax.id/2021/02/05/salah-tuduhan-rekayasa-video-aerobik-bang-jago-di-myanmar/,0,0.4,-0.8,-4
+5/2/2021,video dua orang psikopat memaksa seorang pria memakan sup berisi daging dan usus istrinya sendiri dari deep web,https://turnbackhoax.id/2021/02/05/salah-video-dua-orang-psikopat-memaksa-seorang-pria-memakan-sup-berisi-daging-dan-usus-istrinya-sendiri-dari-deep-web/,0,0.2,-0.8,-4
+5/2/2021,foto satelit retakan bawah laut akibat gempa sulbar,https://turnbackhoax.id/2021/02/05/salah-foto-satelit-retakan-bawah-laut-akibat-gempa-sulbar/,0,0.6,-0.2,3
+5/2/2021,semua fraksi sepakat copot anies,https://turnbackhoax.id/2021/02/05/salah-semua-fraksi-sepakat-copot-anies/,0,0.6,-0.6,0
+5/2/2021,ramuan penangkal covid19 oleh kemenkes,https://turnbackhoax.id/2021/02/05/salah-ramuan-penangkal-covid-19-oleh-kemenkes/,0,0,0,0
+5/2/2021,presenter tv one diberi sensor berupa hijab untuk menutup aurat,https://turnbackhoax.id/2021/02/05/salah-presenter-tv-one-diberi-sensor-berupa-hijab-untuk-menutup-aurat/,0,0,-0.8,-4
+5/2/2021,sinyal sos berarti save our soul oleh korban sriwijaya air sj182 di pulau laki,https://turnbackhoax.id/2021/02/05/salah-sinyal-sos-berarti-save-our-soul-oleh-korban-sriwijaya-air-sj-182-di-pulau-laki/,0,0.6,-0.6,0
+5/2/2021,biaya tilang terbaru di indonesia kapolri baru mantap,https://turnbackhoax.id/2021/02/05/salah-biaya-tilang-terbaru-di-indonesia-kapolri-baru-mantap/,0,0.8,-0.4,4
+4/2/2021,foto contoh anak raja salman arab yg kuliah di amerika,https://turnbackhoax.id/2021/02/04/salah-foto-contoh-anak-raja-salman-arab-yg-kuliah-di-amerika/,0,0.6,-0.6,0
+4/2/2021,erdogan builds 70000 elite settlements,https://turnbackhoax.id/2021/02/04/false-erdogan-builds-70000-elite-settlements/,0,0.2,0,1
+4/2/2021,75 tahun indonesia merdeka baru di zaman jokowi lah sumatera mempunyai jalan tol,https://turnbackhoax.id/2021/02/04/salah-75-tahun-indonesia-merdeka-baru-di-zaman-jokowi-lah-sumatera-mempunyai-jalan-tol/,0,0.6,0,3
+4/2/2021,video mkd dpr resmi copot fadli zon,https://turnbackhoax.id/2021/02/04/salah-video-mkd-dpr-resmi-copot-fadli-zon/,0,0.8,0,4
+4/2/2021,jokowi minta risma gantikan anies,https://turnbackhoax.id/2021/02/04/salah-jokowi-minta-risma-gantikan-anies/,0,0.2,0,1
+3/2/2021,menteri kesehatan thailand menangis saat disuntik vaksin covid19,https://turnbackhoax.id/2021/02/03/salah-menteri-kesehatan-thailand-menangis-saat-mendapat-vaksin-covid-19/,0,0,-0.6,-3
+3/2/2021,bantuan covid19 untuk pemilik sim a dan c oleh asuransi jasa raharja,https://turnbackhoax.id/2021/02/03/salah-bantuan-covid-19-untuk-pemilik-sim-a-dan-c-oleh-asuransi-jasa-raharja/,0,0.6,0,3
+3/2/2021,taktik baru scammer melalui status whatsapp,https://turnbackhoax.id/2021/02/03/salah-taktik-baru-scammer-melalui-status-whatsapp/,0,0.2,0,1
+3/2/2021,video berita terbaru hari ini ribuan masyarakat papua mengamuk soal rasisme natalius pigai viral news,https://turnbackhoax.id/2021/02/03/salah-video-berita-terbaru-hari-ini-ribuan-masyarakat-papua-mengamuk-soal-rasisme-natalius-pigai-viral-news/,0,0.6,-1,-5
+3/2/2021,whatsapp dikenai biaya setelah diakuisisi oleh facebook,https://turnbackhoax.id/2021/02/03/salah-whatsapp-dikenai-biaya-setelah-diakuisisi-oleh-facebook/,0,0,-0.4,-2
+3/2/2021,anies pastikan tolak utang luar negeri jika pimpinan ri,https://turnbackhoax.id/2021/02/03/salah-anies-pastikan-tolak-utang-luar-negeri-jika-pimpinan-ri/,0,0.4,-1,-5
+3/2/2021,satu2nya negara yg tidak ada covid19nya tanzania mereka gak pernah adakan rapid test n pcr kepada penduduknya,https://turnbackhoax.id/2021/02/03/salah-satu2nya-negara-yg-tidak-ada-covid19-nya-tanzania-mereka-gak-pernah-adakan-rapid-test-n-pcr-kepada-penduduknya/,0,0,-0.8,-4
+3/2/2021,erdogan bangun 70000 pemukiman elit,https://turnbackhoax.id/2021/02/03/salah-erdogan-bangun-70-000-pemukiman-elit/,0,0,0,0
+2/2/2021,video detik detik kecelakaan motor dan kereta api pada 28 januari 2021 di sukoharjo,https://turnbackhoax.id/2021/02/02/salah-video-detik-detik-kecelakaan-motor-dan-kereta-api-pada-28-januari-2021-di-sukoharjo/,0,0,-0.8,-4
+2/2/2021,surat laporan kasus korupsi anies baswedan yang dihilangkan kpk ri ditemukan,https://turnbackhoax.id/2021/02/02/salah-surat-laporan-kasus-korupsi-anies-baswedan-yang-dihilangkan-kpk-ri-ditemukan/,0,0,-0.8,-4
+2/2/2021,pesan berantai paradox vaksin,https://turnbackhoax.id/2021/02/02/salah-pesan-berantai-paradox-vaksin/,0,1,0,5
+2/2/2021,test ge nose c19 mudah n murah rp 15 rb 10 detik akurasi 999 gak hrs swab gak hrs diambil darah,https://turnbackhoax.id/2021/02/02/salah-test-ge-nose-c19-mudah-n-murah-rp-15-rb-10-detik-akurasi-999-gak-hrs-swab-gak-hrs-diambil-darah/,0,0.8,0,4
+2/2/2021,anies raih piala lomba mewarnai,https://turnbackhoax.id/2021/02/02/salah-anies-raih-piala-lomba-mewarnai/,0,0.8,0,4
+1/2/2021,video anda harus tahu kebenaran ada jarum suntikspuit palsu dipersiapkan untuk para pemimpin dunia,https://turnbackhoax.id/2021/02/01/salah-video-anda-harus-tahu-kebenaran-ada-jarum-suntik-spuit-palsu-dipersiapkan-untuk-para-pemimpin-dunia/,0,0.8,-1,-5
+1/2/2021,video cawapres usa kamala harris disuntik vasin disiarkan live di tv sadarlah kebohongan sedang di lancarkan,https://turnbackhoax.id/2021/02/01/salah-video-cawapres-usa-kamala-harris-disuntik-vasin-disiarkan-live-di-tv-sadarlah-kebohongan-sedang-di-lancarkan/,0,0.6,0,3
+1/2/2021,video viralkan ini kelakuan perempuan laknat thd pembatu,https://turnbackhoax.id/2021/02/01/salah-video-viralkan-ini-kelakuan-perempuan-laknat-thd-pembatu/,0,0,-0.6,-3
+1/2/2021,sms berhadiah cek rp35000000 dari bri,https://turnbackhoax.id/2021/02/01/salah-sms-berhadiah-cek-rp35-000-000-dari-bri/,0,0,-1,-5
+1/2/2021,pramugari pesawat sj182 menangis karena firasat sebelum pesawat jatuh,https://turnbackhoax.id/2021/02/01/salah-pramugari-pesawat-sj182-menangis-karena-firasat-sebelum-pesawat-jatuh/,0,0,-0.8,-4
+31/01/2021,dua kekasih tidak lepas berpelukan setelah berhubungan intim di jalan,https://turnbackhoax.id/2021/01/31/salah-dua-kekasih-tidak-lepas-berpelukan-setelah-berhubungan-intim-di-jalan/,0,1,-0.6,5
+31/01/2021,anak 10 bulan ikut ditahan akibat sang ibu ketahuan mencuri,https://turnbackhoax.id/2021/01/31/salah-anak-10-bulan-ikut-ditahan-akibat-sang-ibu-ketahuan-mencuri/,0,0.8,-1,-5
+31/01/2021,gereja haramkan vaksin kok mui halalkan vaksin,https://turnbackhoax.id/2021/01/31/salah-gereja-haramkan-vaksin-kok-mui-halalkan-vaksin/,0,0,-0.4,-2
+31/01/2021,lantunan bacaan alquran seorang anak papua,https://turnbackhoax.id/2021/01/31/salah-lantunan-bacaan-al-quran-seorang-anak-papua/,0,0,-0.6,-3
+31/01/2021,hancur sudah jokowi menjual indonesia,https://turnbackhoax.id/2021/01/31/salah-hancur-sudah-jokowi-menjual-indonesia/,0,0.6,-0.8,-4
+31/01/2021,sms berhadiah 100 juta dari telkomsel,https://turnbackhoax.id/2021/01/31/salah-sms-berhadiah-100-juta-dari-telkomsel/,0,0.8,-0.6,4
+31/01/2021,akun facebook gubernur kalimantan timur isran noor,https://turnbackhoax.id/2021/01/31/salah-akun-facebook-gubernur-kalimantan-timur-isran-noor/,0,0,0,0
+30/01/2021,bayi katak,https://turnbackhoax.id/2021/01/30/salah-bayi-katak/,0,0,-0.6,-3
+29/01/2021,gubernur anies baswedan mengecat rumah warga untuk antisipasi banjir,https://turnbackhoax.id/2021/01/29/salah-gubernur-anies-baswedan-mengecat-rumah-warga-untuk-antisipasi-banjir/,0,0.8,-0.8,0
+29/01/2021,bank indonesia cetak uang 300 triliyun,https://turnbackhoax.id/2021/01/29/salah-bank-indonesia-cetak-uang-300-triliyun/,0,0,0,0
+28/01/2021,lianhua qingwen dapat digunakan sebagai obat covid19,https://turnbackhoax.id/2021/01/28/salah-lianhua-qingwen-dapat-digunakan-sebagai-obat-covid-19/,0,0.6,-1,-5
+28/01/2021,akun facebook dan website xiaomi indonesia,https://turnbackhoax.id/2021/01/28/salah-akun-facebook-dan-website-xiaomi-indonesia/,0,0,0,0
+28/01/2021,tautan bantuan sosial finansial rp3550000 untuk pekerja tahun 20002021,https://turnbackhoax.id/2021/01/28/salah-tautan-bantuan-sosial-finansial-rp3-550-000-untuk-pekerja-tahun-2000-2021/,0,1,0,5
+28/01/2021,foto fadli zon memberikan bantuan handphone kepada mahasiswi yang kurang mampu,https://turnbackhoax.id/2021/01/28/salah-foto-fadli-zon-memberikan-bantuan-handphone-kepada-mahasiswi-yang-kurang-mampu/,0,0.8,-0.6,4
+28/01/2021,nomor palsu satgas covid19 beredar di whatsapp,https://turnbackhoax.id/2021/01/28/salah-nomor-palsu-satgas-covid-19-beredar-di-whatsapp/,0,0.4,-0.8,-4
+28/01/2021,pengawal biden sekarang dari pasukan cina?Çª,https://turnbackhoax.id/2021/01/28/salah-pengawal-biden-sekarang-dari-pasukan-cina/,0,0,-1,-5
+28/01/2021,sunrise manidharshana,https://turnbackhoax.id/2021/01/28/false-sunrise-manidharshana/,0,0,0,0
+28/01/2021,berkumur dengan air hangat dan air garam dapat menghilangkan virus corona,https://turnbackhoax.id/2021/01/28/salah-berkumur-dengan-air-hangat-dan-air-garam-dapat-menghilangkan-virus-corona/,0,0.6,-0.6,0
+28/01/2021,fenomena langka matahari manidharshana,https://turnbackhoax.id/2021/01/28/salah-fenomena-langka-matahari-manidharshana/,0,1,0,5
+27/01/2021,minum air kelapa sebagai penangkal racun usai divaksin,https://turnbackhoax.id/2021/01/27/salah-minum-air-kelapa-sebagai-penangkal-racun-usai-divaksin/,0,0.6,-1,-5
+27/01/2021,bahwa michelle obama dulunya adalah seorang transgender,https://turnbackhoax.id/2021/01/27/salah-bahwa-michelle-obama-dulunya-adalah-seorang-transgender/,0,0,0,0
+26/01/2021,kumham hapus sanksi pidana setelah anak buah megawati tolak vaksin,https://turnbackhoax.id/2021/01/26/salah-kumham-hapus-sanksi-pidana-setelah-anak-buah-megawati-tolak-vaksin/,0,0.6,-0.6,0
+26/01/2021,joe biden menggunakan massonic illuminaty biblekitab setan dlm sumpahnya mnjdi presiden,https://turnbackhoax.id/2021/01/26/salah-joe-biden-menggunakan-massonic-illuminaty-biblekitab-setan-dlm-sumpahnya-mnjdi-presiden/,0,0.6,-0.8,-4
+26/01/2021,undian resmi whatsapp rp175 juta,https://turnbackhoax.id/2021/01/26/salah-undian-resmi-whatsapp-rp175-juta/,0,0.8,-0.8,0
+26/01/2021,gambar kondisi rizieq shihab makin kritis dan sedang dibimbing bacaan ayat suci alquran,https://turnbackhoax.id/2021/01/26/salah-gambar-kondisi-rizieq-shihab-makin-kritis-dan-sedang-dibimbing-bacaan-ayat-suci-al-quran/,0,1,-0.8,5
+25/01/2021,karena disuntik vaksin dokter di palembang meninggal,https://turnbackhoax.id/2021/01/25/salah-karena-disuntik-vaksin-dokter-di-palembang-meninggal/,0,0,-0.8,-4
+25/01/2021,kartel narkoba lolos presiden filipina beri peringatan pada jokowi,https://turnbackhoax.id/2021/01/25/salah-kartel-narkoba-lolos-presiden-filipina-beri-peringatan-pada-jokowi/,0,0.6,-0.8,-4
+25/01/2021,olimpiade tokyo 2021 dibatalkan,https://turnbackhoax.id/2021/01/25/salah-olimpiade-tokyo-2021-dibatalkan/,0,0,-0.6,-3
+25/01/2021,21 cara cek hp disadap,https://turnbackhoax.id/2021/01/25/salah-21-cara-cek-hp-disadap/,0,0,-1,-5
+24/01/2021,julio iglesias meninggal karena covid19,https://turnbackhoax.id/2021/01/24/salah-julio-iglesias-meninggal-karena-covid19/,0,0,-0.8,-4
+24/01/2021,tangkapan layar gus milos saat dihubungi pihak metro tv yang memberikan bantuan bagi korban banjir,https://turnbackhoax.id/2021/01/24/salah-tangkapan-layar-gus-milos-saat-dihubungi-pihak-metro-tv-yang-memberikan-bantuan-bagi-korban-banjir/,0,0.6,-0.8,-4
+24/01/2021,kesan abdul somad saat divaksin ndak terasa sakit tak sesakit ditinggal pas lagi sayangsayangnya,https://turnbackhoax.id/2021/01/24/salah-kesan-abdul-somad-saat-divaksin-ndak-terasa-sakit-tak-sesakit-ditinggal-pas-lagi-sayang-sayangnya/,0,0.8,-0.8,0
+24/01/2021,foto anak korban vaksinasi covid,https://turnbackhoax.id/2021/01/24/salah-foto-anak-korban-vaksinasi-covid/,0,0.6,-0.6,0
+23/01/2021,menag yaqut tidak lagi anggarkan dana untuk pesantren,https://turnbackhoax.id/2021/01/23/salah-menag-yaqut-tidak-lagi-anggarkan-dana-untuk-pesantren/,0,0.6,-0.6,0
+23/01/2021,indonesia tidak dapat menggugat jika vaksin bermasalah,https://turnbackhoax.id/2021/01/23/salah-indonesia-tidak-dapat-menggugat-jika-vaksin-bermasalah/,0,0,-0.8,-4
+23/01/2021,surat perintah karantina selama dua minggu bagi warga amerika serikat,https://turnbackhoax.id/2021/01/23/salah-surat-perintah-karantina-selama-dua-minggu-bagi-warga-amerika-serikat/,0,0.6,-0.4,3
+23/01/2021,steak berbahan dasar kotoran manusia dari jepang,https://turnbackhoax.id/2021/01/23/salah-steak-berbahan-dasar-kotoran-manusia-dari-jepang/,0,0.6,-0.8,-4
+23/01/2021,ada 32 hotel di jakarta untuk isolasi mandiri yang biayanya ditanggung pemerintah,https://turnbackhoax.id/2021/01/23/salah-ada-32-hotel-di-jakarta-untuk-isolasi-mandiri-yang-biayanya-ditanggung-pemerintah/,0,0.8,-0.6,4
+23/01/2021,ketua bpom ditekan dan diancam untuk keluarkan vaksin sinovac,https://turnbackhoax.id/2021/01/23/salah-ketua-bpom-ditekan-dan-diancam-untuk-keluarkan-vaksin-sinovac/,0,0,-0.2,-1
+22/01/2021,badanmu akan terlihat seperti ini jika kamu beruntung tetap hidup setelah tersambar petir,https://turnbackhoax.id/2021/01/22/salah-badanmu-akan-terlihat-seperti-ini-jika-kamu-beruntung-tetap-hidup-setelah-tersambar-petir/,0,0.8,-0.6,4
+22/01/2021,surat pengangkatan tenaga honorer dari menteri panrb,https://turnbackhoax.id/2021/01/22/salah-surat-pengangkatan-tenaga-honorer-dari-menteri-panrb/,0,0.6,-0.8,-4
+22/01/2021,akun idx di telegram,https://turnbackhoax.id/2021/01/22/salah-akun-idx-di-telegram/,0,0,0,0
+22/01/2021,lowongan kerja pt freeport indonesia,https://turnbackhoax.id/2021/01/22/salah-lowongan-kerja-pt-freeport-indonesia/,0,0.2,0,1
+22/01/2021,foto pemerintahan biden mengibarkan bendera rusia,https://turnbackhoax.id/2021/01/22/salah-foto-pemerintahan-biden-mengibarkan-bendera-rusia/,0,0.6,-0.6,0
+22/01/2021,vaksinasi presiden harus diulang dan hatihati dengan vaksinasi,https://turnbackhoax.id/2021/01/22/salah-vaksinasi-presiden-harus-diulang-dan-hati-hati-dengan-vaksinasi/,0,0.6,-0.8,-4
+21/01/2021,tangkapan layar video cnn memberitakan rakyat akan dibunuh oleh vaksin dari tiongkok,https://turnbackhoax.id/2021/01/21/salah-tangkapan-layar-video-cnn-memberitakan-rakyat-akan-dibunuh-oleh-vaksin-dari-tiongkok/,0,0,-0.8,-4
+21/01/2021,diagram chip 5g pada vaksin covid19,https://turnbackhoax.id/2021/01/21/salah-diagram-chip-5g-pada-vaksin-covid-19/,0,0,-0.8,-4
+21/01/2021,gelang power balance dapat menyembuhkan corona,https://turnbackhoax.id/2021/01/21/salah-gelang-power-balance-dapat-menyembuhkan-corona/,0,0.6,0,3
+21/01/2021,obat covid19 dexamethasone lebih murah dari harga vaksin covid19,https://turnbackhoax.id/2021/01/21/salah-obat-covid-19-dexamethasone-lebih-murah-dari-harga-vaksin-covid-19/,0,0.4,-0.6,-3
+21/01/2021,ijazah sma jokowi palsu,https://turnbackhoax.id/2021/01/21/salah-ijazah-sma-jokowi-palsu/,0,0,-0.8,-4
+21/01/2021,razia masker serentak di seluruh indonesia dengan denda rp250 ribu,https://turnbackhoax.id/2021/01/21/salah-razia-masker-serentak-di-seluruh-indonesia-dengan-denda-rp250-ribu/,0,0.6,0,3
+21/01/2021,wilalung demak lur minta doa,https://turnbackhoax.id/2021/01/21/salah-wilalung-demak-lur-minta-doa/,0,0.6,0,3
+21/01/2021,undian resmi kantor shopee rp175 juta,https://turnbackhoax.id/2021/01/21/salah-undian-resmi-kantor-shopee-rp175-juta/,0,0.8,-0.8,0
+21/01/2021,esemka akhirnya berekspansi besarbesaran dalam proyek antariksa,https://turnbackhoax.id/2021/01/21/salah-esemka-akhirnya-berekspansi-besar-besaran-dalam-proyek-antariksa/,0,0.8,0,4
+21/01/2021,tautan pendaftaran bantuan presiden produktif usaha mikro bpum tahap ii,https://turnbackhoax.id/2021/01/21/salah-tautan-pendaftaran-bantuan-presiden-produktif-usaha-mikro-bpum-tahap-ii/,0,0.8,-1,-5
+21/01/2021,akan ada gempa lebih besar dan tsunami bmkg minta masyarakat keluar dari mamuju,https://turnbackhoax.id/2021/01/21/salah-akan-ada-gempa-lebih-besar-dan-tsunami-bmkg-minta-masyarakat-keluar-dari-mamuju/,0,0.8,-0.6,4
+21/01/2021,eric tohir sang missionaris chip covid19,https://turnbackhoax.id/2021/01/21/salah-penjelasan-erick-thohir-terkait-chip-covid-19-dalam-vaksin-dapat-mengontrol-manusia-seumur-hidup/,0,0,0,0
+20/01/2021,pernyataan idi terkait aspartame dalam minuman instan sebabkan kanker diabetes dan pengerasan sumsum tulang belakang,https://turnbackhoax.id/2021/01/20/salah-pernyataan-idi-terkait-aspartame-dalam-minuman-instan-sebabkan-kanker-diabetes-dan-pengerasan-sumsum-tulang-belakang/,0,0.8,-0.8,0
+20/01/2021,tv nasional belum siarkan berita terkait banjir yang melanda kalsel,https://turnbackhoax.id/2021/01/20/salah-tv-nasional-belum-siarkan-berita-terkait-banjir-yang-melanda-kalsel/,0,0,-1,-5
+20/01/2021,pesan berantai sinyal internet dihentikan pada pukul 18002000 dan semua aktifitas hp dipantau,https://turnbackhoax.id/2021/01/20/salah-pesan-berantai-sinyal-internet-dihentikan-pada-pukul-18-00-20-00-dan-semua-aktifitas-hp-dipantau/,0,1,-0.8,5
+20/01/2021,5 cara utk meningkatkan anti body dari regu pembasmi covid19,https://turnbackhoax.id/2021/01/20/salah-5-cara-utk-meningkatkan-anti-body-dari-regu-pembasmi-covid-19/,0,0.6,-0.6,0
+20/01/2021,video tolongin kita google earth pulau laki,https://turnbackhoax.id/2021/01/20/salah-video-tolongin-kita-google-earth-pulau-laki/,0,0,0,0
+20/01/2021,video pemakaman syeikh ali jaber,https://turnbackhoax.id/2021/01/20/salah-video-pemakaman-syeikh-ali-jaber/,0,0,0,0
+20/01/2021,video of bill gates meeting with the cia on vaccines in 2005,https://turnbackhoax.id/2021/01/20/false-video-of-bill-gates-meeting-with-the-cia-on-vaccines-in-2005/,0,0,0,0
+20/01/2021,foto banjir di kalimantan selatan,https://turnbackhoax.id/2021/01/20/salah-foto-banjir-di-kalimantan-selatan/,0,0.6,-0.8,-4
+20/01/2021,gambar artikel republika tentang daftar bumbu masakmakanan mengandung babi,https://turnbackhoax.id/2021/01/20/salah-gambar-artikel-republika-tentang-daftar-bumbu-masak-makanan-mengandung-babi/,0,0.6,-0.8,-4
+20/01/2021,surat tugas dan surat edaran kpk di wilayah papua,https://turnbackhoax.id/2021/01/20/salah-surat-tugas-dan-surat-edaran-kpk-di-wilayah-papua/,0,0,-0.6,-3
+20/01/2021,video bill gates rapat dengan cia mengenai vaksin pada tahun 2005,https://turnbackhoax.id/2021/01/20/salah-video-bill-gates-rapat-dengan-cia-mengenai-vaksin-pada-tahun-2005/,0,0.6,-0.8,-4
+19/01/2021,video puluhan santri pingsan setelah vaksin covid19 sinovac,https://turnbackhoax.id/2021/01/19/salah-video-puluhan-santri-pingsan-setelah-vaksin-covid-19-sinovac/,0,0,-0.4,-2
+19/01/2021,singapura hentikan vaksinasi setelah 48 orang meninggal di negaranya,https://turnbackhoax.id/2021/01/19/salah-singapura-hentikan-vaksinasi-setelah-48-orang-meninggal-di-negaranya/,0,0,-0.2,-1
+19/01/2021,video gunung semeru di lumajang keluarkan lahar dingin,https://turnbackhoax.id/2021/01/19/salah-video-gunung-semeru-di-lumajang-keluarkan-lahar-dingin/,0,0,-0.2,-1
+19/01/2021,video jatuhnya pesawat indonesia,https://turnbackhoax.id/2021/01/19/salah-video-jatuhnya-pesawat-sriwijaya-air-sj-182/,0,0,-0.6,-3
+19/01/2021,akun facebook dan situs ecommerce polytron indonesia,https://turnbackhoax.id/2021/01/19/salah-akun-facebook-dan-situs-e-commerce-polytron-indonesia/,0,0,0,0
+19/01/2021,jenazah gempa di mamuju dibungkus dengan daun pisang,https://turnbackhoax.id/2021/01/19/salah-jenazah-gempa-di-mamuju-dibungkus-dengan-daun-pisang/,0,0.6,-0.6,0
+19/01/2021,video setelah disuntik vaksin pingsan tak sadarkan diri,https://turnbackhoax.id/2021/01/19/salah-video-setelah-disuntik-vaksin-pingsan-tak-sadarkan-diri/,0,0,-0.4,-2
+19/01/2021,video astronot australia lompat dari pesawat ruang angkasa,https://turnbackhoax.id/2021/01/19/salah-video-astronot-australia-lompat-dari-pesawat-ruang-angkasa/,0,0,-0.8,-4
+19/01/2021,pesan berantai tautan pendaftaran kartu prakerja,https://turnbackhoax.id/2021/01/19/salah-pesan-berantai-tautan-pendaftaran-kartu-prakerja/,0,1,0,5
+18/01/2021,kasdim 0817 gresik mayor sugeng riyadi meninggal akibat disuntik vaksin,https://turnbackhoax.id/2021/01/18/salah-kasdim-0817-gresik-mayor-sugeng-riyadi-meninggal-akibat-disuntik-vaksin/,0,0.2,-0.2,0
+18/01/2021,merokok bisa menghadang virus corona,https://turnbackhoax.id/2021/01/18/salah-merokok-bisa-menghadang-virus-corona/,0,0,0,0
+18/01/2021,akun twitter cimb niaga cimbniaga9,https://turnbackhoax.id/2021/01/18/salah-akun-twitter-cimb-niaga-cimbniaga9/,0,0,0,0
+18/01/2021,vaksin covid19 itu telah bermutasi menjadi ribuan covid19 baru di seluruh dunia,https://turnbackhoax.id/2021/01/18/salah-vaksin-covid-19-itu-telah-bermutasi-menjadi-ribuan-covid-19-baru-di-seluruh-dunia/,0,0.2,-0.4,-2
+18/01/2021,pembagian masker gratis dicampur obat bius,https://turnbackhoax.id/2021/01/18/salah-pembagian-masker-gratis-dicampur-obat-bius/,0,0.6,-0.2,3
+18/01/2021,akun whatsapp bupati cianjur herman suherman,https://turnbackhoax.id/2021/01/18/salah-akun-whatsapp-bupati-cianjur-herman-suherman/,0,0,0,0
+18/01/2021,foto garda nasional yang mengamankan acara pelantikan joe biden,https://turnbackhoax.id/2021/01/18/salah-foto-garda-nasional-yang-mengamankan-acara-pelantikan-joe-biden/,0,0.8,-0.6,4
+17/01/2021,cairan nya masih utuh udah di cabut aaaja mao bohongin rakyat hadehhh,https://turnbackhoax.id/2021/01/17/salah-cairan-nya-masih-utuh-udah-di-cabut-aaaja-mao-bohongin-rakyat-hadehhh/,0,0,-0.6,-3
+17/01/2021,potongan video banjir kalimantan selatan prayforkalsel banyak sapi warga yang terhanyut,https://turnbackhoax.id/2021/01/17/salah-potongan-video-banjir-kalimantan-selatan-prayforkalsel-banyak-sapi-warga-yang-terhanyut/,0,0.6,-0.8,-4
+17/01/2021,bantuan pulsa sebesar rp200 ribu untuk guru dosen dan pelajar,https://turnbackhoax.id/2021/01/17/salah-bantuan-pulsa-sebesar-rp200-ribu-untuk-guru-dosen-dan-pelajar/,0,0.4,-1,-5
+17/01/2021,jokowi bukan disuntik vaksin melainkan suntik vitamin,https://turnbackhoax.id/2021/01/17/salah-jokowi-bukan-disuntik-vaksin-melainkan-suntik-vitamin/,0,0,-0.4,-2
+17/01/2021,lupa semuanya sby semakin parah kasihan sby jadi begini,https://turnbackhoax.id/2021/01/17/salah-lupa-semuanya-sby-semakin-parah-kasihan-sby-jadi-begini/,0,1,-1,0
+17/01/2021,jika sudah disuntik vaksin covid19 tidak perlu mematuhi protokol kesehatan,https://turnbackhoax.id/2021/01/17/salah-jika-sudah-disuntik-vaksin-covid-19-tidak-perlu-mematuhi-protokol-kesehatan/,0,0.8,-0.6,4
+17/01/2021,pesan berantai info donor plasma oleh blood for life indonesia,https://turnbackhoax.id/2021/01/17/salah-pesan-berantai-info-donor-plasma-mengatasnamakan-blood-for-life-indonesia/,0,1,-0.8,5
+16/01/2021,ditolak menaiki pesawat karena terlibat demo di capitall hill,https://turnbackhoax.id/2021/01/16/salah-ditolak-menaiki-pesawat-karena-terlibat-demo-di-capitall-hill/,0,0.8,-1,-5
+16/01/2021,lowongan kerja pt pertamina persero,https://turnbackhoax.id/2021/01/16/salah-lowongan-kerja-pt-pertamina-persero/,0,0.2,0,1
+16/01/2021,berita terbaru hari ini 48 orang tewas setelah di vaksin corona agenda jahat rezim terungkap,https://turnbackhoax.id/2021/01/16/salah-berita-terbaru-hari-ini-48-orang-te-was-setelah-di-vaksin-coro-na-agenda-ja-hat-re-zim-terungkap/,0,0.6,-1,-5
+16/01/2021,potongan video banjir dengan harapan kita semua yang berada di kalimantan selatan air lekas surut,https://turnbackhoax.id/2021/01/16/salah-potongan-video-banjir-dengan-harapan-kita-semua-yang-berada-di-kalimantan-selatan-air-lekas-surut/,0,0.8,-0.8,0
+16/01/2021,surat elektronik rekrutmen karyawan pt paragon pratama teknologi,https://turnbackhoax.id/2021/01/16/salah-surat-elektronik-rekrutmen-karyawan-pt-paragon-pratama-teknologi/,0,0.4,0,2
+16/01/2021,kronologi syekh ali jabar wafat 2 jam sebelum beliau wafat tak disangka ternyata karna vaksin ini,https://turnbackhoax.id/2021/01/16/salah-kronologi-syekh-ali-jabar-wafat-2-jam-sebelum-beliau-wafat-tak-disangka-ternyata-karna-vaksin-ini/,0,0.6,0,3
+16/01/2021,emirates airlines sanksi pilot moneem saheb tabaa yang tolak terbangkan pesawat ke israel,https://turnbackhoax.id/2021/01/16/salah-emirates-airlines-sanksi-pilot-moneem-saheb-tabaa-yang-tolak-terbangkan-pesawat-ke-israel/,0,0,-0.6,-3
+16/01/2021,akun twitter indo premier sekuritas,https://turnbackhoax.id/2021/01/16/salah-akun-twitter-indo-premier-sekuritas/,0,0,-0.8,-4
+16/01/2021,video suasana di dalam pesawat sriwijaya air sj 182,https://turnbackhoax.id/2021/01/16/salah-video-suasana-di-dalam-pesawat-sriwijaya-air-sj-182/,0,0.8,-0.6,4
+16/01/2021,ketua fraksi pdip saja ga mau di vaksin,https://turnbackhoax.id/2021/01/16/salah-ketua-fraksi-pdip-saja-ga-mau-di-vaksin/,0,1,-1,0
+16/01/2021,jakarta zona hitam,https://turnbackhoax.id/2021/01/16/salah-jakarta-zona-hitam/,0,0,-0.6,-3
+16/01/2021,aa gym menyikapi selamat natal,https://turnbackhoax.id/2021/01/16/salah-aa-gym-menyikapi-selamat-natal/,0,0.8,0,4
+16/01/2021,jalan terputus di sendana akibat gempa majene,https://turnbackhoax.id/2021/01/16/salah-jalan-terputus-di-sendana-akibat-gempa-majene/,0,0.6,0,3
+16/01/2021,pesan whatsapp oleh wabup muratara tawarkan lelang kendaraan bermotor,https://turnbackhoax.id/2021/01/16/salah-pesan-whatsapp-oleh-wabup-muratara-tawarkan-lelang-kendaraan-bermotor/,0,1,0,5
+16/01/2021,pesan berantai tautan subsidi kuota belajar gelombang pertama 2021,https://turnbackhoax.id/2021/01/16/salah-pesan-berantai-tautan-subsidi-kuota-belajar-gelombang-pertama-2021/,0,1,0,5
+16/01/2021,baim wong adakan bagibagi hadiah sebesar rp50000000,https://turnbackhoax.id/2021/01/16/salah-baim-wong-adakan-bagi-bagi-hadiah-sebesar-rp50-000-000/,0,0.6,0,3
+16/01/2021,video anggota fpi lakukan penggerebekan,https://turnbackhoax.id/2021/01/16/salah-video-anggota-fpi-lakukan-penggerebekan/,0,0,-0.4,-2
+15/01/2021,terapi uap panas dan minyak kayu putih dapat membunuh virus corona,https://turnbackhoax.id/2021/01/15/salah-terapi-uap-panas-dan-minyak-kayu-putih-dapat-membunuh-virus-corona/,0,0.6,-1,-5
+15/01/2021,presiden terpilih as joe bidden mundur karena alasan kesehatan,https://turnbackhoax.id/2021/01/15/salah-presiden-terpilih-as-joe-bidden-mundur-karena-alasan-kesehatan/,0,0.6,-0.8,-4
+15/01/2021,razia anak tidak bermasker akan dikarantina,https://turnbackhoax.id/2021/01/15/salah-razia-anak-tidak-bermasker-akan-dikarantina/,0,0,-0.6,-3
+15/01/2021,jokowi kejang dan meninggal dunia setelah disuntik vaksin,https://turnbackhoax.id/2021/01/15/salah-jokowi-kejang-dan-meninggal-dunia-setelah-disuntik-vaksin/,0,0.2,-0.6,-3
+15/01/2021,akun instagram mnc sekuritas,https://turnbackhoax.id/2021/01/15/salah-akun-instagram-mnc-sekuritas/,0,0,0,0
+15/01/2021,video rekaman sebelum pesawat sriwijaya air jatuh,https://turnbackhoax.id/2021/01/15/salah-video-rekaman-sebelum-pesawat-sriwijaya-air-jatuh/,0,0.6,-0.6,0
+15/01/2021,pesan whatsapp undangan rakernas peningkatan kinerja tenaga kesehatan oleh dinkes dki,https://turnbackhoax.id/2021/01/15/salah-pesan-whatsapp-undangan-rakernas-peningkatan-kinerja-tenaga-kesehatan-oleh-dinkes-dki/,0,1,0,5
+14/01/2021,akun facebook bupati klaten sri mulyani,https://turnbackhoax.id/2021/01/14/salah-akun-facebook-bupati-klaten-sri-mulyani/,0,0,0,0
+14/01/2021,akun facebook bupati purbalingga meminta uang dan pulsa,https://turnbackhoax.id/2021/01/14/salah-akun-facebook-bupati-purbalingga-meminta-uang-dan-pulsa/,0,0.4,-1,-5
+14/01/2021,agnez mo bagibagi hadiah berupa uang tunai,https://turnbackhoax.id/2021/01/14/salah-agnez-mo-bagi-bagi-hadiah-berupa-uang-tunai/,0,0.6,0,3
+14/01/2021,video pilot pesawat sriwijaya air sj182 bernyanyi dengan lagu terakhirnya,https://turnbackhoax.id/2021/01/14/salah-video-pilot-pesawat-sriwijaya-air-sj182-bernyanyi-dengan-lagu-terakhirnya/,0,0.6,-0.6,0
+14/01/2021,jokowi menggunakan vaksin buatan eropa,https://turnbackhoax.id/2021/01/14/salah-jokowi-menggunakan-vaksin-buatan-eropa/,0,0,-0.4,-2
+14/01/2021,video evakuasi bawah laut pesawat sriwijaya air sj 182,https://turnbackhoax.id/2021/01/14/salah-video-evakuasi-bawah-laut-pesawat-sriwijaya-air-sj-182/,0,0.6,-0.6,0
+14/01/2021,rakyat aceh menolak vaksin covid19 karena menurut para ulama aceh itu haram,https://turnbackhoax.id/2021/01/14/salah-rakyat-aceh-menolak-vaksin-covid19-karena-menurut-para-ulama-aceh-itu-haram/,0,0.8,-1,-5
+13/01/2021,pesan whatsapp tentang informasi saham oleh ustadz yusuf mansur,https://turnbackhoax.id/2021/01/13/salah-pesan-whatsapp-tentang-informasi-saham-oleh-ustadz-yusuf-mansur/,0,1,0,5
+13/01/2021,obat covid19 dari asap batok kelapa,https://turnbackhoax.id/2021/01/13/salah-obat-covid-19-dari-asap-batok-kelapa/,0,0,-0.6,-3
+13/01/2021,aceh kembali meminta kemerdekaan setelah sholat jumat di masjid raya banda aceh,https://turnbackhoax.id/2021/01/13/salah-aceh-kembali-meminta-kemerdekaan-setelah-sholat-jumat-di-masjid-raya-banda-aceh/,0,0.8,-0.2,4
+13/01/2021,paus fransiskus ditangkap atas tuduhan perdagangan manusia pornografi anak dan penipuan,https://turnbackhoax.id/2021/01/13/salah-paus-fransiskus-ditangkap-atas-tuduhan-perdagangan-manusia-pornografi-anak-dan-penipuan/,0,0.6,-0.8,-4
+13/01/2021,kemasan vaksin sinovac ga pake ampulan didalam box vaksin sudah ada spuit khusus yg sdh ada vaksin nya,https://turnbackhoax.id/2021/01/13/salah-kemasan-vaksin-sinovac-ga-pake-ampulan-didalam-box-vaksin-sudah-ada-spuit-khusus-yg-sdh-ada-vaksin-nya/,0,0.8,-0.2,4
+13/01/2021,anies ngumpet purapura positif corona,https://turnbackhoax.id/2021/01/13/salah-anies-ngumpet-pura-pura-positif-corona/,0,0.8,0,4
+13/01/2021,aturan baru facebook yang menggunakan data pribadi pemilik akun,https://turnbackhoax.id/2021/01/13/salah-aturan-baru-facebook-yang-menggunakan-data-pribadi-pemilik-akun/,0,0.6,-0.8,-4
+13/01/2021,video antri pemakaman covid19 di tegal alurjkt hidup antri mau dikuburpun antri,https://turnbackhoax.id/2021/01/13/salah-video-antri-pemakaman-covid-19-di-tegal-alurjkt-hidup-antri-mau-dikuburpun-antri/,0,1,-0.2,5
+13/01/2021,hirup uap air panas dua kali sehari dapat menangkal covid19,https://turnbackhoax.id/2021/01/13/salah-hirup-uap-air-panas-dua-kali-sehari-dapat-menangkal-covid-19/,0,0.6,-0.8,-4
+13/01/2021,risma joget tanpa menggunakan masker,https://turnbackhoax.id/2021/01/13/salah-risma-joget-tanpa-menggunakan-masker/,0,0,0,0
+12/1/2021,video detikdetik jatuhnya pesawat sriwijaya air sj 182,https://turnbackhoax.id/2021/01/12/salah-video-detik-detik-jatuhnya-pesawat-sriwijaya-air-sj-182/,0,0.6,-0.6,0
+12/1/2021,rizieq shihab surati jokowi minta kasusnya dihentikan,https://turnbackhoax.id/2021/01/12/salah-rizieq-shihab-surati-jokowi-minta-kasusnya-dihentikan/,0,0.2,0,1
+12/1/2021,anjing zionis israel dilatih untuk menggigit orang yang sedang sholat,https://turnbackhoax.id/2021/01/12/salah-anjing-zionis-israel-dilatih-untuk-menggigit-orang-yang-sedang-sholat/,0,0.4,-0.8,-4
+12/1/2021,tiongkok dan luhut pandjaitan merencanakan pembunuhan massal terhadap pribumi dengan 40 ribu ton alat tes covid19,https://turnbackhoax.id/2021/01/12/salah-tiongkok-dan-luhut-pandjaitan-merencanakan-pembunuhan-massal-terhadap-pribumi-dengan-40-ribu-ton-alat-tes-covid-19/,0,0.8,-1,-5
+12/1/2021,21 pasien mengalami efek samping setelah memakai vaksin moderna,https://turnbackhoax.id/2021/01/12/salah-21-pasien-mengalami-efek-samping-setelah-memakai-vaksin-moderna/,0,0.6,-0.6,0
+12/1/2021,setengah karyawan btc pangkalpinang positif covid19,https://turnbackhoax.id/2021/01/12/salah-setengah-karyawan-btc-pangkalpinang-positif-covid-19/,0,0.8,-0.4,4
+12/1/2021,pesan berantai rekrutmen relawan untuk merawat pasien covid 19 di wisma atlet oleh dokter irna,https://turnbackhoax.id/2021/01/12/salah-pesan-berantai-rekrutmen-relawan-untuk-merawat-pasien-covid-19-di-wisma-atlet-oleh-dokter-irna/,0,1,0,5
+12/1/2021,video proses pengangkatan badan pesawat sriwijaya air sj 182,https://turnbackhoax.id/2021/01/12/salah-video-proses-pengangkatan-badan-pesawat-sriwijaya-air-sj-182/,0,0.6,-0.8,-4
+12/1/2021,detik detik di dalam pesawat sebelum meledak dan jatuh pesawatjatuh pesawatsriwijaya sriwijayaairsj182,https://turnbackhoax.id/2021/01/12/salah-detik-detik-di-dalam-pesawat-sebelum-meledak-dan-jatuh-pesawatjatuh-pesawatsriwijaya-sriwijayaairsj182/,0,0.8,-0.8,0
+12/1/2021,transkrip video cockpit voice recorder cvr percakapan pilot sj182,https://turnbackhoax.id/2021/01/12/salah-transkrip-video-cockpit-voice-recorder-cvr-percakapan-pilot-sj182/,0,0,0,0
+12/1/2021,artikel tendang jeff bezos elon musk kini orang terkaya di dunia berkat vtube,https://turnbackhoax.id/2021/01/12/salah-artikel-tendang-jeff-bezos-elon-musk-kini-orang-terkaya-di-dunia-berkat-vtube/,0,0.6,-0.8,-4
+11/1/2021,pdip menolak dng tegas hukuman mati bagi koruptor dengan alasan semua koruptor adalah teman sehidup semati mereka?Çª,https://turnbackhoax.id/2021/01/11/salah-pdip-menolak-dng-tegas-hukuman-mati-bagi-koruptor-dengan-alasan-semua-koruptor-adalah-teman-sehidup-semati-mereka/,0,0.8,-0.6,4
+11/1/2021,video temuan barang dan puing kecelakaan pesawat sriwijaya sj182,https://turnbackhoax.id/2021/01/11/salah-video-temuan-barang-dan-puing-kecelakaan-pesawat-sriwijaya-sj182/,0,0,-0.8,-4
+11/1/2021,rizieq shihab sakit yang tidak normal karena diracuni,https://turnbackhoax.id/2021/01/11/salah-rizieq-shihab-sakit-yang-tidak-normal-karena-diracuni/,0,0.2,-0.8,-4
+11/1/2021,foto bayi selamat dari kecelakaan pesawat sriwijaya,https://turnbackhoax.id/2021/01/11/salah-foto-bayi-selamat-dari-kecelakaan-pesawat-sriwijaya/,0,0.8,-0.8,0
+11/1/2021,presiden pks akhmad syaikhu diperiksa kpk terkait kasus suap izin rumah sakit di cimahi,https://turnbackhoax.id/2021/01/11/salah-presiden-pks-akhmad-syaikhu-diperiksa-kpk-terkait-kasus-suap-izin-rumah-sakit-di-cimahi/,0,0.6,-0.8,-4
+11/1/2021,link pendaftaran bantuan umkm,https://turnbackhoax.id/2021/01/11/salah-link-pendaftaran-bantuan-umkm/,0,0.6,0,3
+11/1/2021,video vaksin astrazeneca menggunakan mrc5,https://turnbackhoax.id/2021/01/11/salah-video-vaksin-astrazeneca-menggunakan-mrc-5/,0,0,0,0
+11/1/2021,covid19 adalah tipuan terbesar yang pernah dilakukan dan hanya flu buruk lainnya,https://turnbackhoax.id/2021/01/11/salah-covid-19-adalah-tipuan-terbesar-yang-pernah-dilakukan-dan-hanya-flu-buruk-lainnya/,0,0,-0.8,-4
+10/1/2021,sakit mendadak oleh vaksin,https://turnbackhoax.id/2021/01/10/salah-sakit-mendadak-oleh-vaksin/,0,0,-0.8,-4
+10/1/2021,baju fadli zon bertuliskan jubir bokep,https://turnbackhoax.id/2021/01/10/salah-baju-fadli-zon-bertuliskan-jubir-bokep/,0,0.4,-0.4,0
+10/1/2021,foto barisan mobil dengan bendera amerika serikat dari california menuju washington dc,https://turnbackhoax.id/2021/01/10/salah-foto-barisan-mobil-dengan-bendera-amerika-serikat-dari-california-menuju-washington-d-c/,0,0.8,-0.6,4
+10/1/2021,surat edaran mui waspada rapid test modus operandi dari pki,https://turnbackhoax.id/2021/01/10/salah-surat-edaran-mui-waspada-rapid-test-modus-operandi-dari-pki/,0,0.8,-0.6,4
+10/1/2021,akun facebook wakil walikota surabaya terpilih ir armuji m n,https://turnbackhoax.id/2021/01/10/salah-akun-facebook-wakil-walikota-surabaya-terpilih-ir-armuji-m-n/,0,0.6,0,3
+9/1/2021,pesan tentang video ?Çÿargentina is doing it yang dapat retas ponsel,https://turnbackhoax.id/2021/01/09/salah-pesan-tentang-video-argentina-is-doing-it-yang-dapat-retas-ponsel/,0,1,-0.8,5
+9/1/2021,foto seorang wanita menggunakan kaus bertuliskan umpatan kepada anies baswedan,https://turnbackhoax.id/2021/01/09/salah-foto-seorang-wanita-menggunakan-kaus-bertuliskan-umpatan-kepada-anies-baswedan/,0,0.6,-0.8,-4
+9/1/2021,video okey batman sudah tiba di capitol hill utk bubarin demo,https://turnbackhoax.id/2021/01/09/salah-video-okey-batman-sudah-tiba-di-capitol-hill-utk-bubarin-demo/,0,0.6,-0.8,-4
+9/1/2021,hanya 13 ribu orang di britania raya yang terinfeksi covid19 pada tahun 2020,https://turnbackhoax.id/2021/01/09/salah-hanya-13-ribu-orang-di-britania-raya-yang-terinfeksi-covid-19-pada-tahun-2020/,0,0,-0.8,-4
+9/1/2021,sekarang nussa rarra dilarang diproduksi,https://turnbackhoax.id/2021/01/09/salah-sekarang-nussa-rarra-dilarang-diproduksi/,0,0,-0.8,-4
+9/1/2021,kota prabumulih kota tanpa corona,https://turnbackhoax.id/2021/01/09/salah-kota-prabumulih-kota-tanpa-corona/,0,0,-0.2,-1
+9/1/2021,penerima vaksin perdana meninggal dunia usai disuntik vaksin pfizer,https://turnbackhoax.id/2021/01/09/salah-penerima-vaksin-perdana-meninggal-dunia-usai-disuntik-vaksin-pfizer/,0,0.8,-0.2,4
+9/1/2021,jawabali lockdown pada tanggal 1125 januari 2021,https://turnbackhoax.id/2021/01/09/salah-jawa-bali-lockdown-pada-tanggal-11-25-januari-2021/,0,0,-0.8,-4
+9/1/2021,ternyata vaksin yg akan di suntikan ke jokowi berbeda,https://turnbackhoax.id/2021/01/09/salah-ternyata-vaksin-yg-akan-di-suntikan-ke-jokowi-berbeda/,0,0.2,0,1
+9/1/2021,artikel liputan6 berjudul menjadi penyanyi dangdut adalah cita cita cita citata yang sudah lama cita citata cita citakan,https://turnbackhoax.id/2021/01/09/salah-artikel-liputan6-berjudul-menjadi-penyanyi-dangdut-adalah-cita-cita-cita-citata-yang-sudah-lama-cita-citata-cita-citakan/,0,0.6,-0.8,-4
+8/1/2021,wakil presiden amerika serikat mike pence ditangkap saat massa memasuki gedung capitol,https://turnbackhoax.id/2021/01/08/salah-wakil-presiden-amerika-serikat-mike-pence-ditangkap-saat-massa-memasuki-gedung-capitol/,0,0.8,0,4
+8/1/2021,huawei bagikan hadiah sambut tahun baru,https://turnbackhoax.id/2021/01/08/salah-huawei-bagikan-hadiah-sambut-tahun-baru/,0,0.6,0,3
+8/1/2021,inalilahi wainailaihi rojiun telah meninggalhrsdi dalam sel karna kena covid?Çª,https://turnbackhoax.id/2021/01/08/salah-inalilahi-wainailaihi-rojiun-telah-meninggal-hrs-di-dalam-sel-karna-kena-covid/,0,0.8,-0.8,0
+8/1/2021,pesan berantai wisma atlet penuh,https://turnbackhoax.id/2021/01/08/salah-pesan-berantai-wisma-atlet-penuh/,0,1,0,5
+8/1/2021,pinjaman dana bantuan covid19 oleh bupati pasuruan irsyad yusuf,https://turnbackhoax.id/2021/01/08/salah-pinjaman-dana-bantuan-covid-19-oleh-bupati-pasuruan-irsyad-yusuf/,0,0.6,-0.8,-4
+8/1/2021,vaksin sinovac disebutkan memberi efek samping pembesaran alat kelamin,https://turnbackhoax.id/2021/01/08/salah-vaksin-sinovac-disebutkan-memberi-efek-samping-pembesaran-alat-kelamin/,0,0.6,-1,-5
+7/1/2021,fabiana souza penerima perdana suntikan vaksin covid 19 meninggal dunia di rssao lucas porto alegre brazil selatan,https://turnbackhoax.id/2021/01/07/salah-fabiana-souza-penerima-perdana-suntikan-vaksin-covid-19-meninggal-dunia-di-rs-sao-lucas-porto-alegre-brazil-selatan/,0,0.8,-0.2,4
+7/1/2021,lowongan kerja pt angkasa pura ii persero untuk 19 posisi,https://turnbackhoax.id/2021/01/07/salah-lowongan-kerja-pt-angkasa-pura-ii-persero-untuk-19-posisi/,0,0.2,0,1
+7/1/2021,hydro oxy mouth freshener spray dapat cegah dan sembuhkan virus covid19,https://turnbackhoax.id/2021/01/07/salah-hydro-oxy-mouth-freshener-spray-dapat-cegah-dan-sembuhkan-virus-covid-19/,0,0.6,0,3
+7/1/2021,video mahfud md joget setelah membubarkan fpi,https://turnbackhoax.id/2021/01/07/salah-video-mahfud-md-joget-setelah-membubarkan-fpi/,0,0,0,0
+7/1/2021,fadli zon lho hak saya dong menyukai bokep masalah anda apa,https://turnbackhoax.id/2021/01/07/salah-fadli-zon-lho-hak-saya-dong-menyukai-bokep-masalah-anda-apa/,0,0.8,-0.8,0
+7/1/2021,terkait drone china prabowo mengatakan china adalah negara sahabat,https://turnbackhoax.id/2021/01/07/salah-terkait-drone-china-prabowo-mengatakan-china-adalah-negara-sahabat/,0,0.6,-0.6,0
+7/1/2021,video mereka lp akn kematian 6 orng mrk melupakan semua itu mrk asyik bersukaria,https://turnbackhoax.id/2021/01/07/salah-video-mereka-lp-akn-kematian-6-orng-mrk-melupakan-semua-itu-mrk-asyik-bersukaria/,0,0.8,-0.6,4
+6/1/2021,vaksin bermasalah dan mengerikan disuntik bisa menjadi sakit dan sekarat,https://turnbackhoax.id/2021/01/06/salah-vaksin-bermasalah-dan-mengerikan-disuntik-bisa-menjadi-sakit-dan-sekarat/,0,0,-0.8,-4
+6/1/2021,data pengurus fpi oleh intelkam polda ntb,https://turnbackhoax.id/2021/01/06/salah-data-pengurus-fpi-oleh-intelkam-polda-ntb/,0,0.6,-0.8,-4
+6/1/2021,foto korban banjir dan longsor di tanjungpinang,https://turnbackhoax.id/2021/01/06/salah-foto-korban-banjir-dan-longsor-di-tanjungpinang/,0,0.6,-0.8,-4
+6/1/2021,foto wanita asal australia dengan sepasang bayi kembar,https://turnbackhoax.id/2021/01/06/salah-foto-wanita-asal-australia-dengan-sepasang-bayi-kembar/,0,0.6,-0.6,0
+6/1/2021,stop beli ikan dulu terkhususnya ikan tongkol dan tembang karena ada pexakit baru sekarang,https://turnbackhoax.id/2021/01/06/salah-stop-beli-ikan-dulu-terkhususnya-ikan-tongkol-dan-tembang-karena-ada-pexakit-baru-sekarang/,0,0.8,-0.8,0
+6/1/2021,lowongan kerja pt astra,https://turnbackhoax.id/2021/01/06/salah-lowongan-kerja-pt-astra/,0,0.2,0,1
+6/1/2021,masjid istiqlal tidak mengadakan salat jumat karena dikuasai pki,https://turnbackhoax.id/2021/01/06/salah-masjid-istiqlal-tidak-mengadakan-salat-jumat-karena-dikuasai-pki/,0,0.8,-0.8,0
+6/1/2021,akun facebook bupati serang ratu tatu chasanah meminta kode verifikasi whatsapp,https://turnbackhoax.id/2021/01/06/salah-akun-facebook-bupati-serang-ratu-tatu-chasanah-meminta-kode-verifikasi-whatsapp/,0,0.4,-0.8,-4
+6/1/2021,vaksin sinovac covid19 yang akan di suntikkan kepada warga hanya untuk kelinci percobaan,https://turnbackhoax.id/2021/01/06/salah-vaksin-sinovac-covid-19-yang-akan-di-suntikkan-kepada-warga-hanya-untuk-kelinci-percobaan/,0,0,-0.8,-4
+6/1/2021,video mentri agama yaqut di usir ketika hadir di tanah melayu,https://turnbackhoax.id/2021/01/06/salah-video-mentri-agama-yaqut-di-usir-ketika-hadir-di-tanah-melayu/,0,0.6,-1,-5
+6/1/2021,video berita terbaru hari ini akhirnya di putuskan fpi bukan ormas terlarang,https://turnbackhoax.id/2021/01/06/salah-video-berita-terbaru-hari-ini-akhirnya-di-putuskan-fpi-bukan-ormas-terlarang/,0,0.6,-1,-5
+5/1/2021,indonesia tidak bergabung ke aliansi strategis militer islam sunni karena dianggap merapat ke komunis china,https://turnbackhoax.id/2021/01/05/salah-indonesia-tidak-bergabung-ke-aliansi-strategis-militer-islam-sunni-karena-dianggap-merapat-ke-komunis-china/,0,0.8,-0.8,0
+5/1/2021,wakil wali kota surabaya terpilih armuji meninggal dunia,https://turnbackhoax.id/2021/01/05/salah-wakil-wali-kota-surabaya-terpilih-armuji-meninggal-dunia/,0,0.6,-0.2,3
+5/1/2021,raja thailand panggil ulama islam baca doa tolak bala covid 19,https://turnbackhoax.id/2021/01/05/salah-raja-thailand-panggil-ulama-islam-baca-doa-tolak-bala-covid-19/,0,0.8,-0.6,4
+5/1/2021,vaksin sinovac mengandung sel kera hijau afrika,https://turnbackhoax.id/2021/01/05/salah-vaksin-sinovac-mengandung-sel-kera-hijau-afrika/,0,0.2,-0.8,-4
+5/1/2021,akun facebook bupati probolinggo puput tantriana sari,https://turnbackhoax.id/2021/01/05/salah-akun-facebook-bupati-probolinggo-puput-tantriana-sari/,0,0,0,0
+5/1/2021,tulisan dr siti fadillah terkait pengobatan covid19,https://turnbackhoax.id/2021/01/05/salah-tulisan-dr-siti-fadillah-terkait-pengobatan-covid-19/,0,0,-0.6,-3
+5/1/2021,artikel cnn seorang dokter merekomendasikan vaksin covid19 disuntikkan di alat kelamin pria,https://turnbackhoax.id/2021/01/05/salah-artikel-cnn-seorang-dokter-merekomendasikan-vaksin-covid19-disuntikkan-di-alat-kelamin-pria/,0,0,-1,-5
+5/1/2021,video polisi cabang tiongkok polisi china pinda ke indonesia,https://turnbackhoax.id/2021/01/05/salah-video-polisi-cabang-tiongkok-polisi-china-pinda-ke-indonesia/,0,0,0,0
+5/1/2021,resep campuran teh hijau dan lemon untuk atasi covid19,https://turnbackhoax.id/2021/01/05/salah-resep-campuran-teh-hijau-dan-lemon-untuk-atasi-covid-19/,0,0.6,0,3
+5/1/2021,jokowi mendapat gelar amirul kazzab,https://turnbackhoax.id/2021/01/05/salah-jokowi-mendapat-gelar-amirul-kazzab/,0,0.6,0,3
+5/1/2021,sultan hassanal bolkiah akan beli singapura dan usir etnis china karena menolak presiden halimah,https://turnbackhoax.id/2021/01/05/salah-sultan-hassanal-bolkiah-akan-beli-singapura-dan-usir-etnis-china-karena-menolak-presiden-halimah/,0,0.6,-0.8,-4
+4/1/2021,zat bpa yang terkandung di galon isi ulang ternyata berbahaya bagi bayi balita ibu hamil,https://turnbackhoax.id/2021/01/04/salah-zat-bpa-yang-terkandung-di-galon-isi-ulang-ternyata-berbahaya-bagi-bayi-balita-ibu-hamil/,0,0.6,-0.8,-4
+4/1/2021,halte palu arit di cileungsi,https://turnbackhoax.id/2021/01/04/salah-halte-palu-arit-di-cileungsi/,0,0,0,0
+4/1/2021,video kemunculan harimau di hutan kabupaten blora,https://turnbackhoax.id/2021/01/04/salah-video-kemunculan-harimau-di-hutan-kabupaten-blora/,0,0.8,0,4
+4/1/2021,titik api diam terlihat di gunung merapi,https://turnbackhoax.id/2021/01/04/salah-titik-api-diam-terlihat-di-gunung-merapi/,0,0.2,-0.6,-3
+3/1/2021,hendra kurniawan anak kandung jie ping presiden china,https://turnbackhoax.id/2021/01/03/salah-hendra-kurniawan-anak-kandung-jie-ping-presiden-china/,0,0.6,-0.6,0
+3/1/2021,pesan berantai tautan kuota belajar 75gb berlaku sampai 10 januari 2021,https://turnbackhoax.id/2021/01/03/salah-pesan-berantai-tautan-kuota-belajar-75gb-berlaku-sampai-10-januari-2021/,0,1,0,5
+3/1/2021,sambal bawang bisa cegah covid19,https://turnbackhoax.id/2021/01/03/salah-sambal-bawang-bisa-cegah-covid19/,0,0.4,0,2
+3/1/2021,surat edaran kompensasi zona merah oleh bupati temanggung,https://turnbackhoax.id/2021/01/03/salah-surat-edaran-kompensasi-zona-merah-oleh-bupati-temanggung/,0,0.8,-0.6,4
+3/1/2021,foto masuknya seekor buaya ke rumah warga saat banjir di tanjung pinang,https://turnbackhoax.id/2021/01/03/salah-foto-masuknya-seekor-buaya-ke-rumah-warga-saat-banjir-di-tanjung-pinang/,0,0.6,-0.8,-4
+2/1/2021,video ribuan jamaah tanpa masker sambut kedatangan ustadz abdul somad di tengah pandemi covid19,https://turnbackhoax.id/2021/01/02/salah-video-ribuan-jamaah-tanpa-masker-sambut-kedatangan-ustadz-abdul-somad-di-tengah-pandemi-covid-19/,0,0.8,-0.4,4
+2/1/2021,bill gates mengatakan dia tidak akan divaksinasi dan ceo pfizer juga menunda menerima vaksin covid19,https://turnbackhoax.id/2021/01/02/salah-bill-gates-mengatakan-dia-tidak-akan-divaksinasi-dan-ceo-pfizer-juga-menunda-menerima-vaksin-covid-19/,0,0.6,-0.6,0
+2/1/2021,minum teh dengan batang lada dapat sembuhkan covid19,https://turnbackhoax.id/2021/01/02/salah-minum-teh-dengan-batang-lada-dapat-sembuhkan-covid-19/,0,0.6,-0.8,-4
+2/1/2021,link survei pendirian bank syariah muhammadiyah,https://turnbackhoax.id/2021/01/02/salah-link-survei-pendirian-bank-syariah-muhammadiyah/,0,0,0,0
+2/1/2021,akun whatsapp cawabup tanjabbar hairan meminta sejumlah uang,https://turnbackhoax.id/2021/01/02/salah-akun-whatsapp-cawabup-tanjabbar-hairan-meminta-sejumlah-uang/,0,0.4,0,2
+2/1/2021,ambyaar pemilik 201kg sabu dipetamburan ternyata anggota fpi,https://turnbackhoax.id/2021/01/02/salah-ambyaar-pemilik-201kg-sabu-dipetamburan-ternyata-anggota-fpi/,0,0.6,-0.4,3
+1/1/2021,kewenangan memberikan label halal tidak melalui mui lagi tapi oleh pt surveyor indonesia,https://turnbackhoax.id/2021/01/01/salah-kewenangan-memberikan-label-halal-tidak-melalui-mui-lagi-tapi-oleh-pt-surveyor-indonesia/,0,0.6,-0.6,0
+1/1/2021,soimah adakan giveaway tahun baru di facebook,https://turnbackhoax.id/2021/01/01/salah-soimah-adakan-giveaway-tahun-baru-di-facebook/,0,0,0,0
+1/1/2021,whatsapp kasir indomaret salah input voucher games,https://turnbackhoax.id/2021/01/01/salah-whatsapp-kasir-indomaret-salah-input-voucher-games/,0,0.4,-0.8,-4
+1/1/2021,foto seorang wanita asal amerika mengundang hrs untuk berdiskusi,https://turnbackhoax.id/2021/01/01/salah-foto-seorang-wanita-asal-amerika-mengundang-hrs-untuk-berdiskusi/,0,0.6,0,3
+1/1/2021,judul artikel wagub dki bolehkan warga jual terompet untuk malam tahun baru asalkan tidak ditiup,https://turnbackhoax.id/2021/01/01/salah-judul-artikel-wagub-dki-bolehkan-warga-jual-terompet-untuk-malam-tahun-baru-asalkan-tidak-ditiup/,0,0.6,-0.8,-4
+1/1/2021,ustad adi dan somad kaget 3 pangeran uni emirat arab rayakan natal dengan paus,https://turnbackhoax.id/2021/01/01/salah-ustad-adi-dan-somad-kaget-3-pangeran-uni-emirat-arab-rayakan-natal-dengan-paus/,0,0.8,0,4
+1/1/2021,video siaran langsung kapal tenggelam 1 januari 2021,https://turnbackhoax.id/2021/01/01/salah-video-siaran-langsung-kapal-tenggelam-1-januari-2021/,0,0.8,-0.8,0
+1/1/2021,kesimpulan rob oswald covid 19 adalah khayalan dan fiktif,https://turnbackhoax.id/2021/01/01/salah-kesimpulan-rob-oswald-covid-19-adalah-khayalan-dan-fiktif/,0,0.8,0,4
+1/1/2021,mulai tanggal 31122020 pukul 0600 sore sampai dengan tanggal 01012021 akan dilakukan mati lampu total,https://turnbackhoax.id/2021/01/01/salah-mulai-tanggal-31-12-2020-pukul-06-00-sore-sampai-dengan-tanggal-01-01-2021-akan-dilakukan-mati-lampu-total/,0,0.8,-0.8,0
+1/1/2021,who menyatakan bahwa vaksin sinovac adalah vaksin yang paling lemah,https://turnbackhoax.id/2021/01/01/salah-who-menyatakan-bahwa-vaksin-sinovac-adalah-vaksin-yang-paling-lemah/,0,0,-0.6,-3
+1/1/2021,istora senayan dijadikan tempat penampungan pasien covid19,https://turnbackhoax.id/2021/01/01/salah-istora-senayan-dijadikan-tempat-penampungan-pasien-covid-19/,0,0,-0.6,-3
+1/1/2021,wanita ini b3rhubungan dengan seekor babi hingga menghasilkan anak,https://turnbackhoax.id/2021/01/01/salah-wanita-ini-b3rhubungan-dengan-seekor-babi-hingga-menghasilkan-anak/,0,0,-0.6,-3
+31/12/2020,foto donald trump menggendut,https://turnbackhoax.id/2020/12/31/salah-foto-donald-trump-menggendut/,0,0.6,0,3
+31/12/2020,pesan whatsapp razia stnk di seluruh wilayah indonesia,https://turnbackhoax.id/2020/12/31/salah-pesan-whatsapp-razia-stnk-di-seluruh-wilayah-indonesia/,0,1,0,5
+30/12/2020,link 3000 kfc snack bucket gratis,https://turnbackhoax.id/2020/12/30/salah-link-3000-kfc-snack-bucket-gratis/,0,0.6,0,3
+30/12/2020,ledakan di nashville disebabkan oleh serangan misil,https://turnbackhoax.id/2020/12/30/salah-ledakan-di-nashville-disebabkan-oleh-serangan-misil/,0,0,-0.8,-4
+30/12/2020,salju di mesir cuaca tidak normal,https://turnbackhoax.id/2020/12/30/salah-salju-di-mesir-cuaca-tidak-normal/,0,0.2,-0.6,-3
+30/12/2020,video keadaan rs covid wisma atlet,https://turnbackhoax.id/2020/12/30/salah-video-keadaan-rs-covid-wisma-atlet/,0,0.8,0,4
+29/12/2020,peristiwa bom bunuh diri di nashville amerika tak ada satupun media yang memberitakan,https://turnbackhoax.id/2020/12/29/salah-peristiwa-bom-bunuh-diri-di-nashville-amerika-tak-ada-satupun-media-yang-memberitakan/,0,0.6,-0.8,-4
+29/12/2020,artikel gawat mensos risma akan hapus semua blt untuk kedepannya,https://turnbackhoax.id/2020/12/29/salah-artikel-gawat-mensos-risma-akan-hapus-semua-blt-untuk-kedepannya/,0,0,-0.8,-4
+29/12/2020,haikal hassan dijemput allah petinggi fpi berkurang lagi,https://turnbackhoax.id/2020/12/29/salah-haikal-hassan-dijemput-allah-petinggi-fpi-berkurang-lagi/,0,0.6,-0.4,3
+29/12/2020,pemerintah kanada beri 2000 kepada seluruh warga kanada,https://turnbackhoax.id/2020/12/29/salah-pemerintah-kanada-beri-2-000-kepada-seluruh-warga-kanada/,0,0.4,0,2
+29/12/2020,eks gubernur jabar beri izin penggunaan lahan ptpn vii untuk markas fpi,https://turnbackhoax.id/2020/12/29/salah-eks-gubernur-jabar-beri-izin-penggunaan-lahan-ptpn-vii-untuk-markas-fpi/,0,0.8,-0.8,0
+29/12/2020,akun facebook gubernur sumatera barat irwan prayitno,https://turnbackhoax.id/2020/12/29/salah-akun-facebook-gubernur-sumatera-barat-irwan-prayitno/,0,0,0,0
+29/12/2020,video penemuan naga di tibet,https://turnbackhoax.id/2020/12/29/salah-video-penemuan-naga-di-tibet/,0,0,0,0
+29/12/2020,gelombang ke3 kuota internet free dari operator,https://turnbackhoax.id/2020/12/29/salah-gelombang-ke-3-kuota-internet-free-dari-operator/,0,1,-0.6,5
+28/12/2020,link untuk mengecek daftar kk penerima bansos rp300 ribu dki jakarta per januari 2021,https://turnbackhoax.id/2020/12/28/salah-link-untuk-mengecek-daftar-kk-penerima-bansos-rp300-ribu-dki-jakarta-per-januari-2021/,0,0.8,0,4
+28/12/2020,video wahai aparat polisi lihatlah anak ini yang merindukan kasih sayang bapaknya 6 syuhada yang di makamkan di mega mendung,https://turnbackhoax.id/2020/12/28/salah-video-wahai-aparat-polisi-lihatlah-anak-ini-yang-merindukan-kasih-sayang-bapaknya-6-syuhada-yang-di-makamkan-di-mega-mendung/,0,0.8,-1,-5
+28/12/2020,foto pangdam jaya dudung bersama bandar china,https://turnbackhoax.id/2020/12/28/salah-foto-pangdam-jaya-dudung-bersama-bandar-china/,0,0.8,-0.8,0
+28/12/2020,kata ?Çÿavatar dalam bahasa yunani berarti ?Çÿaku yahudi,https://turnbackhoax.id/2020/12/28/salah-kata-avatar-dalam-bahasa-yunani-berarti-aku-yahudi/,0,0.8,-0.6,4
+28/12/2020,tiga wanita bintang iklan jamu covid19,https://turnbackhoax.id/2020/12/28/salah-tiga-wanita-bintang-iklan-jamu-covid-19/,0,0,0,0
+28/12/2020,tunggakan bpjs kesehatan lunas hanya dengan bayar 6 bulan,https://turnbackhoax.id/2020/12/28/salah-tunggakan-bpjs-kesehatan-lunas-hanya-dengan-bayar-6-bulan/,0,0.8,-0.8,0
+28/12/2020,robby purba meninggal dunia,https://turnbackhoax.id/2020/12/28/salah-robby-purba-meninggal-dunia/,0,1,-0.2,5
+28/12/2020,larangan mengikuti natal di kabupaten landak kalimantan barat,https://turnbackhoax.id/2020/12/28/salah-larangan-mengikuti-natal-di-kabupaten-landak-kalimantan-barat/,0,0.6,0,3
+28/12/2020,6 ormas ini resmi dibubarkan pemerintah,https://turnbackhoax.id/2020/12/28/salah-6-ormas-ini-resmi-dibubarkan-pemerintah-2/,0,0.8,-0.6,4
+28/12/2020,gejala demensia tidak bisa melihat lingkaran pada gambar,https://turnbackhoax.id/2020/12/28/salah-gejala-demensia-tidak-bisa-melihat-lingkaran-pada-gambar/,0,0.8,-0.8,0
+28/12/2020,viral bocah papua ini lantunkan alquran dengan sangat merdu,https://turnbackhoax.id/2020/12/28/salah-viral-bocah-papua-ini-lantunkan-alquran-dengan-sangat-merdu/,0,0.8,0,4
+28/12/2020,wawancara mengenai rahasia sukses bill gates,https://turnbackhoax.id/2020/12/28/salah-wawancara-mengenai-rahasia-sukses-bill-gates/,0,0.8,-0.2,4
+28/12/2020,kasus penembakan yang menewaskan 6 orang anggota fpi dibawa ke mahkamah internasional,https://turnbackhoax.id/2020/12/28/salah-kasus-penembakan-yang-menewaskan-6-orang-anggota-fpi-dibawa-ke-mahkamah-internasional/,0,0,-0.6,-3
+28/12/2020,bupati bojonegoro dr hj anna muawanah terpapar covid19,https://turnbackhoax.id/2020/12/28/salah-bupati-bojonegoro-dr-hj-anna-muawanah-terpapar-covid-19/,0,0,0,0
+28/12/2020,gubernur riau dikabarkan dilarikan ke icu rsud arifin ahmad,https://turnbackhoax.id/2020/12/28/salah-gubernur-riau-dikabarkan-dilarikan-ke-icu-rsud-arifin-ahmad/,0,0,0,0
+28/12/2020,wakil bupati banggai berniat menyumbang dana pada pondok pesantren untuk renovasi,https://turnbackhoax.id/2020/12/28/salah-wakil-bupati-banggai-berniat-menyumbang-dana-pada-pondok-pesantren-untuk-renovasi/,0,0.6,-0.8,-4
+28/12/2020,komnas ham dan ipw beberkan bukti baru ada rumah tempat exekusi laskar,https://turnbackhoax.id/2020/12/28/salah-komnas-ham-dan-ipw-beberkan-bukti-baru-ada-rumah-tempat-exekusi-laskar/,0,0.8,-1,-5
+27/12/2020,foto tentara inggris dan jerman bermain sepak bola saat gencatan senjata natal 1914,https://turnbackhoax.id/2020/12/27/salah-foto-tentara-inggris-dan-jerman-bermain-sepak-bola-saat-gencatan-senjata-natal-1914/,0,0.6,-0.6,0
+27/12/2020,mantan pm jepang minta maaf karena pakai uang jokowi untuk pesta makan malam,https://turnbackhoax.id/2020/12/27/salah-mantan-pm-jepang-minta-maaf-karena-pakai-uang-jokowi-untuk-pesta-makan-malam/,0,0.8,-0.8,0
+26/12/2020,jokowi hari ini tolak di suntik vaksin covid19 duluan,https://turnbackhoax.id/2020/12/26/salah-jokowi-hari-ini-tolak-di-suntik-vaksin-covid-19-duluan/,0,0.2,-0.4,-2
+26/12/2020,akun facebook bupati ciamis herdiat sunarya meminta sejumlah dana,https://turnbackhoax.id/2020/12/26/salah-akun-facebook-bupati-ciamis-herdiat-sunarya-meminta-sejumlah-dana/,0,0.6,0,3
+26/12/2020,situs informasi pengecekan dana bantuan oleh bpjs,https://turnbackhoax.id/2020/12/26/salah-situs-informasi-pengecekan-dana-bantuan-oleh-bpjs/,0,0.6,0,3
+26/12/2020,video di malaysia hrs mendapat penghargaan,https://turnbackhoax.id/2020/12/26/salah-video-di-malaysia-hrs-mendapat-penghargaan/,0,0.8,0,4
+26/12/2020,corona varian baru tidak terdeteksi pcr,https://turnbackhoax.id/2020/12/26/salah-corona-varian-baru-tidak-terdeteksi-pcr/,0,0.4,-0.6,-3
+26/12/2020,rekrutmen kerja staf lab vaksin oleh rsu mulia hati,https://turnbackhoax.id/2020/12/26/salah-rekrutmen-kerja-staf-lab-vaksin-oleh-rsu-mulia-hati/,0,0.8,0,4
+26/12/2020,komisioner komnas ham beka ulung hapsara menyatakan penembakan 6 laskar fpi tidak melanggar ham,https://turnbackhoax.id/2020/12/26/salah-komisioner-komnas-ham-beka-ulung-hapsara-menyatakan-penembakan-6-laskar-fpi-tidak-melanggar-ham/,0,0.8,-0.6,4
+25/12/2020,belajar tatap muka resmi januari 2021 anak wajib swab test sebelum sekolah,https://turnbackhoax.id/2020/12/25/salah-belajar-tatap-muka-resmi-januari-2021-anak-wajib-swab-test-sebelum-sekolah/,0,0.8,-0.6,4
+25/12/2020,orang yang shalat aman dari corona,https://turnbackhoax.id/2020/12/25/salah-orang-yang-shalat-aman-dari-corona/,0,0.8,-0.6,4
+25/12/2020,rumah sakit di lockdown karena pasien vaksin covid pertama mulai makan pasien lain,https://turnbackhoax.id/2020/12/25/salah-rumah-sakit-di-lockdown-karena-pasien-vaksin-covid-pertama-mulai-makan-pasien-lain/,0,0.8,-0.8,0
+25/12/2020,anggota fpi mengamuk di kantor bpr adipura santosa solo,https://turnbackhoax.id/2020/12/25/salah-anggota-fpi-mengamuk-di-kantor-bpr-adipura-santosa-solo/,0,0.4,-0.8,-4
+24/12/2020,gelombang ke2 kuota internet free dari operator sebesar 50 gb,https://turnbackhoax.id/2020/12/24/salah-gelombang-ke-2-kuota-internet-free-dari-operator-sebesar-50-gb/,0,1,-0.6,5
+24/12/2020,purworejo lockdown mulai tanggal 24 desember 2020,https://turnbackhoax.id/2020/12/24/salah-purworejo-lockdown-mulai-tanggal-24-desember-2020/,0,0.8,-0.8,0
+24/12/2020,uang tutup mulut rp100 juta untuk keluarga korban anggota fpi yang tewas,https://turnbackhoax.id/2020/12/24/salah-uang-tutup-mulut-rp100-juta-untuk-keluarga-korban-anggota-fpi-yang-tewas/,0,0.8,-0.8,0
+24/12/2020,vaksin covid19 buatan pfizer berbentuk vape,https://turnbackhoax.id/2020/12/24/salah-vaksin-covid-19-buatan-pfizer-berbentuk-vape/,0,0.8,-0.4,4
+24/12/2020,fadli zon kalau habib rizieq dipenjara saya mundur dari dpr saja,https://turnbackhoax.id/2020/12/24/salah-fadli-zon-kalau-habib-rizieq-dipenjara-saya-mundur-dari-dpr-saja/,0,0.6,-1,-5
+24/12/2020,negara cina buat kantor polisi di indonesia,https://turnbackhoax.id/2020/12/24/salah-negara-cina-buat-kantor-polisi-di-indonesia/,0,0.4,0,2
+24/12/2020,foto longsor di kapung grobogan jawa tengah,https://turnbackhoax.id/2020/12/24/salah-foto-longsor-di-kapung-grobogan-jawa-tengah/,0,0.6,0,3
+23/12/2020,akun facebook wakil bupati terpilih lampung tengah ardito wijaya,https://turnbackhoax.id/2020/12/23/salah-akun-facebook-wakil-bupati-terpilih-lampung-tengah-ardito-wijaya/,0,0.6,0,3
+23/12/2020,landasan pacu bandara dubai dihiasi dengan pohon natal,https://turnbackhoax.id/2020/12/23/salah-landasan-pacu-bandara-dubai-dihiasi-dengan-pohon-natal/,0,0.2,-0.6,-3
+23/12/2020,syarat vaksin gratis jokowi bpjs kesehatan anda harus aktif,https://turnbackhoax.id/2020/12/23/salah-syarat-vaksin-gratis-jokowi-bpjs-kesehatan-anda-harus-aktif/,0,0.6,-0.8,-4
+23/12/2020,foto demonstrasi di paris prancis,https://turnbackhoax.id/2020/12/23/salah-foto-demonstrasi-di-paris-prancis/,0,0.6,-1,-5
+23/12/2020,relawan alami gangguan saraf setelah disuntik vaksin sinovac,https://turnbackhoax.id/2020/12/23/salah-relawan-alami-gangguan-saraf-setelah-disuntik-vaksin-sinovac/,0,0.2,-0.8,-4
+23/12/2020,tak hanya jerman turki pun akan datangi markas fpi,https://turnbackhoax.id/2020/12/23/salah-tak-hanya-jerman-turki-pun-akan-datangi-markas-fpi/,0,0.8,-0.6,4
+22/12/2020,untuk pertama kalinya pohon natal di pasang di halaman istana negara indonesia,https://turnbackhoax.id/2020/12/22/salah-untuk-pertama-kalinya-pohon-natal-di-pasang-di-halaman-istana-negara-indonesia/,0,0.6,-0.6,0
+22/12/2020,tak dapat bansos keluarga ilma kerap makan tepung goreng,https://turnbackhoax.id/2020/12/22/salah-tak-dapat-bansos-keluarga-ilma-kerap-makan-tepung-goreng/,0,1,-0.6,5
+22/12/2020,video kehidupan keras penduduk asli hutan amazon,https://turnbackhoax.id/2020/12/22/salah-video-kehidupan-keras-penduduk-asli-hutan-amazon/,0,0.8,-0.6,4
+22/12/2020,akun whatsapp wakil walikota malang meminta transfer sejumlah dana,https://turnbackhoax.id/2020/12/22/salah-akun-whatsapp-wakil-walikota-malang-meminta-transfer-sejumlah-dana/,0,0.6,-0.6,0
+22/12/2020,paus fransiskus mengatakan vaksin covid sekarang akan diperlukan untuk masuk surga,https://turnbackhoax.id/2020/12/22/salah-paus-fransiskus-mengatakan-vaksin-covid-sekarang-akan-diperlukan-untuk-masuk-surga/,0,1,-0.6,5
+21/12/2020,video jarum suntik menghilang saat proses vaksinasi covid19,https://turnbackhoax.id/2020/12/21/salah-video-jarum-suntik-menghilang-saat-proses-vaksinasi-covid-19/,0,0.6,-1,-5
+21/12/2020,penemuan hewan baru bermata 4 di south sudan menjadi salah satu keindahan di afrika,https://turnbackhoax.id/2020/12/21/salah-penemuan-hewan-baru-bermata-4-di-south-sudan-menjadi-salah-satu-keindahan-di-afrika/,0,0.8,-0.8,0
+21/12/2020,video vladimir putin tertawa dan menyebut trump pecundang,https://turnbackhoax.id/2020/12/21/salah-video-vladimir-putin-tertawa-dan-menyebut-trump-pecundang/,0,0.8,-0.8,0
+21/12/2020,jerman bantu bebaskan hrs,https://turnbackhoax.id/2020/12/21/salah-jerman-bantu-bebaskan-hrs/,0,0.2,0,1
+21/12/2020,jokowi akan menggunakan vaksin pfizer dan vaksin sinovac untuk masyarakat,https://turnbackhoax.id/2020/12/21/salah-jokowi-akan-menggunakan-vaksin-pfizer-dan-vaksin-sinovac-untuk-masyarakat/,0,0,0,0
+20/12/2020,pemimpin kpk baru diminta memulai penyidikan kasus anies baswedan,https://turnbackhoax.id/2020/12/20/salah-pemimpin-kpk-baru-diminta-memulai-penyidikan-kasus-anies-baswedan/,0,0,0,0
+20/12/2020,kerumunan gibran bebas hukuman karena dilindungi undangundang,https://turnbackhoax.id/2020/12/20/salah-kerumunan-gibran-bebas-hukuman-karena-dilindungi-undang-undang/,0,0,-0.8,-4
+20/12/2020,foto christiano ronaldo dengan produk insto,https://turnbackhoax.id/2020/12/20/salah-foto-christiano-ronaldo-dengan-produk-insto/,0,0.6,0,3
+20/12/2020,gunakan syal oranye rombongan umroh dilempari batu karena dikira jakmania,https://turnbackhoax.id/2020/12/20/salah-gunakan-syal-oranye-rombongan-umroh-dilempari-batu-karena-dikira-jakmania/,0,0.8,-0.8,0
+20/12/2020,kapolda metro jaya fadil di nonaktifkan,https://turnbackhoax.id/2020/12/20/salah-kapolda-metro-jaya-fadil-di-nonaktifkan/,0,1,0,5
+20/12/2020,foto polisi dengan luka bacok,https://turnbackhoax.id/2020/12/20/salah-foto-polisi-dengan-luka-bacok/,0,0.6,-0.8,-4
+20/12/2020,susi pudjiastuti akan deklarasi partai humanis indonesia,https://turnbackhoax.id/2020/12/20/salah-susi-pudjiastuti-akan-deklarasi-partai-humanis-indonesia/,0,0,-1,-5
+20/12/2020,video perawat pingsan setelah mendapat vaksin covid19 potensi genosida massal,https://turnbackhoax.id/2020/12/20/salah-video-perawat-pingsan-setelah-mendapat-vaksin-covid-19-potensi-genosida-massal/,0,0.6,-0.4,3
+20/12/2020,kebijakan lockdown dan menjaga jarak merupakan strategi untuk mencegah revolusi,https://turnbackhoax.id/2020/12/20/salah-kebijakan-lockdown-dan-menjaga-jarak-merupakan-strategi-untuk-mencegah-revolusi/,0,0.8,-0.8,0
+20/12/2020,foto bupati gowa dengan narasi lockdown tanggal 1927 desember,https://turnbackhoax.id/2020/12/20/salah-foto-bupati-gowa-dengan-narasi-lockdown-tanggal-19-27-desember/,0,0.6,-0.8,-4
+19/12/2020,foto jumat barokah?Çª sebelum jihad malakin dulu,https://turnbackhoax.id/2020/12/19/salah-foto-jumat-barokah-sebelum-jihad-malakin-dulu/,0,0.6,0,3
+19/12/2020,cristiano ronaldo masuk islam pada 8 desember 2020,https://turnbackhoax.id/2020/12/19/salah-cristiano-ronaldo-masuk-islam-pada-8-desember-2020/,0,0.2,-0.8,-4
+19/12/2020,kecelakaan kendaraan pickup di lampung,https://turnbackhoax.id/2020/12/19/salah-kecelakaan-kendaraan-pickup-di-lampung/,0,0,-0.8,-4
+18/12/2020,vaksin yang disimpan 80 derajat bukanlah vaksin melainkan agen transfeksi yang dapat memanipulasi genetika manusia,https://turnbackhoax.id/2020/12/18/salah-vaksin-yang-disimpan-80-derajat-bukanlah-vaksin-melainkan-agen-transfeksi-yang-dapat-memanipulasi-genetika-manusia/,0,0.8,-1,-5
+18/12/2020,gedunggedung pencakar langit menembus awan dubai uea,https://turnbackhoax.id/2020/12/18/salah-gedung-gedung-pencakar-langit-menembus-awan-dubai-uea/,0,0,0,0
+18/12/2020,singapura membuka vaccine tourism dan melakukan vaksinasi di bandara changi,https://turnbackhoax.id/2020/12/18/salah-singapura-membuka-vaccine-tourism-dan-melakukan-vaksinasi-di-bandara-changi/,0,0,0,0
+18/12/2020,foto pascabanjir di kulawi pada 16 desember 2020,https://turnbackhoax.id/2020/12/18/salah-foto-pasca-banjir-di-kulawi-pada-16-desember-2020/,0,0.6,-0.8,-4
+18/12/2020,rombongan koruptor tak satupun yang diborgol,https://turnbackhoax.id/2020/12/18/salah-rombongan-koruptor-tak-satupun-yang-diborgol/,0,0,-0.6,-3
+18/12/2020,pesan grup whatsapp to firdaus we ascend atau ke surga kita pergi,https://turnbackhoax.id/2020/12/18/salah-pesan-grup-whatsapp-to-firdaus-we-ascend-atau-ke-surga-kita-pergi/,0,1,-0.8,5
+18/12/2020,foto joe biden xi jinping dan kamala harris di cover majalah time,https://turnbackhoax.id/2020/12/18/salah-foto-joe-biden-xi-jinping-dan-kamala-harris-di-cover-majalah-time/,0,0.6,0,3
+18/12/2020,din syamsuddin sampaikan pidato pelanggaran ham indonesia di majelis pbb,https://turnbackhoax.id/2020/12/18/salah-din-syamsuddin-sampaikan-pidato-pelanggaran-ham-indonesia-di-majelis-pbb/,0,0,-0.6,-3
+18/12/2020,akun ormas muhammadiyah diblokir fb,https://turnbackhoax.id/2020/12/18/salah-akun-ormas-muhammadiyah-diblokir-fb/,0,0,0,0
+17/12/2020,tulisan boss jne di akun instagram nya hannykristianto,https://turnbackhoax.id/2020/12/17/salah-tulisan-boss-jne-di-akun-instagram-nya-hannykristianto/,0,0,0,0
+17/12/2020,foto 4 orang alami kelumpuhan wajah setelah disuntik vaksin corona,https://turnbackhoax.id/2020/12/17/salah-foto-4-orang-alami-kelumpuhan-wajah-setelah-disuntik-vaksin-corona/,0,0.6,-0.8,-4
+17/12/2020,klaster supermarket sendys 28 pegawai dan pemilik swab,https://turnbackhoax.id/2020/12/17/salah-klaster-supermarket-sendys-28-pegawai-dan-pemilik-swab/,0,0.8,0,4
+17/12/2020,perang antara tka dan tki di morosi,https://turnbackhoax.id/2020/12/17/salah-perang-antara-tka-dan-tki-di-morosi/,0,0,-0.8,-4
+17/12/2020,kota manado zona hitam covid19,https://turnbackhoax.id/2020/12/17/salah-kota-manado-zona-hitam-covid-19/,0,0,-0.6,-3
+17/12/2020,kandungan formaldehida pada vaksin menyebabkan leukimia pada anak,https://turnbackhoax.id/2020/12/17/salah-kandungan-formaldehida-pada-vaksin-menyebabkan-leukimia-pada-anak/,0,0,-0.8,-4
+17/12/2020,pemantauan aktivitas telepon seluler dan media sosial oleh bssn,https://turnbackhoax.id/2020/12/17/salah-pemantauan-aktivitas-telepon-seluler-dan-media-sosial-oleh-bssn/,0,0.8,0,4
+16/12/2020,bpkb masuk syarat pencairan bsu kementerian agama,https://turnbackhoax.id/2020/12/16/salah-bpkb-masuk-syarat-pencairan-bsu-kementerian-agama/,0,0,-1,-5
+16/12/2020,jejak tapak kaki nabi adam,https://turnbackhoax.id/2020/12/16/salah-jejak-tapak-kaki-nabi-adam/,0,0.4,0,2
+15/12/2020,kapolda metro jaya pengecut dia diburu komnas ham untuk diperiksa namun lari dan menolak untuk diperiksa,https://turnbackhoax.id/2020/12/15/salah-kapolda-metro-jaya-pengecut-dia-diburu-komnas-ham-untuk-diperiksa-namun-lari-dan-menolak-untuk-diperiksa/,0,0.8,-1,-5
+15/12/2020,video pria ditinggal nikah setelah pacaran 5 tahun,https://turnbackhoax.id/2020/12/15/salah-video-pria-ditinggal-nikah-setelah-pacaran-5-tahun/,0,0.2,-0.6,-3
+15/12/2020,foto bos jne bersama rizieq shihab,https://turnbackhoax.id/2020/12/15/salah-foto-bos-jne-bersama-rizieq-shihab/,0,0.6,0,3
+15/12/2020,prabowo pose dua jari untuk pilkada bontang,https://turnbackhoax.id/2020/12/15/salah-prabowo-pose-dua-jari-untuk-pilkada-bontang/,0,0.8,-0.8,0
+15/12/2020,idi tolak yg pertama dpt vaksin sinovac china,https://turnbackhoax.id/2020/12/15/salah-idi-tolak-yg-pertama-dpt-vaksin-sinovac-china/,0,0,-0.4,-2
+15/12/2020,44 orang tenaga kesehatan positif covid di rs tipe b parepare,https://turnbackhoax.id/2020/12/15/salah-44-orang-tenaga-kesehatan-positif-covid-di-rs-tipe-b-parepare/,0,0.8,0,4
+15/12/2020,foto keluarga ceo biontech,https://turnbackhoax.id/2020/12/15/salah-foto-keluarga-ceo-biontech/,0,0.8,0,4
+15/12/2020,video hewan purbakala yang hanya nampak di film?? kini di temukan di lereng gunung lawuh magetan,https://turnbackhoax.id/2020/12/15/salah-video-hewan-purbakala-yang-hanya-nampak-di-film%c2%b2-kini-di-temukan-di-lereng-gunung-lawuh-magetan/,0,0.4,-0.8,-4
+15/12/2020,video puisi gus mus allahu akbar,https://turnbackhoax.id/2020/12/15/salah-video-puisi-gus-mus-allahu-akbar/,0,0,-0.6,-3
+14/12/2020,6 ormas ini resmi dibubarkan pemerintah,https://turnbackhoax.id/2020/12/14/salah-6-ormas-ini-resmi-dibubarkan-pemerintah/,0,0.8,-0.6,4
+14/12/2020,imbauan kapolresta solo tentang karantina bagi pendatang mulai tanggal 15 desember 2020,https://turnbackhoax.id/2020/12/14/salah-imbauan-kapolresta-solo-tentang-karantina-bagi-pendatang-mulai-tanggal-15-desember-2020/,0,0.8,-0.8,0
+14/12/2020,ustaz abdul somad dan ustaz tengku zulkarnain mengundurkan diri sebagai ulama,https://turnbackhoax.id/2020/12/14/salah-ustaz-abdul-somad-dan-ustaz-tengku-zulkarnain-mengundurkan-diri-sebagai-ulama/,0,0.8,-1,-5
+14/12/2020,akun whatsapp ketua dprd tangsel abdul rasyid,https://turnbackhoax.id/2020/12/14/salah-akun-whatsapp-ketua-dprd-tangsel-abdul-rasyid/,0,0.6,0,3
+14/12/2020,himbauan bpk kapolresta malang siapapun yg bukan orang malang klo ada yg masuk ke kota akan dikarantina selama 14 hri,https://turnbackhoax.id/2020/12/14/salah-himbauan-bpk-kapolresta-malang-siapapun-yg-bukan-orang-malang-klo-ada-yg-masuk-ke-kota-akan-dikarantina-selama-14-hri/,0,0.8,-0.6,4
+14/12/2020,responsif soal fpi komnas ham diam terhadap kasus terorisme di sigi,https://turnbackhoax.id/2020/12/14/salah-responsif-soal-fpi-komnas-ham-diam-terhadap-kasus-terorisme-di-sigi/,0,0,-0.8,-4
+13/12/2020,video konvoi kemenangan plat ad tidak patuhi protokol kesehatan,https://turnbackhoax.id/2020/12/13/salah-video-konvoi-kemenangan-plat-ad-tidak-patuhi-protokol-kesehatan/,0,0.8,-0.6,4
+13/12/2020,bunga raja di gunung himalaya mekar 400 tahun sekali,https://turnbackhoax.id/2020/12/13/salah-bunga-raja-di-gunung-himalaya-mekar-400-tahun-sekali/,0,0.8,0,4
+13/12/2020,lowongan kerja pt astra daihatsu motor,https://turnbackhoax.id/2020/12/13/salah-lowongan-kerja-pt-astra-daihatsu-motor/,0,0.2,0,1
+13/12/2020,kapolda metro laskar fpi rampas pistol polisi untuk tembak polisi,https://turnbackhoax.id/2020/12/13/salah-kapolda-metro-laskar-fpi-rampas-pistol-polisi-untuk-tembak-polisi/,0,0,-1,-5
+13/12/2020,foto buronan akhir nya dikerangkeng berawal 212 berakhir 1212,https://turnbackhoax.id/2020/12/13/salah-foto-buronan-akhir-nya-dikerangkeng-berawal-212-berakhir-1212/,0,0.6,-0.8,-4
+13/12/2020,prabowo mengundurkan diri dari jabatannya,https://turnbackhoax.id/2020/12/13/salah-prabowo-mengundurkan-diri-dari-jabatannya/,0,0,-0.6,-3
+13/12/2020,konsumsi campuran air kelapa jeruk nipis garam dan madu dapat menyembuhkan covid19,https://turnbackhoax.id/2020/12/13/salah-konsumsi-campuran-air-kelapa-jeruk-nipis-garam-dan-madu-dapat-menyembuhkan-covid-19/,0,0.6,0,3
+13/12/2020,satu rt di ciracas terkena covid19,https://turnbackhoax.id/2020/12/13/salah-satu-rt-di-ciracas-terkena-covid-19/,0,0.6,0,3
+13/12/2020,kaca pos lantas perbaungan ditembak otk,https://turnbackhoax.id/2020/12/13/salah-kaca-pos-lantas-perbaungan-ditembak-otk/,0,0,0,0
+13/12/2020,muhammad rizieq bin husein syihab tidak ditahan,https://turnbackhoax.id/2020/12/13/salah-muhammad-rizieq-bin-husein-syihab-tidak-ditahan/,0,0,-0.6,-3
+13/12/2020,video banjir bandang di sampang madura pada 10 desember 2020,https://turnbackhoax.id/2020/12/13/salah-video-banjir-bandang-di-sampang-madura-pada-10-desember-2020/,0,0,-0.8,-4
+13/12/2020,pendaftaran relawan covid19 di wisma atlet,https://turnbackhoax.id/2020/12/13/salah-pendaftaran-relawan-covid-19-di-wisma-atlet/,0,0.8,0,4
+13/12/2020,foto pemerintah sudah launching 2 mobil esemka terbaru series jowi warna hitam elegan,https://turnbackhoax.id/2020/12/13/salah-foto-pemerintah-sudah-launching-2-mobil-esemka-terbaru-series-j-owi-warna-hitam-elegan/,0,0.8,-0.6,4
+12/12/2020,gibran wali kota termuda seindonesia,https://turnbackhoax.id/2020/12/12/salah-gibran-wali-kota-termuda-se-indonesia/,0,0,-0.2,-1
+12/12/2020,foto pendaratan di bulan dari deep web,https://turnbackhoax.id/2020/12/12/salah-foto-pendaratan-di-bulan-dari-deep-web/,0,0.8,-0.6,4
+12/12/2020,video perayaan kemenangan gibran di pilkada solo,https://turnbackhoax.id/2020/12/12/salah-video-perayaan-kemenangan-gibran-di-pilkada-solo/,0,0.8,0,4
+12/12/2020,tanda kemenangan dari alam untuk paslon no 2 pilkada jember 2020,https://turnbackhoax.id/2020/12/12/salah-tanda-kemenangan-dari-alam-untuk-paslon-no-2-pilkada-jember-2020/,0,0.8,-0.6,4
+12/12/2020,kondom halal mengandung air zamzam dijamin barokah m pun bebas godaan syetan sudah halal mui,https://turnbackhoax.id/2020/12/12/salah-kondom-halal-mengandung-air-zam-zam-dijamin-barokah-m-pun-bebas-godaan-syetan-sudah-halal-mui/,0,0.6,-0.8,-4
+12/12/2020,baju fadli zon bertuliskan jubir fpi,https://turnbackhoax.id/2020/12/12/salah-baju-fadli-zon-bertuliskan-jubir-fpi/,0,0.4,0,2
+12/12/2020,surat permohonan dana bantuan kegiatan pembersihan drainase dan aliran kali oleh sekot kendari,https://turnbackhoax.id/2020/12/12/salah-surat-permohonan-dana-bantuan-kegiatan-pembersihan-drainase-dan-aliran-kali-oleh-sekot-kendari/,0,0.8,0,4
+12/12/2020,foto biar 72 bidadari dibagi rata keenam laskar fpi,https://turnbackhoax.id/2020/12/12/salah-foto-biar-72-bidadari-dibagi-rata-keenam-laskar-fpi/,0,0.6,0,3
+12/12/2020,ketua tim peneliti pfizer vaksin covid19 dapat menyebabkan kemandulan bagi perempuan,https://turnbackhoax.id/2020/12/12/salah-ketua-tim-peneliti-pfizer-vaksin-covid-19-dapat-menyebabkan-kemandulan-bagi-perempuan/,0,0.6,-0.6,0
+12/12/2020,telapak kaki relawan melepuh efek samping suntik vaksin covid19,https://turnbackhoax.id/2020/12/12/salah-telapak-kaki-relawan-melepuh-efek-samping-suntik-vaksin-covid-19/,0,0.6,-0.6,0
+12/12/2020,surat kepala bkn tentang pedoman pengangkatan tenaga honorer kategori ii formasi ta 2019 2020 menjadi cpns,https://turnbackhoax.id/2020/12/12/salah-surat-kepala-bkn-tentang-pedoman-pengangkatan-tenaga-honorer-kategori-ii-formasi-ta-2019-2020-menjadi-cpns/,0,0.6,-0.8,-4
+11/12/2020,video mensos juliari bantu kampanye paslon pilkada surabaya,https://turnbackhoax.id/2020/12/11/salah-video-mensos-juliari-bantu-kampanye-paslon-pilkada-surabaya/,0,0.6,0,3
+11/12/2020,covid19 merupakan buatan manusia sebagai senjata biologis dari carolina utara amerika serikat dan pasien nol bernama maatje benassi,https://turnbackhoax.id/2020/12/11/salah-covid-19-merupakan-buatan-manusia-sebagai-senjata-biologis-dari-carolina-utara-amerika-serikat-dan-pasien-nol-bernama-maatje-benassi/,0,0.6,-1,-5
+11/12/2020,fpi surabaya resmi bubar,https://turnbackhoax.id/2020/12/11/salah-fpi-surabaya-resmi-bubar/,0,0.8,0,4
+11/12/2020,surat perintah penyidikan kpk terhadap menteri bumn,https://turnbackhoax.id/2020/12/11/salah-surat-perintah-penyidikan-kpk-terhadap-menteri-bumn/,0,0,-0.4,-2
+11/12/2020,artikel detiknews berjudul viral?Çª hacker membocorkan percakapan whatsapp perihal upaya pembunuhan hrs oleh anggota kepolisian,https://turnbackhoax.id/2020/12/11/salah-artikel-detiknews-berjudul-viral-hacker-membocorkan-percakapan-whatsapp-perihal-upaya-pembunuhan-hrs-oleh-anggota-kepolisian/,0,0.6,-1,-5
+11/12/2020,awan berbentuk angka 2 di depok jelang pilkada 2020,https://turnbackhoax.id/2020/12/11/salah-awan-berbentuk-angka-2-di-depok-jelang-pilkada-2020/,0,0.8,0,4
+11/12/2020,akhyar nasution menang telak atas bobby nasution,https://turnbackhoax.id/2020/12/11/salah-akhyar-nasution-menang-telak-atas-bobby-nasution/,0,0.8,-0.6,4
+11/12/2020,jangan datang ke jalan melong cikawao karena satu rt positif covid19,https://turnbackhoax.id/2020/12/11/salah-jangan-datang-ke-jalan-melong-cikawao-karena-satu-rt-positif-covid-19/,0,0.8,-1,-5
+10/12/2020,akun twitter badan intel negara badanintelegent,https://turnbackhoax.id/2020/12/10/salah-akun-twitter-badan-intel-negara-badanintelegent/,0,0,-0.6,-3
+10/12/2020,foto ternyata ahmad taufan damanik ketua komnas ham boneka cendana,https://turnbackhoax.id/2020/12/10/salah-foto-ternyata-ahmad-taufan-damanik-ketua-komnas-ham-boneka-cendana/,0,0.6,0,3
+10/12/2020,keturunan tiongkok dilarang jadi polisi,https://turnbackhoax.id/2020/12/10/salah-keturunan-tiongkok-dilarang-jadi-polisi/,0,1,-0.8,5
+10/12/2020,ke 4 pengikut rizieq shihab yang kabur tadi malam kini telah ditemukan tergeletak di tengah jalan,https://turnbackhoax.id/2020/12/10/salah-ke-4-pengikut-rizieq-shihab-yang-kabur-tadi-malam-kini-telah-ditemukan-tergeletak-di-tengah-jalan/,0,0.6,-0.8,-4
+10/12/2020,kpk lakukan ott seorang dokter gigi di surabaya berkaitan dengan pilkada 2020,https://turnbackhoax.id/2020/12/10/salah-kpk-lakukan-ott-seorang-dokter-gigi-di-surabaya-berkaitan-dengan-pilkada-2020/,0,0.6,0,3
+10/12/2020,surat suara pilkada 2020 yang dicoretcoret,https://turnbackhoax.id/2020/12/10/salah-surat-suara-pilkada-2020-yang-dicoret-coret/,0,0.2,-0.6,-3
+10/12/2020,starbucks menyediakan 2000 limited starbucks thermo flask untuk semua orang,https://turnbackhoax.id/2020/12/10/salah-starbucks-menyediakan-2000-limited-starbucks-thermo-flask-untuk-semua-orang/,0,1,-0.6,5
+10/12/2020,cover majalah tempo berjudul sang dalang perusak bhinneka,https://turnbackhoax.id/2020/12/10/salah-cover-majalah-tempo-berjudul-sang-dalang-perusak-bhinneka/,0,0.6,-0.8,-4
+10/12/2020,sidak masker di wilayah kabupaten jepara hingga 31 desember 2020,https://turnbackhoax.id/2020/12/10/salah-sidak-masker-di-wilayah-kabupaten-jepara-hingga-31-desember-2020/,0,0,0,0
+10/12/2020,video anggota tim sukses minta bantuan paranormal jelang pilkada,https://turnbackhoax.id/2020/12/10/salah-video-anggota-tim-sukes-minta-bantuan-paranormal-jelang-pilkada/,0,0.8,-0.6,4
+10/12/2020,pesan berantai video suasana petamburan saat ini jam 549,https://turnbackhoax.id/2020/12/10/salah-pesan-berantai-video-suasana-petamburan-saat-ini-jam-549/,0,1,0,5
+9/12/2020,foto inilah salah satu jenazah para pahlawan pengawal hrs,https://turnbackhoax.id/2020/12/09/salah-foto-inilah-salah-satu-jenazah-para-pahlawan-pengawal-hrs/,0,0.6,-0.8,-4
+9/12/2020,akun whatsapp anggota dpd ri fahira idris meminta sejumlah dana,https://turnbackhoax.id/2020/12/09/salah-akun-whatsapp-anggota-dpd-ri-fahira-idris-meminta-sejumlah-dana/,0,0.6,-0.4,3
+9/12/2020,akun facebook bupati bogor ade yasin,https://turnbackhoax.id/2020/12/09/salah-akun-facebook-bupati-bogor-ade-yasin/,0,0,0,0

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contoh if-else di HTML dan JavaScript</title>
+	<script>
+		function checkNumber() {
+			var number = document.getElementById("input-number").value;
+			if (number > 0) {
+				document.getElementById("result").innerHTML = "Angka yang dimasukkan adalah positif";
+			} else {
+				document.getElementById("result").innerHTML = "Angka yang dimasukkan adalah negatif atau nol";
+			}
+		}
+	</script>
+</head>
+<body>
+	<h1>Contoh if-else di HTML dan JavaScript</h1>
+	<label for="input-number">Masukkan sebuah angka:</label>
+	<input type="number" id="input-number">
+	<button onclick="checkNumber()">Cek</button>
+	<p id="result"></p>
+
+
+</body>
+</html>
+
+
+
+
